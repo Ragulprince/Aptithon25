@@ -1,0 +1,5944 @@
+{
+    "1": [
+        {
+            "S.No": 1.0,
+            "Reg. No": 61781922102011.0,
+            "Student Name": "ARUNKARTHIKEYAN B",
+            "Class": "III - B.E CSE A",
+            "Mobile No": 8807999764,
+            "Faculty": "SRA"
+        },
+        {
+            "S.No": 2.0,
+            "Reg. No": 61781922102012.0,
+            "Student Name": "ARVINTH M",
+            "Class": "III - B.E CSE A",
+            "Mobile No": 9080795360,
+            "Faculty": "SRA"
+        },
+        {
+            "S.No": 3.0,
+            "Reg. No": 61781922102015.0,
+            "Student Name": "BARATH VISWAM  V M",
+            "Class": "III - B.E CSE A",
+            "Mobile No": 7604868334,
+            "Faculty": "SRA"
+        },
+        {
+            "S.No": 4.0,
+            "Reg. No": 61781922102016.0,
+            "Student Name": "BHARATH T",
+            "Class": "III - B.E CSE A",
+            "Mobile No": 9171150250,
+            "Faculty": "SRA"
+        }
+    ],
+    "2": [
+        {
+            "S.No": 5.0,
+            "Reg. No": 61781922102119.0,
+            "Student Name": "SACHIN S",
+            "Class": "III - B.E CSE C",
+            "Mobile No": 9342520647,
+            "Faculty": "PSR"
+        },
+        {
+            "S.No": 6.0,
+            "Reg. No": 61781922102145.0,
+            "Student Name": "SIVAPRAKASH R K",
+            "Class": "III - B.E CSE C",
+            "Mobile No": 9442865042,
+            "Faculty": "PSR"
+        },
+        {
+            "S.No": 7.0,
+            "Reg. No": 61781922102176.0,
+            "Student Name": "VEDAPRAKASH S",
+            "Class": "III - B.E CSE D",
+            "Mobile No": 7806854324,
+            "Faculty": "RBA"
+        },
+        {
+            "S.No": 8.0,
+            "Reg. No": 61781922102066.0,
+            "Student Name": "KREESHAB P",
+            "Class": "III - B.E CSE B",
+            "Mobile No": 9360757400,
+            "Faculty": "MSK"
+        }
+    ],
+    "3": [
+        {
+            "S.No": 9.0,
+            "Reg. No": 61781922102170.0,
+            "Student Name": "TIRUMURUGAA R S",
+            "Class": "III - B.E CSE D",
+            "Mobile No": 9486829737,
+            "Faculty": "RBA"
+        },
+        {
+            "S.No": 10.0,
+            "Reg. No": 61781922102186.0,
+            "Student Name": "VINOTH J",
+            "Class": "III - B.E CSE D",
+            "Mobile No": 9345732050,
+            "Faculty": "RBA"
+        },
+        {
+            "S.No": 11.0,
+            "Reg. No": 61781922102190.0,
+            "Student Name": "VISHVA E",
+            "Class": "III - B.E CSE D",
+            "Mobile No": 9500417970,
+            "Faculty": "RBA"
+        },
+        {
+            "S.No": 12.0,
+            "Reg. No": 61781922102160.0,
+            "Student Name": "SUJJITH B A",
+            "Class": "III - B.E CSE D",
+            "Mobile No": 6382987876,
+            "Faculty": "RBA"
+        }
+    ],
+    "4": [
+        {
+            "S.No": 13.0,
+            "Reg. No": 61781922102173.0,
+            "Student Name": "VARSHINI V S",
+            "Class": "III - B.E CSE D",
+            "Mobile No": 9498841755,
+            "Faculty": "RBA"
+        },
+        {
+            "S.No": 14.0,
+            "Reg. No": 61781922102161.0,
+            "Student Name": "SURABHI S",
+            "Class": "III - B.E CSE D",
+            "Mobile No": 9385365304,
+            "Faculty": "RBA"
+        },
+        {
+            "S.No": 15.0,
+            "Reg. No": 61781922102058.0,
+            "Student Name": "KANISHMA A",
+            "Class": "III - B.E CSE B",
+            "Mobile No": 7010415224,
+            "Faculty": "MSK"
+        },
+        {
+            "S.No": 16.0,
+            "Reg. No": 61781922102090.0,
+            "Student Name": "NEGHA SHREE SP",
+            "Class": "III - B.E CSE B",
+            "Mobile No": 9944826377,
+            "Faculty": "MSK"
+        }
+    ],
+    "5": [
+        {
+            "S.No": 17.0,
+            "Reg. No": 61781922102189.0,
+            "Student Name": "VISALINI S",
+            "Class": "III - B.E CSE D",
+            "Mobile No": 9342771556,
+            "Faculty": "RBA"
+        },
+        {
+            "S.No": 18.0,
+            "Reg. No": 61781922102146.0,
+            "Student Name": "SONALI S",
+            "Class": "III - B.E CSE D",
+            "Mobile No": 9487208866,
+            "Faculty": "RBA"
+        },
+        {
+            "S.No": 19.0,
+            "Reg. No": 61781922102147.0,
+            "Student Name": "SOWMIYA B",
+            "Class": "III - B.E CSE D",
+            "Mobile No": 7448452359,
+            "Faculty": "RBA"
+        },
+        {
+            "S.No": 20.0,
+            "Reg. No": 61781922102153.0,
+            "Student Name": "SRINEVETHA M",
+            "Class": "III - B.E CSE D",
+            "Mobile No": 8838352467,
+            "Faculty": "RBA"
+        }
+    ],
+    "6": [
+        {
+            "S.No": 21.0,
+            "Reg. No": 61781922102188.0,
+            "Student Name": "VINU DEVI T",
+            "Class": "III - B.E CSE D",
+            "Mobile No": 7358804340,
+            "Faculty": "RBA"
+        },
+        {
+            "S.No": 22.0,
+            "Reg. No": 61781922102148.0,
+            "Student Name": "SREEMATHI S",
+            "Class": "III - B.E CSE D",
+            "Mobile No": 7598554167,
+            "Faculty": "RBA"
+        },
+        {
+            "S.No": 23.0,
+            "Reg. No": 61781922102155.0,
+            "Student Name": "SUBASHREE A",
+            "Class": "III - B.E CSE D",
+            "Mobile No": 6369293240,
+            "Faculty": "RBA"
+        },
+        {
+            "S.No": 24.0,
+            "Reg. No": 61781922102175.0,
+            "Student Name": "VASUDA C",
+            "Class": "III - B.E CSE D",
+            "Mobile No": 9361744277,
+            "Faculty": "RBA"
+        }
+    ],
+    "7": [
+        {
+            "S.No": 25.0,
+            "Reg. No": 61781922106068.0,
+            "Student Name": "MONIKA A",
+            "Class": "III - B.Tech IT B",
+            "Mobile No": 8838540625,
+            "Faculty": "RBA"
+        },
+        {
+            "S.No": 26.0,
+            "Reg. No": 61781922106077.0,
+            "Student Name": "NITHYA K",
+            "Class": "III - B.Tech IT B",
+            "Mobile No": 8489565808,
+            "Faculty": "RBA"
+        },
+        {
+            "S.No": 27.0,
+            "Reg. No": 61781922106081.0,
+            "Student Name": "POORNIMA K",
+            "Class": "III - B.Tech IT B",
+            "Mobile No": 8148691589,
+            "Faculty": "RBA"
+        },
+        {
+            "S.No": 28.0,
+            "Reg. No": 61781922106082.0,
+            "Student Name": "POORNIMA O",
+            "Class": "III - B.Tech IT B",
+            "Mobile No": 9345529768,
+            "Faculty": "RBA"
+        }
+    ],
+    "8": [
+        {
+            "S.No": 29.0,
+            "Reg. No": 61781922105038.0,
+            "Student Name": "LATHIKA R",
+            "Class": "III - B.E MECH B",
+            "Mobile No": 8903691085,
+            "Faculty": "CMK"
+        },
+        {
+            "S.No": 30.0,
+            "Reg. No": 61781922105097.0,
+            "Student Name": "VARUNA PRIYA G",
+            "Class": "III - B.E MECH B",
+            "Mobile No": 9360075950,
+            "Faculty": "CMK"
+        },
+        {
+            "S.No": 31.0,
+            "Reg. No": 61781922105096.0,
+            "Student Name": "THANUJA R",
+            "Class": "III - B.E MECH B",
+            "Mobile No": 6381462791,
+            "Faculty": "CMK"
+        },
+        {
+            "S.No": 32.0,
+            "Reg. No": 61781922105050.0,
+            "Student Name": "MEENALOSHINI A",
+            "Class": "III - B.E MECH B",
+            "Mobile No": 9585196789,
+            "Faculty": "CMK"
+        }
+    ],
+    "9": [
+        {
+            "S.No": 33.0,
+            "Reg. No": 61781922103070.0,
+            "Student Name": "MATHUNITHAA P L S",
+            "Class": "III - B.E ECE C",
+            "Mobile No": 8778091720,
+            "Faculty": "CMK"
+        },
+        {
+            "S.No": 34.0,
+            "Reg. No": 61781922103110.0,
+            "Student Name": "RUPIKA S",
+            "Class": "III - B.E ECE C",
+            "Mobile No": 6379151189,
+            "Faculty": "CMK"
+        },
+        {
+            "S.No": 35.0,
+            "Reg. No": 61781922103139.0,
+            "Student Name": "SUJARNA A",
+            "Class": "III - B.E ECE C",
+            "Mobile No": 8489687250,
+            "Faculty": "CMK"
+        },
+        {
+            "S.No": 36.0,
+            "Reg. No": 61781922103149.0,
+            "Student Name": "VIJAYADHARSHINI V",
+            "Class": "III - B.E ECE C",
+            "Mobile No": 9361013369,
+            "Faculty": "CMK"
+        }
+    ],
+    "10": [
+        {
+            "S.No": 37.0,
+            "Reg. No": 61781922103126.0,
+            "Student Name": "SHRINIKITHAA A",
+            "Class": "III - B.E ECE C",
+            "Mobile No": 6369945320,
+            "Faculty": "CMK"
+        },
+        {
+            "S.No": 38.0,
+            "Reg. No": 61781922103127.0,
+            "Student Name": "SINDHU S",
+            "Class": "III - B.E ECE C",
+            "Mobile No": 8248239447,
+            "Faculty": "CMK"
+        },
+        {
+            "S.No": 39.0,
+            "Reg. No": 61781922103133.0,
+            "Student Name": "SREE YALINI E",
+            "Class": "III - B.E ECE C",
+            "Mobile No": 7418918186,
+            "Faculty": "CMK"
+        },
+        {
+            "S.No": 40.0,
+            "Reg. No": 61781922103142.0,
+            "Student Name": "SUVETHA S",
+            "Class": "III - B.E ECE B",
+            "Mobile No": 9688680515,
+            "Faculty": "PSR"
+        }
+    ],
+    "11": [
+        {
+            "S.No": 41.0,
+            "Reg. No": 61781922102127.0,
+            "Student Name": "SANTHOSH P",
+            "Class": "III - B.E CSE C",
+            "Mobile No": 9345713080,
+            "Faculty": "PSR"
+        },
+        {
+            "S.No": 42.0,
+            "Reg. No": 61781922102125.0,
+            "Student Name": "SANJITH BALA P",
+            "Class": "III - B.E CSE C",
+            "Mobile No": 9791874974,
+            "Faculty": "PSR"
+        },
+        {
+            "S.No": 43.0,
+            "Reg. No": 61781922112032.0,
+            "Student Name": "NITISH M",
+            "Class": "III - B.E CSD",
+            "Mobile No": 8608516236,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 44.0,
+            "Reg. No": 61781922102114.0,
+            "Student Name": "RAMESH V",
+            "Class": "III - B.E CSE C",
+            "Mobile No": 9943233201,
+            "Faculty": "PSR"
+        }
+    ],
+    "12": [
+        {
+            "S.No": 45.0,
+            "Reg. No": 61781922102169.0,
+            "Student Name": "THISANTHAN M S",
+            "Class": "III - B.E CSE D",
+            "Mobile No": 8838270818,
+            "Faculty": "RBA"
+        },
+        {
+            "S.No": 46.0,
+            "Reg. No": 61781922102180.0,
+            "Student Name": "VIGNESH R",
+            "Class": "III - B.E CSE D",
+            "Mobile No": 9080852612,
+            "Faculty": "RBA"
+        },
+        {
+            "S.No": 47.0,
+            "Reg. No": 61781922102163.0,
+            "Student Name": "SWETHA G",
+            "Class": "III - B.E CSE D",
+            "Mobile No": 6382978650,
+            "Faculty": "RBA"
+        },
+        {
+            "S.No": 48.0,
+            "Reg. No": 61781922102150.0,
+            "Student Name": "SRIHARAN (2003) R",
+            "Class": "III - B.E CSE D",
+            "Mobile No": 8072800950,
+            "Faculty": "RBA"
+        }
+    ],
+    "13": [
+        {
+            "S.No": 49.0,
+            "Reg. No": 61781922102018.0,
+            "Student Name": "DEVESH S B",
+            "Class": "III - B.E CSE A",
+            "Mobile No": 9345973206,
+            "Faculty": "SRA"
+        },
+        {
+            "S.No": 50.0,
+            "Reg. No": 61781922102017.0,
+            "Student Name": "DARWIN PRABU P",
+            "Class": "III - B.E CSE A",
+            "Mobile No": 7598008090,
+            "Faculty": "SRA"
+        },
+        {
+            "S.No": 51.0,
+            "Reg. No": 61781922102006.0,
+            "Student Name": "AJITHKUMAR S",
+            "Class": "III - B.E CSE A",
+            "Mobile No": 9787290577,
+            "Faculty": "SRA"
+        },
+        {
+            "S.No": 52.0,
+            "Reg. No": 61781922102004.0,
+            "Student Name": "ABISHEK P",
+            "Class": "III - B.E CSE A",
+            "Mobile No": 7904727876,
+            "Faculty": "SRA"
+        }
+    ],
+    "14": [
+        {
+            "S.No": 53.0,
+            "Reg. No": 61782323105018.0,
+            "Student Name": "Devan P",
+            "Class": "II - B.E MECH A",
+            "Mobile No": 7603950510,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 54.0,
+            "Reg. No": 61782323105022.0,
+            "Student Name": "Dharshan K",
+            "Class": "II - B.E MECH A",
+            "Mobile No": 6381015770,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 55.0,
+            "Reg. No": 61782323105012.0,
+            "Student Name": "Bhavan S",
+            "Class": "II - B.E MECH A",
+            "Mobile No": 9360479218,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 56.0,
+            "Reg. No": 61782323105007.0,
+            "Student Name": "ASWATH KRISHNAA J",
+            "Class": "II - B.E MECH A",
+            "Mobile No": 8248708181,
+            "Faculty": "SUH"
+        }
+    ],
+    "15": [
+        {
+            "S.No": 57.0,
+            "Reg. No": 61782323105008.0,
+            "Student Name": "AZHAGIRI KRISHNAN",
+            "Class": "II - B.E MECH A",
+            "Mobile No": 8778704514,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 58.0,
+            "Reg. No": 61782323105004.0,
+            "Student Name": "AJAY SURYA DHANASEKAR",
+            "Class": "II - B.E MECH A",
+            "Mobile No": 7358920558,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 59.0,
+            "Reg. No": 61782323105013.0,
+            "Student Name": "BHUVANESH PASINATHAN",
+            "Class": "II - B.E MECH A",
+            "Mobile No": 6379141899,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 60.0,
+            "Reg. No": 61782323105035.0,
+            "Student Name": "GUNADHARAN AMSAM",
+            "Class": "II - B.E MECH A",
+            "Mobile No": 6369436570,
+            "Faculty": "SUH"
+        }
+    ],
+    "16": [
+        {
+            "S.No": 61.0,
+            "Reg. No": 61782323105014.0,
+            "Student Name": "CHANDRA MOULISHWARAN P",
+            "Class": "II - B.E MECH A",
+            "Mobile No": 9626671359,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 62.0,
+            "Reg. No": 61782323105023.0,
+            "Student Name": "Dhayanithi S P",
+            "Class": "II - B.E MECH A",
+            "Mobile No": 7418096479,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 63.0,
+            "Reg. No": 61782323105034.0,
+            "Student Name": "GOWTHAM S",
+            "Class": "II - B.E MECH A",
+            "Mobile No": 8807073299,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 64.0,
+            "Reg. No": 61782323105711.0,
+            "Student Name": "SATHIYADEVAN R RAVI A",
+            "Class": "II - B.E MECH A",
+            "Mobile No": 9025897947,
+            "Faculty": "SUH"
+        }
+    ],
+    "17": [
+        {
+            "S.No": 65.0,
+            "Reg. No": 61782323105026.0,
+            "Student Name": "ELAKKIYASELVAN P M",
+            "Class": "II - B.E MECH A",
+            "Mobile No": 6369614973,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 66.0,
+            "Reg. No": 61782323105036.0,
+            "Student Name": "GURUPRASATH P",
+            "Class": "II - B.E MECH A",
+            "Mobile No": 9384159709,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 67.0,
+            "Reg. No": 61782323105040.0,
+            "Student Name": "HASWANTH A",
+            "Class": "II - B.E MECH A",
+            "Mobile No": 9962152599,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 68.0,
+            "Reg. No": 61782323105028.0,
+            "Student Name": "ESMAIL A",
+            "Class": "II - B.E MECH A",
+            "Mobile No": 9150965126,
+            "Faculty": "SUH"
+        }
+    ],
+    "18": [
+        {
+            "S.No": 69.0,
+            "Reg. No": 61782323105015.0,
+            "Student Name": "DEEPADHARSAAN S S",
+            "Class": "II - B.E MECH A",
+            "Mobile No": 9790618462,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 70.0,
+            "Reg. No": 61782323105037.0,
+            "Student Name": "HARIESH J",
+            "Class": "II - B.E MECH A",
+            "Mobile No": 8122245819,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 71.0,
+            "Reg. No": 61782323105005.0,
+            "Student Name": "AJAY V",
+            "Class": "II - B.E MECH A",
+            "Mobile No": 8220090528,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 72.0,
+            "Reg. No": 61782323105024.0,
+            "Student Name": "Divij S B",
+            "Class": "II - B.E MECH A",
+            "Mobile No": 9087560045,
+            "Faculty": "SUH"
+        }
+    ],
+    "19": [
+        {
+            "S.No": 73.0,
+            "Reg. No": 61781922106071.0,
+            "Student Name": "MUKUNTHARAAJHAN A",
+            "Class": "III - B.Tech IT B",
+            "Mobile No": 6379000266,
+            "Faculty": "RBA"
+        },
+        {
+            "S.No": 74.0,
+            "Reg. No": 61781922106084.0,
+            "Student Name": "PRADEEP K M",
+            "Class": "III - B.Tech IT B",
+            "Mobile No": 8072725359,
+            "Faculty": "RBA"
+        },
+        {
+            "S.No": 75.0,
+            "Reg. No": 61781922106044.0,
+            "Student Name": "JEEVAKUMARAN S",
+            "Class": "III - B.Tech IT B",
+            "Mobile No": 6381938385,
+            "Faculty": "RBA"
+        },
+        {
+            "S.No": 76.0,
+            "Reg. No": 61781922106066.0,
+            "Student Name": "MOHAMED MUSTHABA S M",
+            "Class": "III - B.Tech IT B",
+            "Mobile No": 9087705080,
+            "Faculty": "RBA"
+        }
+    ],
+    "20": [
+        {
+            "S.No": 77.0,
+            "Reg. No": 61781922104071.0,
+            "Student Name": "Pavithra N",
+            "Class": "III - B.E EEE B",
+            "Mobile No": 8148822641,
+            "Faculty": "CMK"
+        },
+        {
+            "S.No": 78.0,
+            "Reg. No": 61781922104072.0,
+            "Student Name": "Poongodi A",
+            "Class": "III - B.E EEE B",
+            "Mobile No": 9095851052,
+            "Faculty": "CMK"
+        },
+        {
+            "S.No": 79.0,
+            "Reg. No": 61781922104067.0,
+            "Student Name": "Navya D N",
+            "Class": "III - B.E EEE B",
+            "Mobile No": 9994109278,
+            "Faculty": "CMK"
+        },
+        {
+            "S.No": 80.0,
+            "Reg. No": 61781922104069.0,
+            "Student Name": "Oviyaa B",
+            "Class": "III - B.E EEE B",
+            "Mobile No": 9360050519,
+            "Faculty": "CMK"
+        }
+    ],
+    "21": [
+        {
+            "S.No": 81.0,
+            "Reg. No": 61781922104052.0,
+            "Student Name": "Mahaswetha S P",
+            "Class": "III - B.E EEE B",
+            "Mobile No": 9342126166,
+            "Faculty": "CMK"
+        },
+        {
+            "S.No": 82.0,
+            "Reg. No": 61781922104047.0,
+            "Student Name": "Kopperundevi K",
+            "Class": "III - B.E EEE B",
+            "Mobile No": 9788720443,
+            "Faculty": "CMK"
+        },
+        {
+            "S.No": 83.0,
+            "Reg. No": 61781922104043.0,
+            "Student Name": "Kiruthika V M",
+            "Class": "III - B.E EEE B",
+            "Mobile No": 8870045410,
+            "Faculty": "CMK"
+        },
+        {
+            "S.No": 84.0,
+            "Reg. No": 61781922104023.0,
+            "Student Name": "Guruprasath M A",
+            "Class": "III - B.E EEE A",
+            "Mobile No": 9345196919,
+            "Faculty": "PM"
+        }
+    ],
+    "22": [
+        {
+            "S.No": 85.0,
+            "Reg. No": 61781922104051.0,
+            "Student Name": "Madhumitha G",
+            "Class": "III - B.E EEE B",
+            "Mobile No": 9445305252,
+            "Faculty": "CMK"
+        },
+        {
+            "S.No": 86.0,
+            "Reg. No": 61781922104042.0,
+            "Student Name": "Kiruthika G",
+            "Class": "III - B.E EEE B",
+            "Mobile No": 8248033950,
+            "Faculty": "CMK"
+        },
+        {
+            "S.No": 87.0,
+            "Reg. No": 61781922104036.0,
+            "Student Name": "Kanishkar T",
+            "Class": "III - B.E EEE A",
+            "Mobile No": 9080566878,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 88.0,
+            "Reg. No": 61781922104707.0,
+            "Student Name": "Pragadeeswaran S",
+            "Class": "III - B.E EEE B",
+            "Mobile No": 8220492378,
+            "Faculty": "CMK"
+        }
+    ],
+    "23": [
+        {
+            "S.No": 89.0,
+            "Reg. No": 61781922104056.0,
+            "Student Name": "Mohamed Shakeel Akthar S",
+            "Class": "III - B.E EEE B",
+            "Mobile No": 6384677862,
+            "Faculty": "CMK"
+        },
+        {
+            "S.No": 90.0,
+            "Reg. No": 61781922104046.0,
+            "Student Name": "Kishore M",
+            "Class": "III - B.E EEE B",
+            "Mobile No": 9092585412,
+            "Faculty": "CMK"
+        },
+        {
+            "S.No": 91.0,
+            "Reg. No": 61781922104076.0,
+            "Student Name": "Praveenkumar P",
+            "Class": "III - B.E EEE B",
+            "Mobile No": 6379557960,
+            "Faculty": "CMK"
+        },
+        {
+            "S.No": 92.0,
+            "Reg. No": 61781922104070.0,
+            "Student Name": "Pachiappan K",
+            "Class": "III - B.E EEE B",
+            "Mobile No": 9042164523,
+            "Faculty": "CMK"
+        }
+    ],
+    "24": [
+        {
+            "S.No": 93.0,
+            "Reg. No": 61781922104059.0,
+            "Student Name": "Mohammed Shuhail M",
+            "Class": "III - B.E EEE B",
+            "Mobile No": 9043019971,
+            "Faculty": "CMK"
+        },
+        {
+            "S.No": 94.0,
+            "Reg. No": 61781922104050.0,
+            "Student Name": "Lokesh R",
+            "Class": "III - B.E EEE B",
+            "Mobile No": 8667400521,
+            "Faculty": "CMK"
+        },
+        {
+            "S.No": 95.0,
+            "Reg. No": 61781922104045.0,
+            "Student Name": "Kishore Balaaji J S",
+            "Class": "III - B.E EEE B",
+            "Mobile No": 9360530519,
+            "Faculty": "CMK"
+        },
+        {
+            "S.No": 96.0,
+            "Reg. No": 61781922104055.0,
+            "Student Name": "Midhunesh Raghu S K",
+            "Class": "III - B.E EEE B",
+            "Mobile No": 9345566249,
+            "Faculty": "CMK"
+        }
+    ],
+    "25": [
+        {
+            "S.No": 97.0,
+            "Reg. No": 61781922107002.0,
+            "Student Name": "AKALYA M",
+            "Class": "III - B.Tech FT",
+            "Mobile No": 8825814284,
+            "Faculty": "CMK"
+        },
+        {
+            "S.No": 98.0,
+            "Reg. No": 61781922107028.0,
+            "Student Name": "PREETHI P",
+            "Class": "III - B.Tech FT",
+            "Mobile No": 6374530699,
+            "Faculty": "CMK"
+        },
+        {
+            "S.No": 99.0,
+            "Reg. No": 61781922107023.0,
+            "Student Name": "MALAR A S",
+            "Class": "III - B.Tech FT",
+            "Mobile No": 8807263907,
+            "Faculty": "CMK"
+        },
+        {
+            "S.No": 100.0,
+            "Reg. No": 61781922107040.0,
+            "Student Name": "SWATHI V",
+            "Class": "III - B.Tech FT",
+            "Mobile No": 8148591426,
+            "Faculty": "CMK"
+        }
+    ],
+    "26": [
+        {
+            "S.No": 101.0,
+            "Reg. No": 61781922107719.0,
+            "Student Name": "SURIYAN D",
+            "Class": "III - B.Tech FT",
+            "Mobile No": 9629462945,
+            "Faculty": "CMK"
+        },
+        {
+            "S.No": 102.0,
+            "Reg. No": 61781922107704.0,
+            "Student Name": "DODDA CHAITANYA KUMAR",
+            "Class": "III - B.Tech FT",
+            "Mobile No": 9121935082,
+            "Faculty": "CMK"
+        },
+        {
+            "S.No": 103.0,
+            "Reg. No": 61781922107705.0,
+            "Student Name": "DODDA PRASANNA KUMAR",
+            "Class": "III - B.Tech FT",
+            "Mobile No": 7036371787,
+            "Faculty": "CMK"
+        },
+        {
+            "S.No": 104.0,
+            "Reg. No": 61781922107717.0,
+            "Student Name": "SAMALA GOPI KRISHNA",
+            "Class": "III - B.Tech FT",
+            "Mobile No": 9000887829,
+            "Faculty": "CMK"
+        }
+    ],
+    "27": [
+        {
+            "S.No": 105.0,
+            "Reg. No": 61781922107714.0,
+            "Student Name": "RAMYA SRI S",
+            "Class": "III - B.Tech FT",
+            "Mobile No": 8838484262,
+            "Faculty": "CMK"
+        },
+        {
+            "S.No": 106.0,
+            "Reg. No": 61781922107033.0,
+            "Student Name": "SAHANAA T S",
+            "Class": "III - B.Tech FT",
+            "Mobile No": 7418096458,
+            "Faculty": "CMK"
+        },
+        {
+            "S.No": 107.0,
+            "Reg. No": 61781922107722.0,
+            "Student Name": "YOGESHWARI V H",
+            "Class": "III - B.Tech FT",
+            "Mobile No": 9524222990,
+            "Faculty": "CMK"
+        },
+        {
+            "S.No": 108.0,
+            "Reg. No": 61781922107030.0,
+            "Student Name": "RANJANI M S",
+            "Class": "III - B.Tech FT",
+            "Mobile No": 7604964374,
+            "Faculty": "CMK"
+        }
+    ],
+    "28": [
+        {
+            "S.No": 109.0,
+            "Reg. No": 61781922107042.0,
+            "Student Name": "THARANI S",
+            "Class": "III - B.Tech FT",
+            "Mobile No": 9597859809,
+            "Faculty": "CMK"
+        },
+        {
+            "S.No": 110.0,
+            "Reg. No": 61781922107015.0,
+            "Student Name": "KANISHKA D",
+            "Class": "III - B.Tech FT",
+            "Mobile No": 9385760507,
+            "Faculty": "CMK"
+        },
+        {
+            "S.No": 111.0,
+            "Reg. No": 61781922107019.0,
+            "Student Name": "LAKSHMI JAYAPRADHA K",
+            "Class": "III - B.Tech FT",
+            "Mobile No": 6383208807,
+            "Faculty": "CMK"
+        },
+        {
+            "S.No": 112.0,
+            "Reg. No": 61781922107009.0,
+            "Student Name": "GIRIJA S",
+            "Class": "III - B.Tech FT",
+            "Mobile No": 9080803059,
+            "Faculty": "CMK"
+        }
+    ],
+    "29": [
+        {
+            "S.No": 113.0,
+            "Reg. No": 61781922107031.0,
+            "Student Name": "RASIGASANTHY B",
+            "Class": "III - B.Tech FT",
+            "Mobile No": 9894897672,
+            "Faculty": "CMK"
+        },
+        {
+            "S.No": 114.0,
+            "Reg. No": 61781922107035.0,
+            "Student Name": "SRI PADMAHARINI B",
+            "Class": "III - B.Tech FT",
+            "Mobile No": 7448820300,
+            "Faculty": "CMK"
+        },
+        {
+            "S.No": 115.0,
+            "Reg. No": 61781922107012.0,
+            "Student Name": "INDUJA A",
+            "Class": "III - B.Tech FT",
+            "Mobile No": 8148302601,
+            "Faculty": "CMK"
+        },
+        {
+            "S.No": 116.0,
+            "Reg. No": 61781922107036.0,
+            "Student Name": "SRIJA M",
+            "Class": "III - B.Tech FT",
+            "Mobile No": 7418809231,
+            "Faculty": "CMK"
+        }
+    ],
+    "30": [
+        {
+            "S.No": 117.0,
+            "Reg. No": 61781922107007.0,
+            "Student Name": "DHARSHINI M",
+            "Class": "III - B.Tech FT",
+            "Mobile No": 7010594707,
+            "Faculty": "CMK"
+        },
+        {
+            "S.No": 118.0,
+            "Reg. No": 61781922107014.0,
+            "Student Name": "JAYASHREE S",
+            "Class": "III - B.Tech FT",
+            "Mobile No": 9080259597,
+            "Faculty": "CMK"
+        },
+        {
+            "S.No": 119.0,
+            "Reg. No": 61781922107010.0,
+            "Student Name": "GNANAPRAKASH R",
+            "Class": "III - B.Tech FT",
+            "Mobile No": 8825773919,
+            "Faculty": "CMK"
+        },
+        {
+            "S.No": 120.0,
+            "Reg. No": 61781922107022.0,
+            "Student Name": "MAHA LEKSHMI C M",
+            "Class": "III - B.Tech FT",
+            "Mobile No": 9025104493,
+            "Faculty": "CMK"
+        }
+    ],
+    "31": [
+        {
+            "S.No": 121.0,
+            "Reg. No": 61781922107003.0,
+            "Student Name": "ANUBAMA A G",
+            "Class": "III - B.Tech FT",
+            "Mobile No": 9787552271,
+            "Faculty": "CMK"
+        },
+        {
+            "S.No": 122.0,
+            "Reg. No": 61781922107005.0,
+            "Student Name": "DHANISHA SHRUTHI N S",
+            "Class": "III - B.Tech FT",
+            "Mobile No": 9025468487,
+            "Faculty": "CMK"
+        },
+        {
+            "S.No": 123.0,
+            "Reg. No": 61781922107016.0,
+            "Student Name": "KARTHIKEYANI K",
+            "Class": "III - B.Tech FT",
+            "Mobile No": 6383191696,
+            "Faculty": "CMK"
+        },
+        {
+            "S.No": 124.0,
+            "Reg. No": 61781922107041.0,
+            "Student Name": "SWEATHA V",
+            "Class": "III - B.Tech FT",
+            "Mobile No": 9600940631,
+            "Faculty": "CMK"
+        }
+    ],
+    "32": [
+        {
+            "S.No": 125.0,
+            "Reg. No": 61782323104003.0,
+            "Student Name": "AJAYKUMAR M",
+            "Class": "II - B.E EEE A",
+            "Mobile No": 6380304776,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 126.0,
+            "Reg. No": 61782323104034.0,
+            "Student Name": "JAYANTH S",
+            "Class": "II - B.E EEE A",
+            "Mobile No": 9894512349,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 127.0,
+            "Reg. No": 61782323104028.0,
+            "Student Name": "HARI VARSHAN P V",
+            "Class": "II - B.E EEE A",
+            "Mobile No": 7904222742,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 128.0,
+            "Reg. No": 61782323104038.0,
+            "Student Name": "KARTHICK M",
+            "Class": "II - B.E EEE A",
+            "Mobile No": 9025667798,
+            "Faculty": "SUH"
+        }
+    ],
+    "33": [
+        {
+            "S.No": 129.0,
+            "Reg. No": 61782323104041.0,
+            "Student Name": "KAVIBARATHI E",
+            "Class": "II - B.E EEE A",
+            "Mobile No": 9074117829,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 130.0,
+            "Reg. No": 61782323104031.0,
+            "Student Name": "JANAARATHANAN P",
+            "Class": "II - B.E EEE A",
+            "Mobile No": 8778555385,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 131.0,
+            "Reg. No": 61782323104012.0,
+            "Student Name": "DHARANISHWARAN V",
+            "Class": "II - B.E EEE A",
+            "Mobile No": 6380300660,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 132.0,
+            "Reg. No": 61782323104026.0,
+            "Student Name": "HARINI S",
+            "Class": "II - B.E EEE A",
+            "Mobile No": 9025950152,
+            "Faculty": "SUH"
+        }
+    ],
+    "34": [
+        {
+            "S.No": 133.0,
+            "Reg. No": 61782323104020.0,
+            "Student Name": "GOKUL K",
+            "Class": "II - B.E EEE A",
+            "Mobile No": 9842565755,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 134.0,
+            "Reg. No": 61782323104030.0,
+            "Student Name": "ILAYABARATHI K B",
+            "Class": "II - B.E EEE A",
+            "Mobile No": 8122790422,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 135.0,
+            "Reg. No": 61782323104023.0,
+            "Student Name": "GOPALAKRISHNAN A",
+            "Class": "II - B.E EEE A",
+            "Mobile No": 9384488259,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 136.0,
+            "Reg. No": 61782323104015.0,
+            "Student Name": "DHARUN RAJ S B",
+            "Class": "II - B.E EEE A",
+            "Mobile No": 7604881046,
+            "Faculty": "SUH"
+        }
+    ],
+    "35": [
+        {
+            "S.No": 137.0,
+            "Reg. No": 61782323104032.0,
+            "Student Name": "JANANI E",
+            "Class": "II - B.E EEE A",
+            "Mobile No": 9597415333,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 138.0,
+            "Reg. No": 61782323104009.0,
+            "Student Name": "DEVADHARSHINI R",
+            "Class": "II - B.E EEE A",
+            "Mobile No": 7339183403,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 139.0,
+            "Reg. No": 61782323104014.0,
+            "Student Name": "DHARSHINI S",
+            "Class": "II - B.E EEE A",
+            "Mobile No": 9894421824,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 140.0,
+            "Reg. No": 61782323104037.0,
+            "Student Name": "KANISKA ROSELINE A",
+            "Class": "II - B.E EEE A",
+            "Mobile No": 7806965995,
+            "Faculty": "SUH"
+        }
+    ],
+    "36": [
+        {
+            "S.No": 141.0,
+            "Reg. No": 61782323104017.0,
+            "Student Name": "DHIVYA D J",
+            "Class": "II - B.E EEE A",
+            "Mobile No": 9944879704,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 142.0,
+            "Reg. No": 61782323104018.0,
+            "Student Name": "GAYATHRI DEVI B",
+            "Class": "II - B.E EEE A",
+            "Mobile No": 9363134914,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 143.0,
+            "Reg. No": 61782323104042.0,
+            "Student Name": "KAVYA C G",
+            "Class": "II - B.E EEE A",
+            "Mobile No": 9360379950,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 144.0,
+            "Reg. No": 61782323104029.0,
+            "Student Name": "HEBA S",
+            "Class": "II - B.E EEE A",
+            "Mobile No": 9894379782,
+            "Faculty": "SUH"
+        }
+    ],
+    "37": [
+        {
+            "S.No": 145.0,
+            "Reg. No": 61782323110119.0,
+            "Student Name": "VAISHNAVI SAKTHI  J",
+            "Class": "II - B.Tech ADS C",
+            "Mobile No": 9790565991,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 146.0,
+            "Reg. No": 61782323110113.0,
+            "Student Name": "TAMILAZHAGI SA SE",
+            "Class": "II - B.Tech ADS C",
+            "Mobile No": 9360798727,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 147.0,
+            "Reg. No": 61782323110109.0,
+            "Student Name": "SUJITHA  K",
+            "Class": "II - B.Tech ADS C",
+            "Mobile No": 8778115454,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 148.0,
+            "Reg. No": 61782323110710.0,
+            "Student Name": "SNEHA  R",
+            "Class": "II - B.Tech ADS C",
+            "Mobile No": 9080085630,
+            "Faculty": "SUH"
+        }
+    ],
+    "38": [
+        {
+            "S.No": 149.0,
+            "Reg. No": 61782323102114.0,
+            "Student Name": "NIVITHAPRIYA R S",
+            "Class": "II - B.E CSE C",
+            "Mobile No": 8015977608,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 150.0,
+            "Reg. No": 61782323102136.0,
+            "Student Name": "ROOPIKA ELAYAPERUMAL ",
+            "Class": "II - B.E CSE C",
+            "Mobile No": 9342576523,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 151.0,
+            "Reg. No": 61782323102153.0,
+            "Student Name": "SHREE NIKESH R",
+            "Class": "II - B.E CSE C",
+            "Mobile No": 6383254347,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 152.0,
+            "Reg. No": 61782323102101.0,
+            "Student Name": "NAVEEN G",
+            "Class": "II - B.E CSE B",
+            "Mobile No": 8778790635,
+            "Faculty": "GMK"
+        }
+    ],
+    "39": [
+        {
+            "S.No": 153.0,
+            "Reg. No": 61782323102135.0,
+            "Student Name": "RITHISH ILANCHEZHIAN ",
+            "Class": "II - B.E CSE C",
+            "Mobile No": 9952338313,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 154.0,
+            "Reg. No": 61782323102110.0,
+            "Student Name": "NITHISH KANNA B ",
+            "Class": "II - B.E CSE C",
+            "Mobile No": 7418099543,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 155.0,
+            "Reg. No": 61782323102124.0,
+            "Student Name": "PRAVEEN B",
+            "Class": "II - B.E CSE C",
+            "Mobile No": 9514210864,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 156.0,
+            "Reg. No": 61782323102122.0,
+            "Student Name": "PRANEESH S",
+            "Class": "II - B.E CSE C",
+            "Mobile No": 9159051320,
+            "Faculty": "SUH"
+        }
+    ],
+    "40": [
+        {
+            "S.No": 157.0,
+            "Reg. No": 61782323102116.0,
+            "Student Name": "PAVINITHI N K",
+            "Class": "II - B.E CSE C",
+            "Mobile No": 9894158364,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 158.0,
+            "Reg. No": 61782323102139.0,
+            "Student Name": "SAILEKHA M",
+            "Class": "II - B.E CSE C",
+            "Mobile No": 8484936599,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 159.0,
+            "Reg. No": 61782323102152.0,
+            "Student Name": "SHIFANA FATHIMA M ",
+            "Class": "II - B.E CSE C",
+            "Mobile No": 7695995244,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 160.0,
+            "Reg. No": 61782323102117.0,
+            "Student Name": "PAVISHYA P L",
+            "Class": "II - B.E CSE C",
+            "Mobile No": 9344776406,
+            "Faculty": "SUH"
+        }
+    ],
+    "41": [
+        {
+            "S.No": 161.0,
+            "Reg. No": 61782323102129.0,
+            "Student Name": "RAM PRIYA M",
+            "Class": "II - B.E CSE C",
+            "Mobile No": 9025650120,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 162.0,
+            "Reg. No": 61782323102113.0,
+            "Student Name": "NIVEDHITHASRI S",
+            "Class": "II - B.E CSE C",
+            "Mobile No": 9345583180,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 163.0,
+            "Reg. No": 61782323102132.0,
+            "Student Name": "RAMYA SUNDARRAJAN ",
+            "Class": "II - B.E CSE C",
+            "Mobile No": 9342450723,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 164.0,
+            "Reg. No": 61782323102106.0,
+            "Student Name": "NEGHA S",
+            "Class": "II - B.E CSE C",
+            "Mobile No": 9345700482,
+            "Faculty": "SUH"
+        }
+    ],
+    "42": [
+        {
+            "S.No": 165.0,
+            "Reg. No": 61782323102105.0,
+            "Student Name": "NAVINADARSHAN VISWANATHAN",
+            "Class": "II - B.E CSE C",
+            "Mobile No": 9489412262,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 166.0,
+            "Reg. No": 61782323102119.0,
+            "Student Name": "POOVARASAN S",
+            "Class": "II - B.E CSE C",
+            "Mobile No": 9080667045,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 167.0,
+            "Reg. No": 61782323102713.0,
+            "Student Name": "SAKTHIVEL S",
+            "Class": "II - B.E CSE C",
+            "Mobile No": 9342781013,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 168.0,
+            "Reg. No": 61782323102103.0,
+            "Student Name": "NAVEEN N",
+            "Class": "II - B.E CSE C",
+            "Mobile No": 7845108025,
+            "Faculty": "SUH"
+        }
+    ],
+    "43": [
+        {
+            "S.No": 169.0,
+            "Reg. No": 61782323102711.0,
+            "Student Name": "NISHVAN KUMAR M",
+            "Class": "II - B.E CSE C",
+            "Mobile No": 8072911022,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 170.0,
+            "Reg. No": 61782323102108.0,
+            "Student Name": "NIRANJAN S",
+            "Class": "II - B.E CSE C",
+            "Mobile No": 6380973961,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 171.0,
+            "Reg. No": 61782323102134.0,
+            "Student Name": "RITESHKUMARAN R",
+            "Class": "II - B.E CSE C",
+            "Mobile No": 9443487536,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 172.0,
+            "Reg. No": 61782323102112.0,
+            "Student Name": "NITISH ROSHAAN S",
+            "Class": "II - B.E CSE C",
+            "Mobile No": 8610634249,
+            "Faculty": "SUH"
+        }
+    ],
+    "44": [
+        {
+            "S.No": 173.0,
+            "Reg. No": 61782323102128.0,
+            "Student Name": "RAHUL NS",
+            "Class": "II - B.E CSE C",
+            "Mobile No": 8110080089,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 174.0,
+            "Reg. No": 61782323102126.0,
+            "Student Name": "PRIYA P",
+            "Class": "II - B.E CSE C",
+            "Mobile No": 8838635652,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 175.0,
+            "Reg. No": 61782323102125.0,
+            "Student Name": "PREETHI S S",
+            "Class": "II - B.E CSE C",
+            "Mobile No": 9345813374,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 176.0,
+            "Reg. No": 61782323102715.0,
+            "Student Name": "SATHIYA S",
+            "Class": "II - B.E CSE C",
+            "Mobile No": 9092937249,
+            "Faculty": "SUH"
+        }
+    ],
+    "45": [
+        {
+            "S.No": 177.0,
+            "Reg. No": 61782323102121.0,
+            "Student Name": "PRANAV KARTHIK  S S ",
+            "Class": "II - B.E CSE C",
+            "Mobile No": 9361311039,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 178.0,
+            "Reg. No": 61782323102138.0,
+            "Student Name": "SAI RAJA RAJAN JK",
+            "Class": "II - B.E CSE C",
+            "Mobile No": 9360564933,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 179.0,
+            "Reg. No": 61782323102145.0,
+            "Student Name": "SANJAY M PRASATH ",
+            "Class": "II - B.E CSE C",
+            "Mobile No": 6383881766,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 180.0,
+            "Reg. No": 61782323102146.0,
+            "Student Name": "SANJAY PRAKASH",
+            "Class": "II - B.E CSE C",
+            "Mobile No": 7598708631,
+            "Faculty": "SUH"
+        }
+    ],
+    "46": [
+        {
+            "S.No": 181.0,
+            "Reg. No": 61781922104074.0,
+            "Student Name": "Pragatheeshvaran N",
+            "Class": "III - B.E EEE B",
+            "Mobile No": 8015488940,
+            "Faculty": "CMK"
+        },
+        {
+            "S.No": 182.0,
+            "Reg. No": 61781922104079.0,
+            "Student Name": "Purusothaman M J",
+            "Class": "III - B.E EEE B",
+            "Mobile No": 9025316983,
+            "Faculty": "CMK"
+        },
+        {
+            "S.No": 183.0,
+            "Reg. No": 61781922104083.0,
+            "Student Name": "Raviraj N",
+            "Class": "III - B.E EEE B",
+            "Mobile No": 7708183312,
+            "Faculty": "CMK"
+        },
+        {
+            "S.No": 184.0,
+            "Reg. No": 61781922104068.0,
+            "Student Name": "Nithish D",
+            "Class": "III - B.E EEE B",
+            "Mobile No": 8438606475,
+            "Faculty": "CMK"
+        }
+    ],
+    "47": [
+        {
+            "S.No": 185.0,
+            "Reg. No": 61782323110080.0,
+            "Student Name": "NITHIYASRI S",
+            "Class": "II - B.Tech ADS B",
+            "Mobile No": 7418613518,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 186.0,
+            "Reg. No": 61782323110074.0,
+            "Student Name": "NAVEENA S",
+            "Class": "II - B.Tech ADS B",
+            "Mobile No": 9894470747,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 187.0,
+            "Reg. No": 61782323110081.0,
+            "Student Name": "NIVETHA M",
+            "Class": "II - B.Tech ADS B",
+            "Mobile No": 6382470144,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 188.0,
+            "Reg. No": 61782323110083.0,
+            "Student Name": "PARAMESHWARI P",
+            "Class": "II - B.Tech ADS B",
+            "Mobile No": 6385575188,
+            "Faculty": "GMK"
+        }
+    ],
+    "48": [
+        {
+            "S.No": 189.0,
+            "Reg. No": 61782323110051.0,
+            "Student Name": "JEVIDHA D",
+            "Class": "II - B.Tech ADS B",
+            "Mobile No": 6374033007,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 190.0,
+            "Reg. No": 61782323110057.0,
+            "Student Name": "KAVINYA K K ",
+            "Class": "II - B.Tech ADS B",
+            "Mobile No": 9629286819,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 191.0,
+            "Reg. No": 61782323110062.0,
+            "Student Name": "MAALINI D",
+            "Class": "II - B.Tech ADS B",
+            "Mobile No": 9944801093,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 192.0,
+            "Reg. No": 61782323110060.0,
+            "Student Name": "KEERTHIKA G",
+            "Class": "II - B.Tech ADS B",
+            "Mobile No": 9360235025,
+            "Faculty": "GMK"
+        }
+    ],
+    "49": [
+        {
+            "S.No": 193.0,
+            "Reg. No": 61781922108035.0,
+            "Student Name": "NAVEENA  A",
+            "Class": "III - B.E MCT",
+            "Mobile No": 9842510401,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 194.0,
+            "Reg. No": 61781922108016.0,
+            "Student Name": "JAYAPRIYA  M",
+            "Class": "III - B.E MCT",
+            "Mobile No": 6380292858,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 195.0,
+            "Reg. No": 61781922108012.0,
+            "Student Name": "HARINIE  S",
+            "Class": "III - B.E MCT",
+            "Mobile No": 9944221300,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 196.0,
+            "Reg. No": 61781922108058.0,
+            "Student Name": "UVANESH  R",
+            "Class": "III - B.E MCT",
+            "Mobile No": 6374902408,
+            "Faculty": "GMK"
+        }
+    ],
+    "50": [
+        {
+            "S.No": 197.0,
+            "Reg. No": 61781922103064.0,
+            "Student Name": "MAHALAKSHMI S",
+            "Class": "III - B.E ECE A",
+            "Mobile No": 7010188647,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 198.0,
+            "Reg. No": 61781922103069.0,
+            "Student Name": "MANORANJITHAM K G",
+            "Class": "III - B.E ECE A",
+            "Mobile No": 6382159572,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 199.0,
+            "Reg. No": 61781922103074.0,
+            "Student Name": "MOUNIKA R",
+            "Class": "III - B.E ECE B",
+            "Mobile No": 9345154244,
+            "Faculty": "PSR"
+        },
+        {
+            "S.No": 200.0,
+            "Reg. No": 61781922103096.0,
+            "Student Name": "PRAWIN M M",
+            "Class": "III - B.E ECE B",
+            "Mobile No": 9566591327,
+            "Faculty": "PSR"
+        }
+    ],
+    "51": [
+        {
+            "S.No": 201.0,
+            "Reg. No": 61782323102169.0,
+            "Student Name": "SRINAGAPRIYA ANBALAGAN",
+            "Class": "II - B.E CSE D",
+            "Mobile No": 8680043400,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 202.0,
+            "Reg. No": 61782323102162.0,
+            "Student Name": "SOWNDHARYA GOPI",
+            "Class": "II - B.E CSE D",
+            "Mobile No": 9043415374,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 203.0,
+            "Reg. No": 61782323102186.0,
+            "Student Name": "VANITHA NALLAPPAN",
+            "Class": "II - B.E CSE D",
+            "Mobile No": 9360401068,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 204.0,
+            "Reg. No": 61782323102159.0,
+            "Student Name": "SOBHIKASRI JAYAPRAKASH",
+            "Class": "II - B.E CSE D",
+            "Mobile No": 9342302034,
+            "Faculty": "TK"
+        }
+    ],
+    "52": [
+        {
+            "S.No": 205.0,
+            "Reg. No": 61781922112046.0,
+            "Student Name": "ROSHANKUMAR B",
+            "Class": "III - B.E CSD",
+            "Mobile No": 9345739239,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 206.0,
+            "Reg. No": 61781922112048.0,
+            "Student Name": "SAHANA V",
+            "Class": "III - B.E CSD",
+            "Mobile No": 9840004646,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 207.0,
+            "Reg. No": 61781922112060.0,
+            "Student Name": "VIJAYATHITHYA SV",
+            "Class": "III - B.E CSD",
+            "Mobile No": 9095922199,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 208.0,
+            "Reg. No": 61781922112052.0,
+            "Student Name": "SIDHARTH K",
+            "Class": "III - B.E CSD",
+            "Mobile No": 7904128938,
+            "Faculty": "TK"
+        }
+    ],
+    "53": [
+        {
+            "S.No": 209.0,
+            "Reg. No": 61781922102171.0,
+            "Student Name": "VAISHNAVI A S",
+            "Class": "III - B.E CSE D",
+            "Mobile No": 9486190390,
+            "Faculty": "RBA"
+        },
+        {
+            "S.No": 210.0,
+            "Reg. No": 61781922102164.0,
+            "Student Name": "SWETHA L",
+            "Class": "III - B.E CSE D",
+            "Mobile No": 8668169382,
+            "Faculty": "RBA"
+        },
+        {
+            "S.No": 211.0,
+            "Reg. No": 61781922102136.0,
+            "Student Name": "SHEIK ABDULLA A",
+            "Class": "III - B.E CSE D",
+            "Mobile No": 8056679893,
+            "Faculty": "RBA"
+        },
+        {
+            "S.No": 212.0,
+            "Reg. No": 61781922102165.0,
+            "Student Name": "TAMILSELVAN S",
+            "Class": "III - B.E CSE D",
+            "Mobile No": 8668149064,
+            "Faculty": "RBA"
+        }
+    ],
+    "54": [
+        {
+            "S.No": 213.0,
+            "Reg. No": 61782323103085.0,
+            "Student Name": "LOKESHWARAN M V",
+            "Class": "II - B.E ECE B",
+            "Mobile No": 7603834234,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 214.0,
+            "Reg. No": 61782323103075.0,
+            "Student Name": "KISHORE G",
+            "Class": "II - B.E ECE B",
+            "Mobile No": 8870939117,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 215.0,
+            "Reg. No": 61782323103121.0,
+            "Student Name": "PRATHVIN J",
+            "Class": "II - B.E ECE B",
+            "Mobile No": 9600676915,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 216.0,
+            "Reg. No": 61782323103165.0,
+            "Student Name": "SRISURYA P",
+            "Class": "II - B.E ECE B",
+            "Mobile No": 9345588901,
+            "Faculty": "TK"
+        }
+    ],
+    "55": [
+        {
+            "S.No": 217.0,
+            "Reg. No": 61782323103065.0,
+            "Student Name": "JASWANTH B",
+            "Class": "II - B.E ECE B",
+            "Mobile No": 6374338061,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 218.0,
+            "Reg. No": 61782323103052.0,
+            "Student Name": "GUNASEELAN V",
+            "Class": "II - B.E ECE B",
+            "Mobile No": 9894288912,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 219.0,
+            "Reg. No": 61782323103049.0,
+            "Student Name": "GOWTHAM RAJ T",
+            "Class": "II - B.E ECE B",
+            "Mobile No": 9543847774,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 220.0,
+            "Reg. No": 61782323103039.0,
+            "Student Name": "ELAIYA CHANDRU B",
+            "Class": "II - B.E ECE B",
+            "Mobile No": 9080264533,
+            "Faculty": "TK"
+        }
+    ],
+    "56": [
+        {
+            "S.No": 221.0,
+            "Reg. No": 61781922104049.0,
+            "Student Name": "Lakshana S",
+            "Class": "III - B.E EEE B",
+            "Mobile No": 7305714005,
+            "Faculty": "CMK"
+        },
+        {
+            "S.No": 222.0,
+            "Reg. No": 61781922104062.0,
+            "Student Name": "Monikasree S",
+            "Class": "III - B.E EEE B",
+            "Mobile No": 9345475081,
+            "Faculty": "CMK"
+        },
+        {
+            "S.No": 223.0,
+            "Reg. No": 61781922104048.0,
+            "Student Name": "Krishnapriya R M",
+            "Class": "III - B.E EEE B",
+            "Mobile No": 7845633957,
+            "Faculty": "CMK"
+        },
+        {
+            "S.No": 224.0,
+            "Reg. No": 61781922104078.0,
+            "Student Name": "Puja G B",
+            "Class": "III - B.E EEE B",
+            "Mobile No": 6382320944,
+            "Faculty": "CMK"
+        }
+    ],
+    "57": [
+        {
+            "S.No": 225.0,
+            "Reg. No": 61781922102050.0,
+            "Student Name": "JAYASURYA N",
+            "Class": "III - B.E CSE B",
+            "Mobile No": 9444735417,
+            "Faculty": "MSK"
+        },
+        {
+            "S.No": 226.0,
+            "Reg. No": 61781922102085.0,
+            "Student Name": "MURALIPRASHAD V",
+            "Class": "III - B.E CSE B",
+            "Mobile No": 7358984940,
+            "Faculty": "MSK"
+        },
+        {
+            "S.No": 227.0,
+            "Reg. No": 61781922102084.0,
+            "Student Name": "MUKESH V",
+            "Class": "III - B.E CSE B",
+            "Mobile No": 9994989551,
+            "Faculty": "MSK"
+        },
+        {
+            "S.No": 228.0,
+            "Reg. No": 61781922102051.0,
+            "Student Name": "JAYAVARSHA SP",
+            "Class": "III - B.E CSE B",
+            "Mobile No": 9500206504,
+            "Faculty": "MSK"
+        }
+    ],
+    "58": [
+        {
+            "S.No": 229.0,
+            "Reg. No": 61781922102110.0,
+            "Student Name": "RAGUL P",
+            "Class": "III - B.E CSE C",
+            "Mobile No": 8760041729,
+            "Faculty": "PSR"
+        },
+        {
+            "S.No": 230.0,
+            "Reg. No": 61781922102144.0,
+            "Student Name": "SHRIMATH Y",
+            "Class": "III - B.E CSE C",
+            "Mobile No": 9600675444,
+            "Faculty": "PSR"
+        },
+        {
+            "S.No": 231.0,
+            "Reg. No": 61781922102111.0,
+            "Student Name": "RAHUL C",
+            "Class": "III - B.E CSE C",
+            "Mobile No": 9080685549,
+            "Faculty": "PSR"
+        },
+        {
+            "S.No": 232.0,
+            "Reg. No": 61781922102120.0,
+            "Student Name": "SANDEEP RISHI J B",
+            "Class": "III - B.E CSE C",
+            "Mobile No": 9790463148,
+            "Faculty": "PSR"
+        }
+    ],
+    "59": [
+        {
+            "S.No": 233.0,
+            "Reg. No": 61781922110077.0,
+            "Student Name": "NAGANATHAN S",
+            "Class": "III - B.Tech ADS B",
+            "Mobile No": 7904352591,
+            "Faculty": "RBA"
+        },
+        {
+            "S.No": 234.0,
+            "Reg. No": 61781922110078.0,
+            "Student Name": "NAGULAN T",
+            "Class": "III - B.Tech ADS B",
+            "Mobile No": 9940781014,
+            "Faculty": "RBA"
+        },
+        {
+            "S.No": 235.0,
+            "Reg. No": 61781922110079.0,
+            "Student Name": "NANDHINI G",
+            "Class": "III - B.Tech ADS B",
+            "Mobile No": 6380055822,
+            "Faculty": "RBA"
+        },
+        {
+            "S.No": 236.0,
+            "Reg. No": 61781922110082.0,
+            "Student Name": "NISHANTH RAM M J",
+            "Class": "III - B.Tech ADS B",
+            "Mobile No": 9042277955,
+            "Faculty": "RBA"
+        }
+    ],
+    "60": [
+        {
+            "S.No": 237.0,
+            "Reg. No": 61781922103083.0,
+            "Student Name": "NISHANTH G",
+            "Class": "III - B.E ECE B",
+            "Mobile No": 8220426003,
+            "Faculty": "PSR"
+        },
+        {
+            "S.No": 238.0,
+            "Reg. No": 61781922103084.0,
+            "Student Name": "NITHEESH VR",
+            "Class": "III - B.E ECE B",
+            "Mobile No": 9962674264,
+            "Faculty": "PSR"
+        },
+        {
+            "S.No": 239.0,
+            "Reg. No": 61782323103072.0,
+            "Student Name": "KARUNYA CB",
+            "Class": "II - B.E ECE B",
+            "Mobile No": 9345539477,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 240.0,
+            "Reg. No": 61782323103055.0,
+            "Student Name": "HARSHINI K",
+            "Class": "II - B.E ECE B",
+            "Mobile No": 6369453727,
+            "Faculty": "TK"
+        }
+    ],
+    "61": [
+        {
+            "S.No": 241.0,
+            "Reg. No": 61782323103013.0,
+            "Student Name": "BALA T",
+            "Class": "II - B.E ECE A",
+            "Mobile No": 9345836377,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 242.0,
+            "Reg. No": 61782323103131.0,
+            "Student Name": "RAJAVEL J L",
+            "Class": "II - B.E ECE A",
+            "Mobile No": 9345571259,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 243.0,
+            "Reg. No": 61782323103120.0,
+            "Student Name": "PRASANNA J K",
+            "Class": "II - B.E ECE A",
+            "Mobile No": 8838294789,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 244.0,
+            "Reg. No": 61782323103148.0,
+            "Student Name": "SANTHOSH KUMAR C",
+            "Class": "II - B.E ECE A",
+            "Mobile No": 6382222683,
+            "Faculty": "SUH"
+        }
+    ],
+    "62": [
+        {
+            "S.No": 245.0,
+            "Reg. No": 61782323103127.0,
+            "Student Name": "PURUSOTHAMAN V",
+            "Class": "II - B.E ECE A",
+            "Mobile No": 7639297754,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 246.0,
+            "Reg. No": 61782323103031.0,
+            "Student Name": "DHINESH KUMAR R S",
+            "Class": "II - B.E ECE A",
+            "Mobile No": 6379061628,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 247.0,
+            "Reg. No": 61782323103032.0,
+            "Student Name": "DHRUWA KUMAR PASWAN",
+            "Class": "II - B.E ECE C",
+            "Mobile No": 7854978422,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 248.0,
+            "Reg. No": 61782323103053.0,
+            "Student Name": "HARINI M",
+            "Class": "II - B.E ECE B",
+            "Mobile No": 8667487906,
+            "Faculty": "TK"
+        }
+    ],
+    "63": [
+        {
+            "S.No": 249.0,
+            "Reg. No": 61782323103078.0,
+            "Student Name": "LAKCHANA S",
+            "Class": "II - B.E ECE A",
+            "Mobile No": 6369091727,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 250.0,
+            "Reg. No": 61782323103028.0,
+            "Student Name": "DHANUSRI M",
+            "Class": "II - B.E ECE A",
+            "Mobile No": 7200512039,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 251.0,
+            "Reg. No": 61782323103003.0,
+            "Student Name": "AKALYA P",
+            "Class": "II - B.E ECE A",
+            "Mobile No": 9361582905,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 252.0,
+            "Reg. No": 61782323103037.0,
+            "Student Name": "DIVYADHARSHINI P",
+            "Class": "II - B.E ECE A",
+            "Mobile No": 9342066841,
+            "Faculty": "SUH"
+        }
+    ],
+    "64": [
+        {
+            "S.No": 253.0,
+            "Reg. No": 61782323103107.0,
+            "Student Name": "NAVAS ASWATH B",
+            "Class": "II - B.E ECE A",
+            "Mobile No": 8667803181,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 254.0,
+            "Reg. No": 61782323103030.0,
+            "Student Name": "DHEEPAK KUMAR S",
+            "Class": "II - B.E ECE A",
+            "Mobile No": 8838790063,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 255.0,
+            "Reg. No": 61782323103183.0,
+            "Student Name": "VIJAY M",
+            "Class": "II - B.E ECE A",
+            "Mobile No": 8778023246,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 256.0,
+            "Reg. No": 61782323103041.0,
+            "Student Name": "ELAYARAJA V",
+            "Class": "II - B.E ECE A",
+            "Mobile No": 6379364504,
+            "Faculty": "SUH"
+        }
+    ],
+    "65": [
+        {
+            "S.No": 257.0,
+            "Reg. No": 61782323103060.0,
+            "Student Name": "INIYA I",
+            "Class": "II - B.E ECE A",
+            "Mobile No": 8072684435,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 258.0,
+            "Reg. No": 61782323103071.0,
+            "Student Name": "KAROLINE JENCY N",
+            "Class": "II - B.E ECE A",
+            "Mobile No": 6374955571,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 259.0,
+            "Reg. No": 61782323103133.0,
+            "Student Name": "RANITHA N",
+            "Class": "II - B.E ECE A",
+            "Mobile No": 8508485167,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 260.0,
+            "Reg. No": 61782323103034.0,
+            "Student Name": "DIPSIKAA K",
+            "Class": "II - B.E ECE A",
+            "Mobile No": 9344434876,
+            "Faculty": "SUH"
+        }
+    ],
+    "66": [
+        {
+            "S.No": 261.0,
+            "Reg. No": 61782323103153.0,
+            "Student Name": "SHREELEKHA S V",
+            "Class": "II - B.E ECE A",
+            "Mobile No": 9360778640,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 262.0,
+            "Reg. No": 61782323103163.0,
+            "Student Name": "SRI RANJANI A",
+            "Class": "II - B.E ECE A",
+            "Mobile No": 6384682923,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 263.0,
+            "Reg. No": 61782323103014.0,
+            "Student Name": "BARATH M",
+            "Class": "II - B.E ECE A",
+            "Mobile No": 9500214347,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 264.0,
+            "Reg. No": 61782323103104.0,
+            "Student Name": "NANDHAKKISHOR AK",
+            "Class": "II - B.E ECE A",
+            "Mobile No": 9159130924,
+            "Faculty": "SUH"
+        }
+    ],
+    "67": [
+        {
+            "S.No": 265.0,
+            "Reg. No": 61782323103187.0,
+            "Student Name": "VISHWA B Y",
+            "Class": "II - B.E ECE A",
+            "Mobile No": 7397711591,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 266.0,
+            "Reg. No": 61782323103160.0,
+            "Student Name": "SRI BALA GANESH P",
+            "Class": "II - B.E ECE A",
+            "Mobile No": 9715327475,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 267.0,
+            "Reg. No": 61782323103161.0,
+            "Student Name": "SRI HARI KRISHNA V",
+            "Class": "II - B.E ECE A",
+            "Mobile No": 6374139935,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 268.0,
+            "Reg. No": 61782323103048.0,
+            "Student Name": "GOWSHIK SHANKAR M",
+            "Class": "II - B.E ECE A",
+            "Mobile No": 8248691121,
+            "Faculty": "SUH"
+        }
+    ],
+    "68": [
+        {
+            "S.No": 269.0,
+            "Reg. No": 61782323103077.0,
+            "Student Name": "KISHORE U K",
+            "Class": "II - B.E ECE A",
+            "Mobile No": 8838097735,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 270.0,
+            "Reg. No": 61782323103125.0,
+            "Student Name": "PRIYA S",
+            "Class": "II - B.E ECE A",
+            "Mobile No": 9342958057,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 271.0,
+            "Reg. No": 61782323103145.0,
+            "Student Name": "SANJAY S",
+            "Class": "II - B.E ECE A",
+            "Mobile No": 6369064817,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 272.0,
+            "Reg. No": 61782323103117.0,
+            "Student Name": "POOJA SRI S E",
+            "Class": "II - B.E ECE A",
+            "Mobile No": 9353033398,
+            "Faculty": "SUH"
+        }
+    ],
+    "69": [
+        {
+            "S.No": 273.0,
+            "Reg. No": 61782323103112.0,
+            "Student Name": "NITHIYANANTH K",
+            "Class": "II - B.E ECE A",
+            "Mobile No": 9442544067,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 274.0,
+            "Reg. No": 61782323103116.0,
+            "Student Name": "PIRAJITH V P",
+            "Class": "II - B.E ECE A",
+            "Mobile No": 9994484927,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 275.0,
+            "Reg. No": 61782323103050.0,
+            "Student Name": "GOWTHAM SHREE P U",
+            "Class": "II - B.E ECE A",
+            "Mobile No": 9488677427,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 276.0,
+            "Reg. No": 61782323103174.0,
+            "Student Name": "SWETHA S",
+            "Class": "II - B.E ECE A",
+            "Mobile No": 9363630613,
+            "Faculty": "SUH"
+        }
+    ],
+    "70": [
+        {
+            "S.No": 277.0,
+            "Reg. No": 61781922104103.0,
+            "Student Name": "SRIMATHI S",
+            "Class": "III - B.E EEE C",
+            "Mobile No": 9629709624,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 278.0,
+            "Reg. No": 61781922104710.0,
+            "Student Name": "SENTHERSHENI S",
+            "Class": "III - B.E EEE C",
+            "Mobile No": 9659739616,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 279.0,
+            "Reg. No": 61781922104102.0,
+            "Student Name": "SRI VARSHA S",
+            "Class": "III - B.E EEE C",
+            "Mobile No": 9345753294,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 280.0,
+            "Reg. No": 61781922104098.0,
+            "Student Name": "SIVARANJANI P",
+            "Class": "III - B.E EEE C",
+            "Mobile No": 8838807832,
+            "Faculty": "SUH"
+        }
+    ],
+    "71": [
+        {
+            "S.No": 281.0,
+            "Reg. No": 61781922104109.0,
+            "Student Name": "SUGANESH V",
+            "Class": "III - B.E EEE C",
+            "Mobile No": 6382751841,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 282.0,
+            "Reg. No": 61781922104118.0,
+            "Student Name": "VIDHARSHAN M",
+            "Class": "III - B.E EEE C",
+            "Mobile No": 7530086528,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 283.0,
+            "Reg. No": 61781922104112.0,
+            "Student Name": "THAMARAIKANNAN S",
+            "Class": "III - B.E EEE C",
+            "Mobile No": 9787719770,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 284.0,
+            "Reg. No": 61781922104119.0,
+            "Student Name": "VIDHYASEKAR C",
+            "Class": "III - B.E EEE C",
+            "Mobile No": 7708766941,
+            "Faculty": "SUH"
+        }
+    ],
+    "72": [
+        {
+            "S.No": 285.0,
+            "Reg. No": 61781922104116.0,
+            "Student Name": "VAISHNAVI K",
+            "Class": "III - B.E EEE C",
+            "Mobile No": 9791583132,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 286.0,
+            "Reg. No": 61781922104086.0,
+            "Student Name": "SANGEETHA J",
+            "Class": "III - B.E EEE C",
+            "Mobile No": 7397007214,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 287.0,
+            "Reg. No": 61781922104087.0,
+            "Student Name": "SANJAY S",
+            "Class": "III - B.E EEE C",
+            "Mobile No": 6380513955,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 288.0,
+            "Reg. No": 61781922104105.0,
+            "Student Name": "STEFI NIM S",
+            "Class": "III - B.E EEE C",
+            "Mobile No": 9600570655,
+            "Faculty": "SUH"
+        }
+    ],
+    "73": [
+        {
+            "S.No": 289.0,
+            "Reg. No": 61781922104126.0,
+            "Student Name": "YUVA SREE J S",
+            "Class": "III - B.E EEE C",
+            "Mobile No": 9944973747,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 290.0,
+            "Reg. No": 61781922104115.0,
+            "Student Name": "VAAGINI E",
+            "Class": "III - B.E EEE C",
+            "Mobile No": 8072457160,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 291.0,
+            "Reg. No": 61781922104104.0,
+            "Student Name": "SRINISHARGA G",
+            "Class": "III - B.E EEE C",
+            "Mobile No": 9626588031,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 292.0,
+            "Reg. No": 61781922104123.0,
+            "Student Name": "YOGA SRI S",
+            "Class": "III - B.E EEE C",
+            "Mobile No": 9043655705,
+            "Faculty": "SUH"
+        }
+    ],
+    "74": [
+        {
+            "S.No": 293.0,
+            "Reg. No": 61781922104110.0,
+            "Student Name": "SURRYA PRAKASH T",
+            "Class": "III - B.E EEE C",
+            "Mobile No": 9865113968,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 294.0,
+            "Reg. No": 61781922104125.0,
+            "Student Name": "YOKESHWARAN S",
+            "Class": "III - B.E EEE C",
+            "Mobile No": 9788880401,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 295.0,
+            "Reg. No": 61781922104122.0,
+            "Student Name": "VISWANATH R",
+            "Class": "III - B.E EEE C",
+            "Mobile No": 8248988965,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 296.0,
+            "Reg. No": 61781922104108.0,
+            "Student Name": "SUDHARSHINI V",
+            "Class": "III - B.E EEE C",
+            "Mobile No": 6374138814,
+            "Faculty": "SUH"
+        }
+    ],
+    "75": [
+        {
+            "S.No": 297.0,
+            "Reg. No": 61781922104090.0,
+            "Student Name": "SANTHIYA K",
+            "Class": "III - B.E EEE C",
+            "Mobile No": 9360931511,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 298.0,
+            "Reg. No": 61781922104095.0,
+            "Student Name": "SARITHA V",
+            "Class": "III - B.E EEE C",
+            "Mobile No": 9087365392,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 299.0,
+            "Reg. No": 61781922104099.0,
+            "Student Name": "SOUNDHAR P",
+            "Class": "III - B.E EEE C",
+            "Mobile No": 8807405860,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 300.0,
+            "Reg. No": 61781922104100.0,
+            "Student Name": "SOWMIYA KRISHNA P",
+            "Class": "III - B.E EEE C",
+            "Mobile No": 9361844746,
+            "Faculty": "SUH"
+        }
+    ],
+    "76": [
+        {
+            "S.No": 301.0,
+            "Reg. No": 61782323103188.0,
+            "Student Name": "YASWANTH L S",
+            "Class": "II - B.E ECE A",
+            "Mobile No": 6383318929,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 302.0,
+            "Reg. No": 61782323103701.0,
+            "Student Name": "AMEER IBRAHIM S",
+            "Class": "II - B.E ECE A",
+            "Mobile No": 6383413591,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 303.0,
+            "Reg. No": 61782323103712.0,
+            "Student Name": "SEKAR K",
+            "Class": "II - B.E ECE A",
+            "Mobile No": 9626269043,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 304.0,
+            "Reg. No": 61782323103703.0,
+            "Student Name": "BAGAVATHI DAS T",
+            "Class": "II - B.E ECE A",
+            "Mobile No": 6374886591,
+            "Faculty": "SUH"
+        }
+    ],
+    "77": [
+        {
+            "S.No": 305.0,
+            "Reg. No": 61781922102036.0,
+            "Student Name": "HARI ARJUN M",
+            "Class": "III - B.E CSE A",
+            "Mobile No": 7812878016,
+            "Faculty": "SRA"
+        },
+        {
+            "S.No": 306.0,
+            "Reg. No": 61781922102705.0,
+            "Student Name": "GOPI M",
+            "Class": "III - B.E CSE A",
+            "Mobile No": 9047810905,
+            "Faculty": "SRA"
+        },
+        {
+            "S.No": 307.0,
+            "Reg. No": 61781922102702.0,
+            "Student Name": "ASWIN S",
+            "Class": "III - B.E CSE A",
+            "Mobile No": 6382794998,
+            "Faculty": "SRA"
+        },
+        {
+            "S.No": 308.0,
+            "Reg. No": 61781922102033.0,
+            "Student Name": "GIRIVASAN S",
+            "Class": "III - B.E CSE A",
+            "Mobile No": 9025504133,
+            "Faculty": "SRA"
+        }
+    ],
+    "78": [
+        {
+            "S.No": 309.0,
+            "Reg. No": 61782323104089.0,
+            "Student Name": "SERALATHAN R",
+            "Class": "II - B.E EEE C",
+            "Mobile No": 7904411723,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 310.0,
+            "Reg. No": 61782323104048.0,
+            "Student Name": "LOHITH N R",
+            "Class": "II - B.E EEE B",
+            "Mobile No": 8270062727,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 311.0,
+            "Reg. No": 61782323104066.0,
+            "Student Name": "PRATHIV S",
+            "Class": "II - B.E EEE B",
+            "Mobile No": 9789536803,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 312.0,
+            "Reg. No": 61782323104063.0,
+            "Student Name": "PRABBANJAN M",
+            "Class": "II - B.E EEE B",
+            "Mobile No": 9363761643,
+            "Faculty": "TK"
+        }
+    ],
+    "79": [
+        {
+            "S.No": 313.0,
+            "Reg. No": 61782323103168.0,
+            "Student Name": "SUBASRI M",
+            "Class": "II - B.E ECE B",
+            "Mobile No": 9363239869,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 314.0,
+            "Reg. No": 61782323103026.0,
+            "Student Name": "DHANASRI R",
+            "Class": "II - B.E ECE B",
+            "Mobile No": 9360244850,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 315.0,
+            "Reg. No": 61782323103095.0,
+            "Student Name": "MONIKA M",
+            "Class": "II - B.E ECE A",
+            "Mobile No": 9342563273,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 316.0,
+            "Reg. No": 61782323103087.0,
+            "Student Name": "MADHUMITHA V M",
+            "Class": "II - B.E ECE B",
+            "Mobile No": 9487514884,
+            "Faculty": "TK"
+        }
+    ],
+    "80": [
+        {
+            "S.No": 317.0,
+            "Reg. No": 61781922109019.0,
+            "Student Name": "HARIPRIYA K",
+            "Class": "III - B.E BME",
+            "Mobile No": 9342066576,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 318.0,
+            "Reg. No": 61781922109020.0,
+            "Student Name": "HARSHA VARDHINI S S",
+            "Class": "III - B.E BME",
+            "Mobile No": 6382464249,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 319.0,
+            "Reg. No": 61781922109031.0,
+            "Student Name": "MADHOMITHA P B",
+            "Class": "III - B.E BME",
+            "Mobile No": 8248663774,
+            "Faculty": "TK"
+        }
+    ],
+    "81": [
+        {
+            "S.No": 321.0,
+            "Reg. No": 61781922102057.0,
+            "Student Name": "KANISHKA DEVI R",
+            "Class": "III - B.E CSE B",
+            "Mobile No": 6379358430,
+            "Faculty": "MSK"
+        },
+        {
+            "S.No": 322.0,
+            "Reg. No": 61781922102067.0,
+            "Student Name": "LOGA PRIYA M",
+            "Class": "III - B.E CSE B",
+            "Mobile No": 9344665601,
+            "Faculty": "MSK"
+        },
+        {
+            "S.No": 323.0,
+            "Reg. No": 61781922102102.0,
+            "Student Name": "PRATISHA ARYA S",
+            "Class": "III - B.E CSE C",
+            "Mobile No": 6369606533,
+            "Faculty": "PSR"
+        },
+        {
+            "S.No": 324.0,
+            "Reg. No": 61781922102091.0,
+            "Student Name": "NISHA M",
+            "Class": "III - B.E CSE B",
+            "Mobile No": 6379345939,
+            "Faculty": "MSK"
+        }
+    ],
+    "82": [
+        {
+            "S.No": 325.0,
+            "Reg. No": 61781922106013.0,
+            "Student Name": "BARATH G M",
+            "Class": "III - B.Tech IT A",
+            "Mobile No": 8300499414,
+            "Faculty": "SRA"
+        },
+        {
+            "S.No": 326.0,
+            "Reg. No": 61781922106034.0,
+            "Student Name": "GUHAN S G",
+            "Class": "III - B.Tech IT A",
+            "Mobile No": 9360516462,
+            "Faculty": "SRA"
+        },
+        {
+            "S.No": 327.0,
+            "Reg. No": 61781922106020.0,
+            "Student Name": "DHARANI S",
+            "Class": "III - B.Tech IT A",
+            "Mobile No": 9789406965,
+            "Faculty": "SRA"
+        },
+        {
+            "S.No": 328.0,
+            "Reg. No": 61781922106012.0,
+            "Student Name": "ASHOKKUMAR M",
+            "Class": "III - B.Tech IT A",
+            "Mobile No": 7904967595,
+            "Faculty": "SRA"
+        }
+    ],
+    "83": [
+        {
+            "S.No": 329.0,
+            "Reg. No": 61781922103028.0,
+            "Student Name": "GAYATHRI VIJAYAKUMAR",
+            "Class": "III - B.E ECE B",
+            "Mobile No": 8124710100,
+            "Faculty": "PSR"
+        },
+        {
+            "S.No": 330.0,
+            "Reg. No": 61781922103034.0,
+            "Student Name": "HARINI M",
+            "Class": "III - B.E ECE C",
+            "Mobile No": 9489664171,
+            "Faculty": "CMK"
+        },
+        {
+            "S.No": 331.0,
+            "Reg. No": 61781922103072.0,
+            "Student Name": "MOHAMMED AMEENUDEEN",
+            "Class": "III - B.E ECE C",
+            "Mobile No": 8015884856,
+            "Faculty": "CMK"
+        },
+        {
+            "S.No": 332.0,
+            "Reg. No": 61781922103708.0,
+            "Student Name": "MOHAMMED HAMZA ALI F",
+            "Class": "III - B.E ECE B",
+            "Mobile No": 9003668877,
+            "Faculty": "PSR"
+        }
+    ],
+    "84": [
+        {
+            "S.No": 333.0,
+            "Reg. No": 61781922103068.0,
+            "Student Name": "MANOJ BABU V G S",
+            "Class": "III - B.E ECE D",
+            "Mobile No": 9363440450,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 334.0,
+            "Reg. No": 61781922103713.0,
+            "Student Name": "SAILASHREE S",
+            "Class": "III - B.E ECE C",
+            "Mobile No": 6369557146,
+            "Faculty": "CMK"
+        },
+        {
+            "S.No": 335.0,
+            "Reg. No": 61781922103061.0,
+            "Student Name": "MADHUMITA S",
+            "Class": "III - B.E ECE B",
+            "Mobile No": 9944021817,
+            "Faculty": "PSR"
+        },
+        {
+            "S.No": 336.0,
+            "Reg. No": 61781922103046.0,
+            "Student Name": "KARUNIYAA S",
+            "Class": "III - B.E ECE D",
+            "Mobile No": 6379894316,
+            "Faculty": "SUH"
+        }
+    ],
+    "85": [
+        {
+            "S.No": 337.0,
+            "Reg. No": 61781922102041.0,
+            "Student Name": "HARINI S",
+            "Class": "III - B.E CSE A",
+            "Mobile No": 8838859758,
+            "Faculty": "SRA"
+        },
+        {
+            "S.No": 338.0,
+            "Reg. No": 61781922102007.0,
+            "Student Name": "AKSHAYA SDK",
+            "Class": "III - B.E CSE A",
+            "Mobile No": 9750420438,
+            "Faculty": "SRA"
+        },
+        {
+            "S.No": 339.0,
+            "Reg. No": 61781922102055.0,
+            "Student Name": "KANIKA B",
+            "Class": "III - B.E CSE B",
+            "Mobile No": 8838482431,
+            "Faculty": "MSK"
+        },
+        {
+            "S.No": 340.0,
+            "Reg. No": 61781922102013.0,
+            "Student Name": "ASMA RAGAMATH S",
+            "Class": "III - B.E CSE A",
+            "Mobile No": 6369066240,
+            "Faculty": "SRA"
+        }
+    ],
+    "86": [
+        {
+            "S.No": 341.0,
+            "Reg. No": 61781922102040.0,
+            "Student Name": "HARINEE V S",
+            "Class": "III - B.E CSE A",
+            "Mobile No": 9944431970,
+            "Faculty": "SRA"
+        },
+        {
+            "S.No": 342.0,
+            "Reg. No": 61781922102044.0,
+            "Student Name": "HINDUJA E",
+            "Class": "III - B.E CSE A",
+            "Mobile No": 9790094339,
+            "Faculty": "SRA"
+        },
+        {
+            "S.No": 343.0,
+            "Reg. No": 61781922102023.0,
+            "Student Name": "DHARSINI S",
+            "Class": "III - B.E CSE A",
+            "Mobile No": 9042842500,
+            "Faculty": "SRA"
+        },
+        {
+            "S.No": 344.0,
+            "Reg. No": 61781922102002.0,
+            "Student Name": "ABINAYA K",
+            "Class": "III - B.E CSE A",
+            "Mobile No": 8870160476,
+            "Faculty": "SRA"
+        }
+    ],
+    "87": [
+        {
+            "S.No": 345.0,
+            "Reg. No": 61781922102042.0,
+            "Student Name": "HARINI S",
+            "Class": "III - B.E CSE A",
+            "Mobile No": 8015788542,
+            "Faculty": "SRA"
+        },
+        {
+            "S.No": 346.0,
+            "Reg. No": 61781922102003.0,
+            "Student Name": "ABINAYA M",
+            "Class": "III - B.E CSE A",
+            "Mobile No": 9360468484,
+            "Faculty": "SRA"
+        },
+        {
+            "S.No": 347.0,
+            "Reg. No": 61781922102045.0,
+            "Student Name": "ILAKKIYA K",
+            "Class": "III - B.E CSE A",
+            "Mobile No": 9486794455,
+            "Faculty": "SRA"
+        },
+        {
+            "S.No": 348.0,
+            "Reg. No": 61781922102031.0,
+            "Student Name": "GAYATHRIPRIYA K N",
+            "Class": "III - B.E CSE A",
+            "Mobile No": 8248252255,
+            "Faculty": "SRA"
+        }
+    ],
+    "88": [
+        {
+            "S.No": 349.0,
+            "Reg. No": 61781922102022.0,
+            "Student Name": "DHARSHINI R",
+            "Class": "III - B.E CSE A",
+            "Mobile No": 9080668018,
+            "Faculty": "SRA"
+        },
+        {
+            "S.No": 350.0,
+            "Reg. No": 61781922102009.0,
+            "Student Name": "ANNAPOORANI D",
+            "Class": "III - B.E CSE A",
+            "Mobile No": 6379799143,
+            "Faculty": "SRA"
+        },
+        {
+            "S.No": 351.0,
+            "Reg. No": 61781922102020.0,
+            "Student Name": "DHARSHINI C R",
+            "Class": "III - B.E CSE A",
+            "Mobile No": 9944625272,
+            "Faculty": "SRA"
+        },
+        {
+            "S.No": 352.0,
+            "Reg. No": 61781922102014.0,
+            "Student Name": "ASMATH HAZEENA M",
+            "Class": "III - B.E CSE A",
+            "Mobile No": 9445951339,
+            "Faculty": "SRA"
+        }
+    ],
+    "89": [
+        {
+            "S.No": 353.0,
+            "Reg. No": 61782323102070.0,
+            "Student Name": "KEERTHI G",
+            "Class": "II - B.E CSE B",
+            "Mobile No": 7845784473,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 354.0,
+            "Reg. No": 61782323102088.0,
+            "Student Name": "MANOSHANKARI V",
+            "Class": "II - B.E CSE B",
+            "Mobile No": 9092990255,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 355.0,
+            "Reg. No": 61782323102051.0,
+            "Student Name": "HARISH V",
+            "Class": "II - B.E CSE B",
+            "Mobile No": 9597133671,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 356.0,
+            "Reg. No": 61782323102094.0,
+            "Student Name": "MOHAMMED SUFIYAAN I",
+            "Class": "II - B.E CSE B",
+            "Mobile No": 7845167384,
+            "Faculty": "GMK"
+        }
+    ],
+    "90": [
+        {
+            "S.No": 357.0,
+            "Reg. No": 61782323102083.0,
+            "Student Name": "MADHUSRI V",
+            "Class": "II - B.E CSE B",
+            "Mobile No": 7708785961,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 358.0,
+            "Reg. No": 61782323102065.0,
+            "Student Name": "KARTHIKEYAN R",
+            "Class": "II - B.E CSE B",
+            "Mobile No": 8606525261,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 359.0,
+            "Reg. No": 61782323102096.0,
+            "Student Name": "MOUNIKA V",
+            "Class": "II - B.E CSE B",
+            "Mobile No": 9092404331,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 360.0,
+            "Reg. No": 61782323102095.0,
+            "Student Name": "MONA RACHEL D C",
+            "Class": "II - B.E CSE B",
+            "Mobile No": 9677702427,
+            "Faculty": "GMK"
+        }
+    ],
+    "91": [
+        {
+            "S.No": 361.0,
+            "Reg. No": 61782323102089.0,
+            "Student Name": "MEENASHALINI P",
+            "Class": "II - B.E CSE B",
+            "Mobile No": 9442268696,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 362.0,
+            "Reg. No": 61782323102069.0,
+            "Student Name": "KAVIYASHRI V",
+            "Class": "II - B.E CSE B",
+            "Mobile No": 8248857378,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 363.0,
+            "Reg. No": 61782323102052.0,
+            "Student Name": "INDHUMATHI S",
+            "Class": "II - B.E CSE B",
+            "Mobile No": 9042129429,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 364.0,
+            "Reg. No": 61782323102074.0,
+            "Student Name": "KRISHNAKUMAR D",
+            "Class": "II - B.E CSE B",
+            "Mobile No": 6382922667,
+            "Faculty": "GMK"
+        }
+    ],
+    "92": [
+        {
+            "S.No": 365.0,
+            "Reg. No": 61782323110072.0,
+            "Student Name": "MUHILAN R",
+            "Class": "II - B.Tech ADS B",
+            "Mobile No": 8270437123,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 366.0,
+            "Reg. No": 61782323110084.0,
+            "Student Name": "POOVIZHI V M",
+            "Class": "II - B.Tech ADS B",
+            "Mobile No": 7094092263,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 367.0,
+            "Reg. No": 61782323110071.0,
+            "Student Name": "MUGUNTHAN N",
+            "Class": "II - B.Tech ADS B",
+            "Mobile No": 6381525588,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 368.0,
+            "Reg. No": 61782323110118.0,
+            "Student Name": "UDITH KUMAR  P",
+            "Class": "II - B.Tech ADS C",
+            "Mobile No": 9894720953,
+            "Faculty": "SUH"
+        }
+    ],
+    "93": [
+        {
+            "S.No": 369.0,
+            "Reg. No": 61781922110083.0,
+            "Student Name": "PRATHIMA S",
+            "Class": "III - B.Tech ADS C",
+            "Mobile No": 8015862137,
+            "Faculty": "MSK"
+        },
+        {
+            "S.No": 370.0,
+            "Reg. No": 61781922110084.0,
+            "Student Name": "PRAVEEN RAJ M A",
+            "Class": "III - B.Tech ADS C",
+            "Mobile No": 9952366108,
+            "Faculty": "MSK"
+        },
+        {
+            "S.No": 371.0,
+            "Reg. No": 61781922110105.0,
+            "Student Name": "SOWMYA A",
+            "Class": "III - B.Tech ADS C",
+            "Mobile No": 8870255572,
+            "Faculty": "MSK"
+        },
+        {
+            "S.No": 372.0,
+            "Reg. No": 61781922110094.0,
+            "Student Name": "SADHASIVAM ARUMUGAM",
+            "Class": "III - B.Tech ADS C",
+            "Mobile No": 9345333914,
+            "Faculty": "MSK"
+        }
+    ],
+    "94": [
+        {
+            "S.No": 373.0,
+            "Reg. No": 61781922102030.0,
+            "Student Name": "ESWIN K R",
+            "Class": "III - B.E CSE A",
+            "Mobile No": 9025267566,
+            "Faculty": "SRA"
+        },
+        {
+            "S.No": 374.0,
+            "Reg. No": 61781922102026.0,
+            "Student Name": "DHONIKARTHICK S",
+            "Class": "III - B.E CSE A",
+            "Mobile No": 9080262077,
+            "Faculty": "SRA"
+        },
+        {
+            "S.No": 375.0,
+            "Reg. No": 61781922102038.0,
+            "Student Name": "HARIHARAN P K",
+            "Class": "III - B.E CSE A",
+            "Mobile No": 7695981252,
+            "Faculty": "SRA"
+        },
+        {
+            "S.No": 376.0,
+            "Reg. No": 61781922102037.0,
+            "Student Name": "HARIBHARATHI M",
+            "Class": "III - B.E CSE A",
+            "Mobile No": 9360685665,
+            "Faculty": "SRA"
+        }
+    ],
+    "95": [
+        {
+            "S.No": 377.0,
+            "Reg. No": 61781922104037.0,
+            "Student Name": "Karthikeyan S",
+            "Class": "III - B.E EEE A",
+            "Mobile No": 9361162252,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 378.0,
+            "Reg. No": 61781922104002.0,
+            "Student Name": "Abhinivesh S",
+            "Class": "III - B.E EEE A",
+            "Mobile No": 8667442737,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 379.0,
+            "Reg. No": 61781922104006.0,
+            "Student Name": "Ananth R",
+            "Class": "III - B.E EEE A",
+            "Mobile No": 9500759192,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 380.0,
+            "Reg. No": 61781922104012.0,
+            "Student Name": "Bhuvan Prasath A",
+            "Class": "III - B.E EEE A",
+            "Mobile No": 8870431618,
+            "Faculty": "PM"
+        }
+    ],
+    "96": [
+        {
+            "S.No": 381.0,
+            "Reg. No": 61782323102195.0,
+            "Student Name": "VISHWA JAGHANAATHAN",
+            "Class": "II - B.E CSE D",
+            "Mobile No": 8220958900,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 382.0,
+            "Reg. No": 61782323102194.0,
+            "Student Name": "VISHNU PRASANTH KUMAR",
+            "Class": "II - B.E CSE D",
+            "Mobile No": 9790297488,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 383.0,
+            "Reg. No": 61782323102182.0,
+            "Student Name": "VAIBHAVAKANNA PALANISAMY",
+            "Class": "II - B.E CSE D",
+            "Mobile No": 9345659288,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 384.0,
+            "Reg. No": 61782323102176.0,
+            "Student Name": "SUPREETHA JAYA UDAYAKUMAR",
+            "Class": "II - B.E CSE D",
+            "Mobile No": 8667200228,
+            "Faculty": "TK"
+        }
+    ],
+    "97": [
+        {
+            "S.No": 385.0,
+            "Reg. No": 61782323102168.0,
+            "Student Name": "SRIDHARANISH KUMAR",
+            "Class": "II - B.E CSE D",
+            "Mobile No": 8681881089,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 386.0,
+            "Reg. No": 61782323102177.0,
+            "Student Name": "SURUTHIKA RAMESH",
+            "Class": "II - B.E CSE D",
+            "Mobile No": 9894427401,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 387.0,
+            "Reg. No": 61782323102179.0,
+            "Student Name": "TAMIL BASKAR SAVITHRI",
+            "Class": "II - B.E CSE D",
+            "Mobile No": 6381594084,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 388.0,
+            "Reg. No": 61782323102189.0,
+            "Student Name": "VASANTHAKUMAR SIVAKUMAR",
+            "Class": "II - B.E CSE D",
+            "Mobile No": 9342871440,
+            "Faculty": "TK"
+        }
+    ],
+    "98": [
+        {
+            "S.No": 389.0,
+            "Reg. No": 61782323102185.0,
+            "Student Name": "VALARMATHI ARULKUMAR",
+            "Class": "II - B.E CSE D",
+            "Mobile No": 6383174296,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 390.0,
+            "Reg. No": 61782323102173.0,
+            "Student Name": "SUDHARSHINEE SHANMUGAM KALAISELVI",
+            "Class": "II - B.E CSE D",
+            "Mobile No": 6380069428,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 391.0,
+            "Reg. No": 61782323102180.0,
+            "Student Name": "TANUSHREE THIRUNAVUKKARASU BHUVANESHWARI",
+            "Class": "II - B.E CSE D",
+            "Mobile No": "7603973955\u00a0",
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 392.0,
+            "Reg. No": 61782323102184.0,
+            "Student Name": "VAISHNAVI MAHENDRAN",
+            "Class": "II - B.E CSE D",
+            "Mobile No": 9843694689,
+            "Faculty": "TK"
+        }
+    ],
+    "99": [
+        {
+            "S.No": 393.0,
+            "Reg. No": 61781922103145.0,
+            "Student Name": "THEANMADHI C T",
+            "Class": "III - B.E ECE D",
+            "Mobile No": 7639689989,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 394.0,
+            "Reg. No": 61781922103152.0,
+            "Student Name": "VISHNU PRABHA U",
+            "Class": "III - B.E ECE D",
+            "Mobile No": 9500239545,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 395.0,
+            "Reg. No": 61781922103124.0,
+            "Student Name": "SHANMATHI SURESHBABU",
+            "Class": "III - B.E ECE A",
+            "Mobile No": 8148462918,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 396.0,
+            "Reg. No": 61781922103092.0,
+            "Student Name": "PRASIDHIKA J",
+            "Class": "III - B.E ECE D",
+            "Mobile No": 7904958753,
+            "Faculty": "SUH"
+        }
+    ],
+    "100": [
+        {
+            "S.No": 397.0,
+            "Reg. No": 61781922103015.0,
+            "Student Name": "ASHWIN KANNA J",
+            "Class": "III - B.E ECE D",
+            "Mobile No": 9360678480,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 398.0,
+            "Reg. No": 61781922103030.0,
+            "Student Name": "GOKULRAJ G",
+            "Class": "III - B.E ECE D",
+            "Mobile No": 6374125623,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 399.0,
+            "Reg. No": 61781922103022.0,
+            "Student Name": "DHARANITHARAN R",
+            "Class": "III - B.E ECE B",
+            "Mobile No": 9080345376,
+            "Faculty": "PSR"
+        },
+        {
+            "S.No": 400.0,
+            "Reg. No": 61781922103001.0,
+            "Student Name": "AAKASH A",
+            "Class": "III - B.E ECE D",
+            "Mobile No": 6382187197,
+            "Faculty": "SUH"
+        }
+    ],
+    "101": [
+        {
+            "S.No": 401.0,
+            "Reg. No": 61781922103027.0,
+            "Student Name": "FAREEHA TABASSUM",
+            "Class": "III - B.E ECE D",
+            "Mobile No": 6381190728,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 402.0,
+            "Reg. No": 61781922103017.0,
+            "Student Name": "AVANTHIKA S",
+            "Class": "III - B.E ECE D",
+            "Mobile No": 6380084343,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 403.0,
+            "Reg. No": 61781922103035.0,
+            "Student Name": "HARINI PRAKASH",
+            "Class": "III - B.E ECE B",
+            "Mobile No": 7010739677,
+            "Faculty": "PSR"
+        },
+        {
+            "S.No": 404.0,
+            "Reg. No": 61781922103038.0,
+            "Student Name": "HARISRAJ S",
+            "Class": "III - B.E ECE B",
+            "Mobile No": 9597272191,
+            "Faculty": "PSR"
+        }
+    ],
+    "102": [
+        {
+            "S.No": 405.0,
+            "Reg. No": 61782323102061.0,
+            "Student Name": "KAMALESH S",
+            "Class": "II - B.E CSE B",
+            "Mobile No": 7305406953,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 406.0,
+            "Reg. No": 61782323102087.0,
+            "Student Name": "MANOLASHINI V",
+            "Class": "II - B.E CSE B",
+            "Mobile No": 6381474243,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 407.0,
+            "Reg. No": 61782323102093.0,
+            "Student Name": "MOHAMMED ALI A",
+            "Class": "II - B.E CSE B",
+            "Mobile No": 9025529175,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 408.0,
+            "Reg. No": 61782323102055.0,
+            "Student Name": "JEEVA DHARSHINI T",
+            "Class": "II - B.E CSE B",
+            "Mobile No": 9445547709,
+            "Faculty": "GMK"
+        }
+    ],
+    "103": [
+        {
+            "S.No": 409.0,
+            "Reg. No": 61782323102143.0,
+            "Student Name": "SANJANA R",
+            "Class": "II - B.E CSE C",
+            "Mobile No": 7904166610,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 410.0,
+            "Reg. No": 61782323102053.0,
+            "Student Name": "JANAKIRAMAN S",
+            "Class": "II - B.E CSE B",
+            "Mobile No": 9585440207,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 411.0,
+            "Reg. No": 61782323102067.0,
+            "Student Name": "KASHIF AHAMAD S",
+            "Class": "II - B.E CSE B",
+            "Mobile No": 8838385893,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 412.0,
+            "Reg. No": 61782323102090.0,
+            "Student Name": "MEGASHREE M",
+            "Class": "II - B.E CSE B",
+            "Mobile No": 9600727427,
+            "Faculty": "GMK"
+        }
+    ],
+    "104": [
+        {
+            "S.No": 413.0,
+            "Reg. No": 61782323102140.0,
+            "Student Name": "SALVI B",
+            "Class": "II - B.E CSE C",
+            "Mobile No": 8778850687,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 414.0,
+            "Reg. No": 61782323102133.0,
+            "Student Name": "RASHMI M",
+            "Class": "II - B.E CSE C",
+            "Mobile No": 9789116796,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 415.0,
+            "Reg. No": 61782323102120.0,
+            "Student Name": "PRADHIKSHA M",
+            "Class": "II - B.E CSE C",
+            "Mobile No": "79048 30134 ",
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 416.0,
+            "Reg. No": 61782323102155.0,
+            "Student Name": "SHRI DHARSHINI S",
+            "Class": "II - B.E CSE C",
+            "Mobile No": 9043655294,
+            "Faculty": "SUH"
+        }
+    ],
+    "105": [
+        {
+            "S.No": 417.0,
+            "Reg. No": 61781922102192.0,
+            "Student Name": "VIVEGAA J",
+            "Class": "III - B.E CSE D",
+            "Mobile No": 6369318396,
+            "Faculty": "RBA"
+        },
+        {
+            "S.No": 418.0,
+            "Reg. No": 61781922102179.0,
+            "Student Name": "VENKATTALAKSHMI S",
+            "Class": "III - B.E CSE D",
+            "Mobile No": 8148676539,
+            "Faculty": "RBA"
+        },
+        {
+            "S.No": 419.0,
+            "Reg. No": 61781922112013.0,
+            "Student Name": "HARINI D R",
+            "Class": "III - B.E CSD",
+            "Mobile No": 8148121526,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 420.0,
+            "Reg. No": 61781922112043.0,
+            "Student Name": "RAJAKUMARI P",
+            "Class": "III - B.E CSD",
+            "Mobile No": 7604895764,
+            "Faculty": "TK"
+        }
+    ],
+    "106": [
+        {
+            "S.No": 421.0,
+            "Reg. No": 61781922102123.0,
+            "Student Name": "SANJAY L",
+            "Class": "III - B.E CSE C",
+            "Mobile No": 9786983031,
+            "Faculty": "PSR"
+        },
+        {
+            "S.No": 422.0,
+            "Reg. No": 61781922102101.0,
+            "Student Name": "PRANAV R M",
+            "Class": "III - B.E CSE C",
+            "Mobile No": 8072792461,
+            "Faculty": "PSR"
+        },
+        {
+            "S.No": 423.0,
+            "Reg. No": 61781922102126.0,
+            "Student Name": "SANJITH R",
+            "Class": "III - B.E CSE C",
+            "Mobile No": 6282055674,
+            "Faculty": "PSR"
+        },
+        {
+            "S.No": 424.0,
+            "Reg. No": 61781922102129.0,
+            "Student Name": "SANTHOSH S",
+            "Class": "III - B.E CSE C",
+            "Mobile No": 9025656455,
+            "Faculty": "PSR"
+        }
+    ],
+    "107": [
+        {
+            "S.No": 425.0,
+            "Reg. No": 61781922102140.0,
+            "Student Name": "SHOBHANAA R",
+            "Class": "III - B.E CSE C",
+            "Mobile No": 9342139828,
+            "Faculty": "PSR"
+        },
+        {
+            "S.No": 426.0,
+            "Reg. No": 61781922102132.0,
+            "Student Name": "SENTHAMIZH M",
+            "Class": "III - B.E CSE C",
+            "Mobile No": "\u00a08667493160",
+            "Faculty": "PSR"
+        },
+        {
+            "S.No": 427.0,
+            "Reg. No": 61781922102139.0,
+            "Student Name": "SHIVANIKHA A R",
+            "Class": "III - B.E CSE C",
+            "Mobile No": 8825633477,
+            "Faculty": "PSR"
+        },
+        {
+            "S.No": 428.0,
+            "Reg. No": 61781922102072.0,
+            "Student Name": "MAHALAKSHMI G",
+            "Class": "III - B.E CSE B",
+            "Mobile No": 7397758503,
+            "Faculty": "MSK"
+        }
+    ],
+    "108": [
+        {
+            "S.No": 429.0,
+            "Reg. No": 61781922103077.0,
+            "Student Name": "NANDINIDEVI LV",
+            "Class": "III - B.E ECE C",
+            "Mobile No": 9487255826,
+            "Faculty": "CMK"
+        },
+        {
+            "S.No": 430.0,
+            "Reg. No": 61781922103053.0,
+            "Student Name": "KIRUTHIKA ASHOKKUMAR",
+            "Class": "III - B.E ECE A",
+            "Mobile No": 8072980449,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 431.0,
+            "Reg. No": 61781922103100.0,
+            "Student Name": "RAJANEESH BOOPATHI",
+            "Class": "III - B.E ECE C",
+            "Mobile No": 9894377027,
+            "Faculty": "CMK"
+        },
+        {
+            "S.No": 432.0,
+            "Reg. No": 61781922103048.0,
+            "Student Name": "KAVIN K",
+            "Class": "III - B.E ECE A",
+            "Mobile No": 9840373031,
+            "Faculty": "GMK"
+        }
+    ],
+    "109": [
+        {
+            "S.No": 433.0,
+            "Reg. No": 61782323105057.0,
+            "Student Name": "KATHIRAVAN R",
+            "Class": "II - B.E MECH B",
+            "Mobile No": 9361586638,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 434.0,
+            "Reg. No": 61782323105076.0,
+            "Student Name": "MOULE SANKKAR S K",
+            "Class": "II - B.E MECH B",
+            "Mobile No": 7826092999,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 435.0,
+            "Reg. No": 61782323105051.0,
+            "Student Name": "JEGATHEESWARAN C",
+            "Class": "II - B.E MECH B",
+            "Mobile No": 9025829157,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 436.0,
+            "Reg. No": 61782323105069.0,
+            "Student Name": "MAHALAKSHMI T V",
+            "Class": "II - B.E MECH B",
+            "Mobile No": 9345620727,
+            "Faculty": "TK"
+        }
+    ],
+    "110": [
+        {
+            "S.No": 437.0,
+            "Reg. No": 61781922109014.0,
+            "Student Name": "DINAGESHWARAN P",
+            "Class": "III - B.E BME",
+            "Mobile No": 8778132980,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 438.0,
+            "Reg. No": 61781922109028.0,
+            "Student Name": "LINKESHWARAN K",
+            "Class": "III - B.E BME",
+            "Mobile No": 8838224765,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 439.0,
+            "Reg. No": 61781922109039.0,
+            "Student Name": "NARESH VELAYUTHAN S",
+            "Class": "III - B.E BME",
+            "Mobile No": 8870559122,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 440.0,
+            "Reg. No": 61781922109025.0,
+            "Student Name": "KAVYA V",
+            "Class": "III - B.E BME",
+            "Mobile No": 9342353764,
+            "Faculty": "TK"
+        }
+    ],
+    "111": [
+        {
+            "S.No": 441.0,
+            "Reg. No": 61782323104099.0,
+            "Student Name": "SRINIDHI C.R",
+            "Class": "II - B.E EEE C",
+            "Mobile No": 9488651844,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 442.0,
+            "Reg. No": 61782323104113.0,
+            "Student Name": "THARANA A S",
+            "Class": "II - B.E EEE C",
+            "Mobile No": 8754346900,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 443.0,
+            "Reg. No": 61782323104114.0,
+            "Student Name": "THARANIKA K",
+            "Class": "II - B.E EEE C",
+            "Mobile No": 8610145640,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 444.0,
+            "Reg. No": 61782323104074.0,
+            "Student Name": "REETHIKA G",
+            "Class": "II - B.E EEE B",
+            "Mobile No": 6381375871,
+            "Faculty": "TK"
+        }
+    ],
+    "112": [
+        {
+            "S.No": 445.0,
+            "Reg. No": 61782323104117.0,
+            "Student Name": "UDHAYASRI S M",
+            "Class": "II - B.E EEE C",
+            "Mobile No": 7806829678,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 446.0,
+            "Reg. No": 61782323104093.0,
+            "Student Name": "SHRUTHI SHREE S",
+            "Class": "II - B.E EEE C",
+            "Mobile No": 8838503151,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 447.0,
+            "Reg. No": 61782323104087.0,
+            "Student Name": "SAVITHA S",
+            "Class": "II - B.E EEE C",
+            "Mobile No": 9361851359,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 448.0,
+            "Reg. No": 61782323104094.0,
+            "Student Name": "SHUBHA SHREE S",
+            "Class": "II - B.E EEE C",
+            "Mobile No": 9442977394,
+            "Faculty": "GMK"
+        }
+    ],
+    "113": [
+        {
+            "S.No": 449.0,
+            "Reg. No": 61782323105089.0,
+            "Student Name": "PRANAVBALAJI KATHIRAVAN",
+            "Class": "II - B.E MECH B",
+            "Mobile No": 6379073537,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 450.0,
+            "Reg. No": 61782323105111.0,
+            "Student Name": "SRI DHARSHINI SUGAVANESWARAN P",
+            "Class": "II - B.E MECH C",
+            "Mobile No": 9791532664,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 451.0,
+            "Reg. No": 61782323105116.0,
+            "Student Name": "TARUNBALA P PRASAD",
+            "Class": "II - B.E MECH C",
+            "Mobile No": 7904895282,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 452.0,
+            "Reg. No": 61782323105123.0,
+            "Student Name": "VISHNU SARVESHWAR SOUNDAPPAN K S",
+            "Class": "II - B.E MECH C",
+            "Mobile No": 9442730693,
+            "Faculty": "GMK"
+        }
+    ],
+    "114": [
+        {
+            "S.No": 453.0,
+            "Reg. No": 61781922109002.0,
+            "Student Name": "AMRIN A",
+            "Class": "III - B.E BME",
+            "Mobile No": 9952237276,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 454.0,
+            "Reg. No": 61781922109006.0,
+            "Student Name": "CHARUDESNA J J",
+            "Class": "III - B.E BME",
+            "Mobile No": 8754333433,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 455.0,
+            "Reg. No": 61781922109009.0,
+            "Student Name": "DEEPAKNATH R",
+            "Class": "III - B.E BME",
+            "Mobile No": 9566360935,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 456.0,
+            "Reg. No": 61781922109001.0,
+            "Student Name": "ABISHEK M",
+            "Class": "III - B.E BME",
+            "Mobile No": 7667487604,
+            "Faculty": "TK"
+        }
+    ],
+    "115": [
+        {
+            "S.No": 457.0,
+            "Reg. No": 61782323111054.0,
+            "Student Name": "SHYAM  SUNDAR ",
+            "Class": "II - B.E AML",
+            "Mobile No": 8220194368,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 458.0,
+            "Reg. No": 61782323111001.0,
+            "Student Name": "ABHINAV  GEORGE ",
+            "Class": "II - B.E AML",
+            "Mobile No": 9566911516,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 459.0,
+            "Reg. No": 61782323111019.0,
+            "Student Name": "JAI SAI KISHORE B",
+            "Class": "II - B.E AML",
+            "Mobile No": 8220487682,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 460.0,
+            "Reg. No": 61782323111006.0,
+            "Student Name": "ANANTH KARTHIK V",
+            "Class": "II - B.E AML",
+            "Mobile No": 6374522707,
+            "Faculty": "PM"
+        }
+    ],
+    "116": [
+        {
+            "S.No": 461.0,
+            "Reg. No": 61781922104022.0,
+            "Student Name": "Gowtham S",
+            "Class": "III - B.E EEE A",
+            "Mobile No": 8148522803,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 462.0,
+            "Reg. No": 61781922104038.0,
+            "Student Name": "Karthikraj R",
+            "Class": "III - B.E EEE A",
+            "Mobile No": 8807738750,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 463.0,
+            "Reg. No": 61781922104015.0,
+            "Student Name": "Dharanesh P",
+            "Class": "III - B.E EEE A",
+            "Mobile No": 9952302784,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 464.0,
+            "Reg. No": 61781922104020.0,
+            "Student Name": "Gobinath S",
+            "Class": "III - B.E EEE A",
+            "Mobile No": 9442147088,
+            "Faculty": "PM"
+        }
+    ],
+    "117": [
+        {
+            "S.No": 465.0,
+            "Reg. No": 61781922112009.0,
+            "Student Name": "GOWSIKA P",
+            "Class": "III - B.E CSD",
+            "Mobile No": 934570662,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 466.0,
+            "Reg. No": 61781922112034.0,
+            "Student Name": "OVIYA D",
+            "Class": "III - B.E CSD",
+            "Mobile No": 8148877044,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 467.0,
+            "Reg. No": 61781922112042.0,
+            "Student Name": "RAJAGANAPATHI S",
+            "Class": "III - B.E CSD",
+            "Mobile No": 8778877440,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 468.0,
+            "Reg. No": 61781922112016.0,
+            "Student Name": "JAYANTHIGHA N",
+            "Class": "III - B.E CSD",
+            "Mobile No": 6379913290,
+            "Faculty": "TK"
+        }
+    ],
+    "118": [
+        {
+            "S.No": 469.0,
+            "Reg. No": 61781922109022.0,
+            "Student Name": "KARNIEL FELIX S",
+            "Class": "III - B.E BME",
+            "Mobile No": 6383031228,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 470.0,
+            "Reg. No": 61781922109041.0,
+            "Student Name": "NAVEEN N",
+            "Class": "III - B.E BME",
+            "Mobile No": 8610923523,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 471.0,
+            "Reg. No": 61781922109046.0,
+            "Student Name": "SABHARIGIRIVASAN M",
+            "Class": "III - B.E BME",
+            "Mobile No": 8056580969,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 472.0,
+            "Reg. No": 61781922109057.0,
+            "Student Name": "VISHNU RAJ D",
+            "Class": "III - B.E BME",
+            "Mobile No": 8838653979,
+            "Faculty": "TK"
+        }
+    ],
+    "119": [
+        {
+            "S.No": 473.0,
+            "Reg. No": 61781922110014.0,
+            "Student Name": "CELIN KATRIN J",
+            "Class": "III - B.Tech ADS A",
+            "Mobile No": 9600823253,
+            "Faculty": "SRA"
+        },
+        {
+            "S.No": 474.0,
+            "Reg. No": 61781922110028.0,
+            "Student Name": "GOPIKA R",
+            "Class": "III - B.Tech ADS A",
+            "Mobile No": 7339560446,
+            "Faculty": "SRA"
+        },
+        {
+            "S.No": 475.0,
+            "Reg. No": 61781922110051.0,
+            "Student Name": "KANNIKA PARAMESWARI S",
+            "Class": "III - B.Tech ADS B",
+            "Mobile No": 8248500028,
+            "Faculty": "RBA"
+        },
+        {
+            "S.No": 476.0,
+            "Reg. No": 61781922110050.0,
+            "Student Name": "KANISHKA PRIYA M",
+            "Class": "III - B.Tech ADS B",
+            "Mobile No": 9363699301,
+            "Faculty": "RBA"
+        }
+    ],
+    "120": [
+        {
+            "S.No": 477.0,
+            "Reg. No": 61781922110039.0,
+            "Student Name": "JAISHREE S S",
+            "Class": "III - B.Tech ADS A",
+            "Mobile No": 9500711774,
+            "Faculty": "SRA"
+        },
+        {
+            "S.No": 478.0,
+            "Reg. No": 61781922110020.0,
+            "Student Name": "DHARSHINI M",
+            "Class": "III - B.Tech ADS A",
+            "Mobile No": 7708811134,
+            "Faculty": "SRA"
+        },
+        {
+            "S.No": 479.0,
+            "Reg. No": 61781922110013.0,
+            "Student Name": "BHAVITHRA R S",
+            "Class": "III - B.Tech ADS A",
+            "Mobile No": 9345607016,
+            "Faculty": "SRA"
+        },
+        {
+            "S.No": 480.0,
+            "Reg. No": 61781922110029.0,
+            "Student Name": "GOWRI SHANKARI K",
+            "Class": "III - B.Tech ADS A",
+            "Mobile No": 8610239187,
+            "Faculty": "SRA"
+        }
+    ],
+    "121": [
+        {
+            "S.No": 481.0,
+            "Reg. No": 61781922110046.0,
+            "Student Name": "JENITA VERONICA J",
+            "Class": "III - B.Tech ADS B",
+            "Mobile No": 9698966333,
+            "Faculty": "RBA"
+        },
+        {
+            "S.No": 482.0,
+            "Reg. No": 61781922110047.0,
+            "Student Name": "JOESHITHAA P",
+            "Class": "III - B.Tech ADS B",
+            "Mobile No": 8778764355,
+            "Faculty": "RBA"
+        },
+        {
+            "S.No": 483.0,
+            "Reg. No": 61781922110045.0,
+            "Student Name": "JEEVITHA V",
+            "Class": "III - B.Tech ADS B",
+            "Mobile No": 9597972756,
+            "Faculty": "RBA"
+        },
+        {
+            "S.No": 484.0,
+            "Reg. No": 61781922110055.0,
+            "Student Name": "KASTHURI M E",
+            "Class": "III - B.Tech ADS B",
+            "Mobile No": 7639393709,
+            "Faculty": "RBA"
+        }
+    ],
+    "122": [
+        {
+            "S.No": 485.0,
+            "Reg. No": 61781922111011.0,
+            "Student Name": "DEVADHARSHINI R",
+            "Class": "III - B.E AML",
+            "Mobile No": 7604963841,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 486.0,
+            "Reg. No": 61781922111055.0,
+            "Student Name": "SUNANTHA D S",
+            "Class": "III - B.E AML",
+            "Mobile No": 8838348747,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 487.0,
+            "Reg. No": 61781922111009.0,
+            "Student Name": "BHARANITHARAN K",
+            "Class": "III - B.E AML",
+            "Mobile No": 8610655547,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 488.0,
+            "Reg. No": 61781922111051.0,
+            "Student Name": "SIVASHREE S",
+            "Class": "III - B.E AML",
+            "Mobile No": 6374837383,
+            "Faculty": "TK"
+        }
+    ],
+    "123": [
+        {
+            "S.No": 489.0,
+            "Reg. No": 61781922106045.0,
+            "Student Name": "JEHOSHEBA M",
+            "Class": "III - B.Tech IT B",
+            "Mobile No": 9384244632,
+            "Faculty": "RBA"
+        },
+        {
+            "S.No": 490.0,
+            "Reg. No": 61781922106046.0,
+            "Student Name": "JENISHA J",
+            "Class": "III - B.Tech IT B",
+            "Mobile No": 9342866182,
+            "Faculty": "RBA"
+        },
+        {
+            "S.No": 491.0,
+            "Reg. No": 61781922106052.0,
+            "Student Name": "KIRUTHIKA J",
+            "Class": "III - B.Tech IT B",
+            "Mobile No": 9894289602,
+            "Faculty": "RBA"
+        },
+        {
+            "S.No": 492.0,
+            "Reg. No": 61781922106065.0,
+            "Student Name": "MEGALA M",
+            "Class": "III - B.Tech IT B",
+            "Mobile No": 7200208070,
+            "Faculty": "RBA"
+        }
+    ],
+    "124": [
+        {
+            "S.No": 493.0,
+            "Reg. No": 61781922106062.0,
+            "Student Name": "MAHALAKSHMI S",
+            "Class": "III - B.Tech IT B",
+            "Mobile No": 6374581395,
+            "Faculty": "RBA"
+        },
+        {
+            "S.No": 494.0,
+            "Reg. No": 61781922106061.0,
+            "Student Name": "MADHUMITHA V",
+            "Class": "III - B.Tech IT B",
+            "Mobile No": 9342828469,
+            "Faculty": "RBA"
+        },
+        {
+            "S.No": 495.0,
+            "Reg. No": 61781922106054.0,
+            "Student Name": "KOWSIHA P",
+            "Class": "III - B.Tech IT B",
+            "Mobile No": 9715162410,
+            "Faculty": "RBA"
+        },
+        {
+            "S.No": 496.0,
+            "Reg. No": 61781922106057.0,
+            "Student Name": "KUMARESAN R",
+            "Class": "III - B.Tech IT B",
+            "Mobile No": 8667473266,
+            "Faculty": "RBA"
+        }
+    ],
+    "125": [
+        {
+            "S.No": 497.0,
+            "Reg. No": 61782323112053.0,
+            "Student Name": "SUDHIPTI  M",
+            "Class": "II - B.E CSD",
+            "Mobile No": 7010385636,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 498.0,
+            "Reg. No": 61782323111017.0,
+            "Student Name": "HARSHINI G",
+            "Class": "II - B.E AML",
+            "Mobile No": 7418571974,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 499.0,
+            "Reg. No": 61782323112007.0,
+            "Student Name": "BHARATH  S",
+            "Class": "II - B.E CSD",
+            "Mobile No": 9360491391,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 500.0,
+            "Reg. No": 61782323112003.0,
+            "Student Name": "AKASHKUMARAN  S",
+            "Class": "II - B.E CSD",
+            "Mobile No": 6382829364,
+            "Faculty": "GMK"
+        }
+    ],
+    "126": [
+        {
+            "S.No": 501.0,
+            "Reg. No": 61782323106119.0,
+            "Student Name": "VIGNESH M",
+            "Class": "II - B.Tech IT C",
+            "Mobile No": 9344585475,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 502.0,
+            "Reg. No": 61782323106101.0,
+            "Student Name": "SARAN S",
+            "Class": "II - B.Tech IT C",
+            "Mobile No": 6383056780,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 503.0,
+            "Reg. No": 61782323106102.0,
+            "Student Name": "SARAVANAN M",
+            "Class": "II - B.Tech IT C",
+            "Mobile No": 8122821057,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 504.0,
+            "Reg. No": 61782323106097.0,
+            "Student Name": "SANJAY KUMAR S",
+            "Class": "II - B.Tech IT C",
+            "Mobile No": 9342499805,
+            "Faculty": "GMK"
+        }
+    ],
+    "127": [
+        {
+            "S.No": 505.0,
+            "Reg. No": 61782323106115.0,
+            "Student Name": "THARUN S",
+            "Class": "II - B.Tech IT C",
+            "Mobile No": 8825487797,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 506.0,
+            "Reg. No": 61782323106125.0,
+            "Student Name": "VISHVADEVA S",
+            "Class": "II - B.Tech IT C",
+            "Mobile No": 8870205666,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 507.0,
+            "Reg. No": 61782323106104.0,
+            "Student Name": "SATHYAPATHI M L",
+            "Class": "II - B.Tech IT C",
+            "Mobile No": 6382238352,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 508.0,
+            "Reg. No": 61782323106103.0,
+            "Student Name": "SASI DHARAN C",
+            "Class": "II - B.Tech IT C",
+            "Mobile No": 9629768663,
+            "Faculty": "GMK"
+        }
+    ],
+    "128": [
+        {
+            "S.No": 509.0,
+            "Reg. No": 61782323112014.0,
+            "Student Name": "JAGRUTHI S S",
+            "Class": "II - B.E CSD",
+            "Mobile No": 9487420593,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 510.0,
+            "Reg. No": 61782323112046.0,
+            "Student Name": "SHAMIRA SHAHEEN  S",
+            "Class": "II - B.E CSD",
+            "Mobile No": 9500785279,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 511.0,
+            "Reg. No": 61782323112047.0,
+            "Student Name": "SHAZIA AKBAR AKBAR",
+            "Class": "II - B.E CSD",
+            "Mobile No": 9500950786,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 512.0,
+            "Reg. No": 61782323112051.0,
+            "Student Name": "SRI AISHWARYA  G",
+            "Class": "II - B.E CSD",
+            "Mobile No": 9944251160,
+            "Faculty": "GMK"
+        }
+    ],
+    "129": [
+        {
+            "S.No": 513.0,
+            "Reg. No": 61782323111040.0,
+            "Student Name": "NIDERSANA S B",
+            "Class": "II - B.E AML",
+            "Mobile No": 8667373465,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 514.0,
+            "Reg. No": 61782323111060.0,
+            "Student Name": "THARUN MURUGANANTHAM ",
+            "Class": "II - B.E AML",
+            "Mobile No": 7708155567,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 515.0,
+            "Reg. No": 61782323111059.0,
+            "Student Name": "TANYA  CEESTINA RAJ",
+            "Class": "II - B.E AML",
+            "Mobile No": 9042430076,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 516.0,
+            "Reg. No": 61782323111048.0,
+            "Student Name": "RAKKSITHA  R",
+            "Class": "II - B.E AML",
+            "Mobile No": 9585628611,
+            "Faculty": "PM"
+        }
+    ],
+    "130": [
+        {
+            "S.No": 517.0,
+            "Reg. No": 61782323111046.0,
+            "Student Name": "PRAVEEN  RAJ",
+            "Class": "II - B.E AML",
+            "Mobile No": 8667359619,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 518.0,
+            "Reg. No": 61782323111022.0,
+            "Student Name": "JOSHIKAA K",
+            "Class": "II - B.E AML",
+            "Mobile No": 9080639634,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 519.0,
+            "Reg. No": 61782323111041.0,
+            "Student Name": "NIROSHINI  K",
+            "Class": "II - B.E AML",
+            "Mobile No": 9042753240,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 520.0,
+            "Reg. No": 61782323111028.0,
+            "Student Name": "KAUSHYK  RAJ P",
+            "Class": "II - B.E AML",
+            "Mobile No": 8838754662,
+            "Faculty": "PM"
+        }
+    ],
+    "131": [
+        {
+            "S.No": 521.0,
+            "Reg. No": 61781922106108.0,
+            "Student Name": "SRINIKESH L",
+            "Class": "III - B.Tech IT C",
+            "Mobile No": 8124251925,
+            "Faculty": "MSK"
+        },
+        {
+            "S.No": 522.0,
+            "Reg. No": 61781922106078.0,
+            "Student Name": "OHM PRASHATH K M",
+            "Class": "III - B.Tech IT B",
+            "Mobile No": 6379107687,
+            "Faculty": "RBA"
+        },
+        {
+            "S.No": 523.0,
+            "Reg. No": 61781922106095.0,
+            "Student Name": "SARAN KARTHI S",
+            "Class": "III - B.Tech IT C",
+            "Mobile No": 9566584639,
+            "Faculty": "MSK"
+        },
+        {
+            "S.No": 524.0,
+            "Reg. No": 61781922106056.0,
+            "Student Name": "KUBERA ESWARAN S",
+            "Class": "III - B.Tech IT B",
+            "Mobile No": 9385314346,
+            "Faculty": "RBA"
+        }
+    ],
+    "132": [
+        {
+            "S.No": 525.0,
+            "Reg. No": 61781922108053.0,
+            "Student Name": "SHARUNYA  D",
+            "Class": "III - B.E MCT",
+            "Mobile No": 8667606727,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 526.0,
+            "Reg. No": 61781922108031.0,
+            "Student Name": "NANDHINI  S",
+            "Class": "III - B.E MCT",
+            "Mobile No": 9087776276,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 527.0,
+            "Reg. No": 61781922108045.0,
+            "Student Name": "ROSHNI  V",
+            "Class": "III - B.E MCT",
+            "Mobile No": 9361188362,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 528.0,
+            "Reg. No": 61781922108036.0,
+            "Student Name": "NIHAL AHAMED  R",
+            "Class": "III - B.E MCT",
+            "Mobile No": 8248094997,
+            "Faculty": "GMK"
+        }
+    ],
+    "133": [
+        {
+            "S.No": 529.0,
+            "Reg. No": 61782323111016.0,
+            "Student Name": "HARISH MADHAVAN V",
+            "Class": "II - B.E AML",
+            "Mobile No": 9443784470,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 530.0,
+            "Reg. No": 61782323111042.0,
+            "Student Name": "NISHANTH  P",
+            "Class": "II - B.E AML",
+            "Mobile No": 9994975916,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 531.0,
+            "Reg. No": 61782323111013.0,
+            "Student Name": "DIVYA PRAKASH KANDEEBAN",
+            "Class": "II - B.E AML",
+            "Mobile No": 8838522250,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 532.0,
+            "Reg. No": 61782323111002.0,
+            "Student Name": "ADHYANDH ROBIN SANJAY  G S",
+            "Class": "II - B.E AML",
+            "Mobile No": 8122983122,
+            "Faculty": "PM"
+        }
+    ],
+    "134": [
+        {
+            "S.No": 533.0,
+            "Reg. No": 61782323106049.0,
+            "Student Name": "KANISHKA S",
+            "Class": "II - B.Tech IT B",
+            "Mobile No": 9629039922,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 534.0,
+            "Reg. No": 61782323106054.0,
+            "Student Name": "LATHIKA S K",
+            "Class": "II - B.Tech IT B",
+            "Mobile No": 9842336117,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 535.0,
+            "Reg. No": 61782323106053.0,
+            "Student Name": "LATHIFA M",
+            "Class": "II - B.Tech IT B",
+            "Mobile No": 9489042006,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 536.0,
+            "Reg. No": 61782323106051.0,
+            "Student Name": "KAVI PRIYA J",
+            "Class": "II - B.Tech IT B",
+            "Mobile No": 6369187570,
+            "Faculty": "PM"
+        }
+    ],
+    "135": [
+        {
+            "S.No": 537.0,
+            "Reg. No": 61782323106057.0,
+            "Student Name": "LOGESHWARAN V",
+            "Class": "II - B.Tech IT B",
+            "Mobile No": 8870549017,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 538.0,
+            "Reg. No": 61782323106060.0,
+            "Student Name": "MICHEAL KISHORE KUMAR X",
+            "Class": "II - B.Tech IT B",
+            "Mobile No": 6379296466,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 539.0,
+            "Reg. No": 61782323106005.0,
+            "Student Name": "AISHWARYA M",
+            "Class": "II - B.Tech IT A",
+            "Mobile No": 6379841269,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 540.0,
+            "Reg. No": 61782323106082.0,
+            "Student Name": "PRIYA G",
+            "Class": "II - B.Tech IT B",
+            "Mobile No": 9361111750,
+            "Faculty": "PM"
+        }
+    ],
+    "136": [
+        {
+            "S.No": 541.0,
+            "Reg. No": 61782323106014.0,
+            "Student Name": "BABY SHALINI K",
+            "Class": "II - B.Tech IT A",
+            "Mobile No": 7603865643,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 542.0,
+            "Reg. No": 61782323106022.0,
+            "Student Name": "DEEPAK PRIYAN M",
+            "Class": "II - B.Tech IT A",
+            "Mobile No": 6374761669,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 543.0,
+            "Reg. No": 61782323106020.0,
+            "Student Name": "DAVID S",
+            "Class": "II - B.Tech IT A",
+            "Mobile No": 6374260942,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 544.0,
+            "Reg. No": 61782323106052.0,
+            "Student Name": "KEERTANAA D",
+            "Class": "II - B.Tech IT B",
+            "Mobile No": 6379395246,
+            "Faculty": "PM"
+        }
+    ],
+    "137": [
+        {
+            "S.No": 545.0,
+            "Reg. No": 61781922103049.0,
+            "Student Name": "KAVINRAAJ S",
+            "Class": "III - B.E ECE D",
+            "Mobile No": 7010519402,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 546.0,
+            "Reg. No": 61781922103045.0,
+            "Student Name": "KARTHIKEYAN M",
+            "Class": "III - B.E ECE B",
+            "Mobile No": 7010394477,
+            "Faculty": "PSR"
+        },
+        {
+            "S.No": 547.0,
+            "Reg. No": 61781922103058.0,
+            "Student Name": "LOGESWARAN G",
+            "Class": "III - B.E ECE B",
+            "Mobile No": 7010993137,
+            "Faculty": "PSR"
+        },
+        {
+            "S.No": 548.0,
+            "Reg. No": 61781922103057.0,
+            "Student Name": "LOGESHWAR M",
+            "Class": "III - B.E ECE A",
+            "Mobile No": 9894680393,
+            "Faculty": "GMK"
+        }
+    ],
+    "138": [
+        {
+            "S.No": 549.0,
+            "Reg. No": 61782323103023.0,
+            "Student Name": "DENISHA CATHERIN D",
+            "Class": "II - B.E ECE B",
+            "Mobile No": 9791543296,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 550.0,
+            "Reg. No": 61782323103124.0,
+            "Student Name": "PREETHI S",
+            "Class": "II - B.E ECE B",
+            "Mobile No": 9043648026,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 551.0,
+            "Reg. No": 61782323103154.0,
+            "Student Name": "SHREEVIYA R V",
+            "Class": "II - B.E ECE B",
+            "Mobile No": 8428499925,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 552.0,
+            "Reg. No": 61782323103126.0,
+            "Student Name": "PRIYADARSHINI K S",
+            "Class": "II - B.E ECE B",
+            "Mobile No": 9514803603,
+            "Faculty": "TK"
+        }
+    ],
+    "139": [
+        {
+            "S.No": 553.0,
+            "Reg. No": 61782323103134.0,
+            "Student Name": "RIJUTA A",
+            "Class": "II - B.E ECE C",
+            "Mobile No": 7845471410,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 554.0,
+            "Reg. No": 61782323103024.0,
+            "Student Name": "DESHNA SHRI M",
+            "Class": "II - B.E ECE D",
+            "Mobile No": 9345322044,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 555.0,
+            "Reg. No": 61782323103184.0,
+            "Student Name": "VIJAYALAKSHMI C",
+            "Class": "II - B.E ECE D",
+            "Mobile No": 7810024274,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 556.0,
+            "Reg. No": 61782323103173.0,
+            "Student Name": "SURYAPRABHAN V E",
+            "Class": "II - B.E ECE D",
+            "Mobile No": 9944630390,
+            "Faculty": "GMK"
+        }
+    ],
+    "140": [
+        {
+            "S.No": 557.0,
+            "Reg. No": 61781922108001.0,
+            "Student Name": "ABINAYA SRI  A",
+            "Class": "III - B.E MCT",
+            "Mobile No": 7448702488,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 558.0,
+            "Reg. No": 61781922108021.0,
+            "Student Name": "KAVYA  S",
+            "Class": "III - B.E MCT",
+            "Mobile No": 8072732272,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 559.0,
+            "Reg. No": 61781922108041.0,
+            "Student Name": "RAJESH KUMAR  J P",
+            "Class": "III - B.E MCT",
+            "Mobile No": 9677746101,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 560.0,
+            "Reg. No": 61781922108060.0,
+            "Student Name": "VETRIVEL   S K P",
+            "Class": "III - B.E MCT",
+            "Mobile No": 9345728131,
+            "Faculty": "GMK"
+        }
+    ],
+    "141": [
+        {
+            "S.No": 561.0,
+            "Reg. No": 61782323110098.0,
+            "Student Name": "SANKAR  V",
+            "Class": "II - B.Tech ADS C",
+            "Mobile No": 8608730998,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 562.0,
+            "Reg. No": 61782323110087.0,
+            "Student Name": "PRANITA  A",
+            "Class": "II - B.Tech ADS C",
+            "Mobile No": 8682829869,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 563.0,
+            "Reg. No": 61782323110115.0,
+            "Student Name": "THIGANTH  K",
+            "Class": "II - B.Tech ADS C",
+            "Mobile No": 9342367099,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 564.0,
+            "Reg. No": 61782323110065.0,
+            "Student Name": "MATHUMATHI P R",
+            "Class": "II - B.Tech ADS B",
+            "Mobile No": 9843831242,
+            "Faculty": "GMK"
+        }
+    ],
+    "142": [
+        {
+            "S.No": 565.0,
+            "Reg. No": 61782323110040.0,
+            "Student Name": "HAANIYA SABREEN S",
+            "Class": "II - B.Tech ADS A",
+            "Mobile No": 9789712039,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 566.0,
+            "Reg. No": 61782323110042.0,
+            "Student Name": "HARINI S",
+            "Class": "II - B.Tech ADS A",
+            "Mobile No": 8754072635,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 567.0,
+            "Reg. No": 61782323110030.0,
+            "Student Name": "DHARSHANA R",
+            "Class": "II - B.Tech ADS A",
+            "Mobile No": 8300315433,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 568.0,
+            "Reg. No": 61782323110023.0,
+            "Student Name": "BHAVANA L",
+            "Class": "II - B.Tech ADS A",
+            "Mobile No": 9345507870,
+            "Faculty": "PM"
+        }
+    ],
+    "143": [
+        {
+            "S.No": 569.0,
+            "Reg. No": 61782323110010.0,
+            "Student Name": "ANGELIN SUMITHRA S",
+            "Class": "II - B.Tech ADS A",
+            "Mobile No": 6381911953,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 570.0,
+            "Reg. No": 61782323110009.0,
+            "Student Name": "AKSHYA HARINI N",
+            "Class": "II - B.Tech ADS A",
+            "Mobile No": 8015021507,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 571.0,
+            "Reg. No": 61782323110001.0,
+            "Student Name": "AADHIKESAVAN S",
+            "Class": "II - B.Tech ADS A",
+            "Mobile No": 6380071486,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 572.0,
+            "Reg. No": 61782323110029.0,
+            "Student Name": "DHARMALINGAN N P S",
+            "Class": "II - B.Tech ADS A",
+            "Mobile No": 8825763938,
+            "Faculty": "PM"
+        }
+    ],
+    "144": [
+        {
+            "S.No": 573.0,
+            "Reg. No": 61782323110008.0,
+            "Student Name": "AKSHAYA SRI B",
+            "Class": "II - B.Tech ADS A",
+            "Mobile No": 8489361134,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 574.0,
+            "Reg. No": 61782323110007.0,
+            "Student Name": "AKSHAYA P",
+            "Class": "II - B.Tech ADS A",
+            "Mobile No": 9952631496,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 575.0,
+            "Reg. No": 61782323110047.0,
+            "Student Name": "JANANE S B",
+            "Class": "II - B.Tech ADS B",
+            "Mobile No": 8248852987,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 576.0,
+            "Reg. No": 61782323110058.0,
+            "Student Name": "KEERTHANA K",
+            "Class": "II - B.Tech ADS B",
+            "Mobile No": 6379285789,
+            "Faculty": "GMK"
+        }
+    ],
+    "145": [
+        {
+            "S.No": 577.0,
+            "Reg. No": 61782323110003.0,
+            "Student Name": "ABINAYA S",
+            "Class": "II - B.Tech ADS A",
+            "Mobile No": 9087653460,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 578.0,
+            "Reg. No": 61782323110011.0,
+            "Student Name": "ANITHA M",
+            "Class": "II - B.Tech ADS A",
+            "Mobile No": 9025485772,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 579.0,
+            "Reg. No": 61782323110013.0,
+            "Student Name": "ARCHANA DEVI E",
+            "Class": "II - B.Tech ADS A",
+            "Mobile No": 9363133960,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 580.0,
+            "Reg. No": 61782323110026.0,
+            "Student Name": "DEEPIKA R",
+            "Class": "II - B.Tech ADS A",
+            "Mobile No": 8072228462,
+            "Faculty": "PM"
+        }
+    ],
+    "146": [
+        {
+            "S.No": 581.0,
+            "Reg. No": 61782323102015.0,
+            "Student Name": "BHAGYASHREE  SENTHILKUMAR ",
+            "Class": "II - B.E CSE A",
+            "Mobile No": 8825856520,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 582.0,
+            "Reg. No": 61782323102046.0,
+            "Student Name": "GRACE CHRISTEL C",
+            "Class": "II - B.E CSE A",
+            "Mobile No": 9443882723,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 583.0,
+            "Reg. No": 61782323102018.0,
+            "Student Name": "BHAVITRA S",
+            "Class": "II - B.E CSE A",
+            "Mobile No": 9597303320,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 584.0,
+            "Reg. No": 61782323102036.0,
+            "Student Name": "DIVYADHARSHINI M",
+            "Class": "II - B.E CSE A",
+            "Mobile No": 9952740344,
+            "Faculty": "PM"
+        }
+    ],
+    "147": [
+        {
+            "S.No": 585.0,
+            "Reg. No": 61782323102035.0,
+            "Student Name": "DIVYAASHRE E G",
+            "Class": "II - B.E CSE A",
+            "Mobile No": 6380563415,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 586.0,
+            "Reg. No": 61782323102028.0,
+            "Student Name": "DHARSHANA R",
+            "Class": "II - B.E CSE A",
+            "Mobile No": 9791333528,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 587.0,
+            "Reg. No": 61782323102107.0,
+            "Student Name": "NEHAL  KESAVAN ",
+            "Class": "II - B.E CSE A",
+            "Mobile No": 8524025595,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 588.0,
+            "Reg. No": 61782323102007.0,
+            "Student Name": "ALRIFA I",
+            "Class": "II - B.E CSE A",
+            "Mobile No": 9443063505,
+            "Faculty": "PM"
+        }
+    ],
+    "148": [
+        {
+            "S.No": 589.0,
+            "Reg. No": 61782323102003.0,
+            "Student Name": "ABIRAMI M",
+            "Class": "II - B.E CSE A",
+            "Mobile No": 6383797980,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 590.0,
+            "Reg. No": 61782323102004.0,
+            "Student Name": "AGALYA M",
+            "Class": "II - B.E CSE A",
+            "Mobile No": 6380803930,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 591.0,
+            "Reg. No": 61782323102030.0,
+            "Student Name": "DHINESH  S",
+            "Class": "II - B.E CSE A",
+            "Mobile No": 7904393690,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 592.0,
+            "Reg. No": 61782323102034.0,
+            "Student Name": "DINESH KUMAR  S",
+            "Class": "II - B.E CSE A",
+            "Mobile No": 8778839058,
+            "Faculty": "PM"
+        }
+    ],
+    "149": [
+        {
+            "S.No": 593.0,
+            "Reg. No": 61782323102032.0,
+            "Student Name": "DHIYANESH  B",
+            "Class": "II - B.E CSE A",
+            "Mobile No": 9442645512,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 594.0,
+            "Reg. No": 61782323102021.0,
+            "Student Name": "CHIDAMBARAM  UM",
+            "Class": "II - B.E CSE A",
+            "Mobile No": 7904811925,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 595.0,
+            "Reg. No": 61782323102022.0,
+            "Student Name": "DEEPAK  S S",
+            "Class": "II - B.E CSE A",
+            "Mobile No": 7810013351,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 596.0,
+            "Reg. No": 61782323102037.0,
+            "Student Name": "M EIKJAS  ALI KHAN",
+            "Class": "II - B.E CSE A",
+            "Mobile No": 6380068607,
+            "Faculty": "PM"
+        }
+    ],
+    "150": [
+        {
+            "S.No": 597.0,
+            "Reg. No": 61782323103158.0,
+            "Student Name": "SOWBAKIYA M",
+            "Class": "II - B.E ECE C",
+            "Mobile No": 8610436593,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 598.0,
+            "Reg. No": 61782323103132.0,
+            "Student Name": "RAMYA M",
+            "Class": "II - B.E ECE C",
+            "Mobile No": 9626237423,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 599.0,
+            "Reg. No": 61782323103137.0,
+            "Student Name": "RITHANYA S",
+            "Class": "II - B.E ECE C",
+            "Mobile No": 9486095861,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 600.0,
+            "Reg. No": 61782323103036.0,
+            "Student Name": "DIVYADHARSHINI S",
+            "Class": "II - B.E ECE C",
+            "Mobile No": 9944068598,
+            "Faculty": "PM"
+        }
+    ],
+    "151": [
+        {
+            "S.No": 601.0,
+            "Reg. No": 61781922104024.0,
+            "Student Name": "Harini S N",
+            "Class": "III - B.E EEE A",
+            "Mobile No": 9486601896,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 602.0,
+            "Reg. No": 61781922104014.0,
+            "Student Name": "Cousmitha T",
+            "Class": "III - B.E EEE A",
+            "Mobile No": 6379563939,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 603.0,
+            "Reg. No": 61781922104028.0,
+            "Student Name": "Harthi S V",
+            "Class": "III - B.E EEE A",
+            "Mobile No": 8778089756,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 604.0,
+            "Reg. No": 61781922104703.0,
+            "Student Name": "Kowsalya R",
+            "Class": "III - B.E EEE A",
+            "Mobile No": 9360920946,
+            "Faculty": "PM"
+        }
+    ],
+    "152": [
+        {
+            "S.No": 605.0,
+            "Reg. No": 61781922109005.0,
+            "Student Name": "ASWIN REJINDA A",
+            "Class": "III - B.E BME",
+            "Mobile No": 6383850614,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 606.0,
+            "Reg. No": 61781922109023.0,
+            "Student Name": "KAVISIKA P",
+            "Class": "III - B.E BME",
+            "Mobile No": 8610278639,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 607.0,
+            "Reg. No": 61781922109052.0,
+            "Student Name": "SWATHI M",
+            "Class": "III - B.E BME",
+            "Mobile No": 7092727858,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 608.0,
+            "Reg. No": 61781922109049.0,
+            "Student Name": "SREEJA R",
+            "Class": "III - B.E BME",
+            "Mobile No": 9344793909,
+            "Faculty": "TK"
+        }
+    ],
+    "153": [
+        {
+            "S.No": 609.0,
+            "Reg. No": 61782323101052.0,
+            "Student Name": "SIVARAJ M",
+            "Class": "II - B.E CIVIL A",
+            "Mobile No": 9342836253,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 610.0,
+            "Reg. No": 61782323101027.0,
+            "Student Name": "KARTHI N",
+            "Class": "II - B.E CIVIL A",
+            "Mobile No": 9942700555,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 611.0,
+            "Reg. No": 61782323101021.0,
+            "Student Name": "JAI AKASH R",
+            "Class": "II - B.E CIVIL A",
+            "Mobile No": 9965125102,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 612.0,
+            "Reg. No": 61782323101028.0,
+            "Student Name": "KARTHIK S",
+            "Class": "II - B.E CIVIL A",
+            "Mobile No": 9597743084,
+            "Faculty": "SUH"
+        }
+    ],
+    "154": [
+        {
+            "S.No": 613.0,
+            "Reg. No": 61782323107034.0,
+            "Student Name": "NANDHEESWAR M M",
+            "Class": "II - B.Tech FT",
+            "Mobile No": 9944242889,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 614.0,
+            "Reg. No": 61782323107052.0,
+            "Student Name": "SARAN G G",
+            "Class": "II - B.Tech FT",
+            "Mobile No": 9842959507,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 615.0,
+            "Reg. No": 61782323107056.0,
+            "Student Name": "SUJETH KUMAR R R",
+            "Class": "II - B.Tech FT",
+            "Mobile No": 9344435601,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 616.0,
+            "Reg. No": 61782323107028.0,
+            "Student Name": "KISHORE K K",
+            "Class": "II - B.Tech FT",
+            "Mobile No": 9787771759,
+            "Faculty": "SUH"
+        }
+    ],
+    "155": [
+        {
+            "S.No": 617.0,
+            "Reg. No": 61782323107008.0,
+            "Student Name": "ASHWINI PRIYA M M",
+            "Class": "II - B.Tech FT",
+            "Mobile No": 7604815974,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 618.0,
+            "Reg. No": 61782323107010.0,
+            "Student Name": "BHAVYA D D",
+            "Class": "II - B.Tech FT",
+            "Mobile No": 9789293937,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 619.0,
+            "Reg. No": 61782323107053.0,
+            "Student Name": "SILVIYA S S",
+            "Class": "II - B.Tech FT",
+            "Mobile No": 8787402050,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 620.0,
+            "Reg. No": 61782323107050.0,
+            "Student Name": "SAJANI S S S S",
+            "Class": "II - B.Tech FT",
+            "Mobile No": 9443477204,
+            "Faculty": "SUH"
+        }
+    ],
+    "156": [
+        {
+            "S.No": 621.0,
+            "Reg. No": 61782323106003.0,
+            "Student Name": "ABIRAMI M S",
+            "Class": "II - B.Tech IT A",
+            "Mobile No": 9500921903,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 622.0,
+            "Reg. No": 61782323106029.0,
+            "Student Name": "DHARSHNA N",
+            "Class": "II - B.Tech IT A",
+            "Mobile No": 6379747664,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 623.0,
+            "Reg. No": 61782323106025.0,
+            "Student Name": "DHANALAKSHMI J",
+            "Class": "II - B.Tech IT A",
+            "Mobile No": 6369089948,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 624.0,
+            "Reg. No": 61782323106033.0,
+            "Student Name": "DIVYA R",
+            "Class": "II - B.Tech IT A",
+            "Mobile No": 9025158938,
+            "Faculty": "TK"
+        }
+    ],
+    "157": [
+        {
+            "S.No": 625.0,
+            "Reg. No": 61781922111046.0,
+            "Student Name": "SHANMITHAA S",
+            "Class": "III - B.E AML",
+            "Mobile No": 9043044133,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 626.0,
+            "Reg. No": 61781922111016.0,
+            "Student Name": "GIRISH M",
+            "Class": "III - B.E AML",
+            "Mobile No": 9342943992,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 627.0,
+            "Reg. No": 61781922111006.0,
+            "Student Name": "ARUNKUMAR A",
+            "Class": "III - B.E AML",
+            "Mobile No": "70928 37958",
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 628.0,
+            "Reg. No": 61781922111045.0,
+            "Student Name": "SANJU SHREE T N",
+            "Class": "III - B.E AML",
+            "Mobile No": 9962985576,
+            "Faculty": "TK"
+        }
+    ],
+    "158": [
+        {
+            "S.No": 629.0,
+            "Reg. No": 61781922111019.0,
+            "Student Name": "HEMA SHRUTHI V",
+            "Class": "III - B.E AML",
+            "Mobile No": 6383041355,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 630.0,
+            "Reg. No": 61781922111030.0,
+            "Student Name": "MADHUMITHA M",
+            "Class": "III - B.E AML",
+            "Mobile No": 9159186674,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 631.0,
+            "Reg. No": 61781922111021.0,
+            "Student Name": "JAFRIN NIDHA J",
+            "Class": "III - B.E AML",
+            "Mobile No": 8489226526,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 632.0,
+            "Reg. No": 61781922111020.0,
+            "Student Name": "HEMA SREE Y",
+            "Class": "III - B.E AML",
+            "Mobile No": 7075187023,
+            "Faculty": "TK"
+        }
+    ],
+    "159": [
+        {
+            "S.No": 633.0,
+            "Reg. No": 61782323109012.0,
+            "Student Name": "DHARSSHINI K",
+            "Class": "II - B.E BME",
+            "Mobile No": 8525878965,
+            "Faculty": "MSK"
+        },
+        {
+            "S.No": 634.0,
+            "Reg. No": 61782323109018.0,
+            "Student Name": "HEMALATHA A",
+            "Class": "II - B.E BME",
+            "Mobile No": 9790571062,
+            "Faculty": "MSK"
+        },
+        {
+            "S.No": 635.0,
+            "Reg. No": 61782323109020.0,
+            "Student Name": "INSUVAI S",
+            "Class": "II - B.E BME",
+            "Mobile No": 7010319092,
+            "Faculty": "MSK"
+        },
+        {
+            "S.No": 636.0,
+            "Reg. No": 61782323109006.0,
+            "Student Name": "APARNA SS",
+            "Class": "II - B.E BME",
+            "Mobile No": 9344345285,
+            "Faculty": "MSK"
+        }
+    ],
+    "160": [
+        {
+            "S.No": 637.0,
+            "Reg. No": 61781922112012.0,
+            "Student Name": "HARI VIGNESH S",
+            "Class": "III - B.E CSD",
+            "Mobile No": 8925556979,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 638.0,
+            "Reg. No": 61781922112036.0,
+            "Student Name": "PRABAKARAN J",
+            "Class": "III - B.E CSD",
+            "Mobile No": 9025646857,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 639.0,
+            "Reg. No": 61781922112063.0,
+            "Student Name": "YOGESH S",
+            "Class": "III - B.E CSD",
+            "Mobile No": 6379338746,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 640.0,
+            "Reg. No": 61781922112062.0,
+            "Student Name": "VYSHNAVI K",
+            "Class": "III - B.E CSD",
+            "Mobile No": 7904486868,
+            "Faculty": "TK"
+        }
+    ],
+    "161": [
+        {
+            "S.No": 641.0,
+            "Reg. No": 61782324401030.0,
+            "Student Name": "KARUNYA S S",
+            "Class": "I MCA",
+            "Mobile No": 8838829689,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 642.0,
+            "Reg. No": 61782324401020.0,
+            "Student Name": "JANANI S K",
+            "Class": "I MCA",
+            "Mobile No": 9944988468,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 643.0,
+            "Reg. No": 61782324401022.0,
+            "Student Name": "HARISH B",
+            "Class": "I MCA",
+            "Mobile No": 9363359540,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 644.0,
+            "Reg. No": 61782324401027.0,
+            "Student Name": "KAMALESHWARAN K J",
+            "Class": "I MCA",
+            "Mobile No": 9363359540,
+            "Faculty": "TK"
+        }
+    ],
+    "162": [
+        {
+            "S.No": 645.0,
+            "Reg. No": 61782324401061.0,
+            "Student Name": "VASUMATHY M",
+            "Class": "I MCA",
+            "Mobile No": 9361810875,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 646.0,
+            "Reg. No": 61782324401021.0,
+            "Student Name": "HARINI T M",
+            "Class": "I MCA",
+            "Mobile No": 7845705199,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 647.0,
+            "Reg. No": 61782324401040.0,
+            "Student Name": "PAVITHRA S",
+            "Class": "I MCA",
+            "Mobile No": 8682877877,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 648.0,
+            "Reg. No": 61782324401056.0,
+            "Student Name": "SRIPRIYA G J",
+            "Class": "I MCA",
+            "Mobile No": 9363109699,
+            "Faculty": "TK"
+        }
+    ],
+    "163": [
+        {
+            "S.No": 649.0,
+            "Reg. No": 61782324401026.0,
+            "Student Name": "JOSELIN MARIA J",
+            "Class": "I MCA",
+            "Mobile No": 9751909938,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 650.0,
+            "Reg. No": 61782324401010.0,
+            "Student Name": "DHINESH M",
+            "Class": "I MCA",
+            "Mobile No": 8667889744,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 651.0,
+            "Reg. No": 61782324401028.0,
+            "Student Name": "KANISH A S",
+            "Class": "I MCA",
+            "Mobile No": 917530000000,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 652.0,
+            "Reg. No": 61782332401012.0,
+            "Student Name": "DIVYA RAJ M",
+            "Class": "I MCA",
+            "Mobile No": 9488121826,
+            "Faculty": "TK"
+        }
+    ],
+    "164": [
+        {
+            "S.No": 653.0,
+            "Reg. No": 61782324401037.0,
+            "Student Name": "NAVEEN S",
+            "Class": "I MCA",
+            "Mobile No": 9042679828,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 654.0,
+            "Reg. No": 61782324401024.0,
+            "Student Name": "JAGATHRACHAGAN G",
+            "Class": "I MCA",
+            "Mobile No": 9344954198,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 655.0,
+            "Reg. No": 61782324401009.0,
+            "Student Name": "DHARSHAN K",
+            "Class": "I MCA",
+            "Mobile No": 9344954198,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 656.0,
+            "Reg. No": 61782324401062.0,
+            "Student Name": "VIJAY N",
+            "Class": "I MCA",
+            "Mobile No": 9360024508,
+            "Faculty": "TK"
+        }
+    ],
+    "165": [
+        {
+            "S.No": 657.0,
+            "Reg. No": 61781922102071.0,
+            "Student Name": "MADHUSHREE B",
+            "Class": "III - B.E CSE B",
+            "Mobile No": 9080434826,
+            "Faculty": "MSK"
+        },
+        {
+            "S.No": 658.0,
+            "Reg. No": 61781922102094.0,
+            "Student Name": "PARVAT R",
+            "Class": "III - B.E CSE B",
+            "Mobile No": 6379850419,
+            "Faculty": "MSK"
+        },
+        {
+            "S.No": 659.0,
+            "Reg. No": 61781922102083.0,
+            "Student Name": "MOUTHINI S",
+            "Class": "III - B.E CSE B",
+            "Mobile No": 6382531952,
+            "Faculty": "MSK"
+        },
+        {
+            "S.No": 660.0,
+            "Reg. No": 61781922102093.0,
+            "Student Name": "PALLAVARAPU Richitha",
+            "Class": "III - B.E CSE B",
+            "Mobile No": 8688242239,
+            "Faculty": "MSK"
+        }
+    ],
+    "166": [
+        {
+            "S.No": 661.0,
+            "Reg. No": 61782323109043.0,
+            "Student Name": "SHANMUGAPRIYA  J",
+            "Class": "II - B.E BME",
+            "Mobile No": 9597743170,
+            "Faculty": "MSK"
+        },
+        {
+            "S.No": 662.0,
+            "Reg. No": 61782323109021.0,
+            "Student Name": "ISHANI R",
+            "Class": "II - B.E BME",
+            "Mobile No": 9940993575,
+            "Faculty": "MSK"
+        },
+        {
+            "S.No": 663.0,
+            "Reg. No": 61782323109059.0,
+            "Student Name": "VIMALA  V",
+            "Class": "II - B.E BME",
+            "Mobile No": 9626336569,
+            "Faculty": "MSK"
+        },
+        {
+            "S.No": 664.0,
+            "Reg. No": 61782323109035.0,
+            "Student Name": "NIHA A",
+            "Class": "II - B.E BME",
+            "Mobile No": 9952893876,
+            "Faculty": "MSK"
+        }
+    ],
+    "167": [
+        {
+            "S.No": 665.0,
+            "Reg. No": 61781922105083.0,
+            "Student Name": "SHARWESH  C",
+            "Class": "III - B.E MECH C",
+            "Mobile No": 8072276207,
+            "Faculty": "PSR"
+        },
+        {
+            "S.No": 666.0,
+            "Reg. No": 61781922105074.0,
+            "Student Name": "SANTHOSHRAM  M",
+            "Class": "III - B.E MECH C",
+            "Mobile No": 9384480807,
+            "Faculty": "PSR"
+        },
+        {
+            "S.No": 667.0,
+            "Reg. No": 61781922105103.0,
+            "Student Name": "VISHNUPRAKASH  S S",
+            "Class": "III - B.E MECH C",
+            "Mobile No": 7708910708,
+            "Faculty": "PSR"
+        },
+        {
+            "S.No": 668.0,
+            "Reg. No": 61781922105091.0,
+            "Student Name": "SRINAVANEETH  M",
+            "Class": "III - B.E MECH C",
+            "Mobile No": 6383899448,
+            "Faculty": "PSR"
+        }
+    ],
+    "168": [
+        {
+            "S.No": 669.0,
+            "Reg. No": 61781922103097.0,
+            "Student Name": "PRITHIYA P",
+            "Class": "III - B.E ECE D",
+            "Mobile No": 9025757810,
+            "Faculty": "SUH"
+        },
+        {
+            "S.No": 670.0,
+            "Reg. No": 61781922103105.0,
+            "Student Name": "RENUGA DEVI G",
+            "Class": "III - B.E ECE A",
+            "Mobile No": 9025418385,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 671.0,
+            "Reg. No": 61781922103063.0,
+            "Student Name": "MADHURA S",
+            "Class": "III - B.E ECE A",
+            "Mobile No": 6374246115,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 672.0,
+            "Reg. No": 61781922103095.0,
+            "Student Name": "PRAVEENA K",
+            "Class": "III - B.E ECE A",
+            "Mobile No": 9442252003,
+            "Faculty": "GMK"
+        }
+    ],
+    "169": [
+        {
+            "S.No": 673.0,
+            "Reg. No": 61782323105083.0,
+            "Student Name": "NISHA A",
+            "Class": "II - B.E MECH B",
+            "Mobile No": 8248392727,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 674.0,
+            "Reg. No": 61782323105054.0,
+            "Student Name": "KANNAN M",
+            "Class": "II - B.E MECH B",
+            "Mobile No": 7806828232,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 675.0,
+            "Reg. No": 61782323105053.0,
+            "Student Name": "KAMALESH E S",
+            "Class": "II - B.E MECH B",
+            "Mobile No": 9344386055,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 676.0,
+            "Reg. No": 61782323105048.0,
+            "Student Name": "JAYARAJ V",
+            "Class": "II - B.E MECH B",
+            "Mobile No": 9585891601,
+            "Faculty": "TK"
+        }
+    ],
+    "170": [
+        {
+            "S.No": 677.0,
+            "Reg. No": 61781922109007.0,
+            "Student Name": "CIBINISRI R",
+            "Class": "III - B.E BME",
+            "Mobile No": 9025882422,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 678.0,
+            "Reg. No": 61781922109042.0,
+            "Student Name": "PRIYADHARSHINI R",
+            "Class": "III - B.E BME",
+            "Mobile No": 6383864779,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 679.0,
+            "Reg. No": 61781922109030.0,
+            "Student Name": "LOGA SRI R",
+            "Class": "III - B.E BME",
+            "Mobile No": 9025346090,
+            "Faculty": "TK"
+        },
+        {
+            "S.No": 680.0,
+            "Reg. No": 61781922109055.0,
+            "Student Name": "VIJAYENDRAN I",
+            "Class": "III - B.E BME",
+            "Mobile No": 8870379889,
+            "Faculty": "TK"
+        }
+    ],
+    "171": [
+        {
+            "S.No": 681.0,
+            "Reg. No": 61782323103179.0,
+            "Student Name": "THARUN S",
+            "Class": "II - B.E ECE D",
+            "Mobile No": 7598372245,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 682.0,
+            "Reg. No": 61782323103011.0,
+            "Student Name": "ARUN KUMAR G",
+            "Class": "II - B.E ECE D",
+            "Mobile No": 9585017514,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 683.0,
+            "Reg. No": 61782323103012.0,
+            "Student Name": "AVANDHIKA S",
+            "Class": "II - B.E ECE D",
+            "Mobile No": 6383356499,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 684.0,
+            "Reg. No": 61782323103061.0,
+            "Student Name": "INIYA V G",
+            "Class": "II - B.E ECE D",
+            "Mobile No": 9344253752,
+            "Faculty": "GMK"
+        }
+    ],
+    "172": [
+        {
+            "S.No": 685.0,
+            "Reg. No": 61781922104021.0,
+            "Student Name": "Gokulnath R",
+            "Class": "III - B.E EEE A",
+            "Mobile No": 9342541227,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 686.0,
+            "Reg. No": 61781922104018.0,
+            "Student Name": "Divyadharshini B",
+            "Class": "III - B.E EEE A",
+            "Mobile No": 9342910474,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 687.0,
+            "Reg. No": 61781922104032.0,
+            "Student Name": "Jeevitha V",
+            "Class": "III - B.E EEE A",
+            "Mobile No": 6374577526,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 688.0,
+            "Reg. No": 61781922104031.0,
+            "Student Name": "Jayani M",
+            "Class": "III - B.E EEE A",
+            "Mobile No": 7418030335,
+            "Faculty": "PM"
+        }
+    ],
+    "173": [
+        {
+            "S.No": 689.0,
+            "Reg. No": 61782323101020.0,
+            "Student Name": "JAGADEESAN G",
+            "Class": "II - B.E CIVIL B",
+            "Mobile No": 6381668923,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 690.0,
+            "Reg. No": 61782323101031.0,
+            "Student Name": "LEYON A",
+            "Class": "II - B.E CIVIL B",
+            "Mobile No": 8015505272,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 691.0,
+            "Reg. No": 61782323101055.0,
+            "Student Name": "SRISHANTH NSP",
+            "Class": "II - B.E CIVIL B",
+            "Mobile No": 9659453031,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 692.0,
+            "Reg. No": 61782323101030.0,
+            "Student Name": "KRISHNAN MANIYAN SANKAR",
+            "Class": "II - B.E CIVIL B",
+            "Mobile No": 8667566747,
+            "Faculty": "PM"
+        }
+    ],
+    "174": [
+        {
+            "S.No": 693.0,
+            "Reg. No": 61782323108032.0,
+            "Student Name": "MANOJKUMAR S",
+            "Class": "II - B.E MCT",
+            "Mobile No": 9360442080,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 694.0,
+            "Reg. No": 61782323108033.0,
+            "Student Name": "MOHAMMED ABRAR N",
+            "Class": "II - B.E MCT",
+            "Mobile No": 9488550135,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 695.0,
+            "Reg. No": 61782323108052.0,
+            "Student Name": "SATHIYA NARAYANAN A R",
+            "Class": "II - B.E MCT",
+            "Mobile No": 8300124922,
+            "Faculty": "PM"
+        },
+        {
+            "S.No": 696.0,
+            "Reg. No": 61782323108028.0,
+            "Student Name": "JEYARAJA KARTHIKEYAN AMMAPETTAI SIVAGNANAM",
+            "Class": "II - B.E MCT",
+            "Mobile No": 9445935350,
+            "Faculty": "PM"
+        }
+    ],
+    "175": [
+        {
+            "S.No": 697.0,
+            "Reg. No": 61781922103130.0,
+            "Student Name": "SOWBARANIGHA S J",
+            "Class": "III - B.E ECE A",
+            "Mobile No": 9894994725,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 698.0,
+            "Reg. No": 61781922103113.0,
+            "Student Name": "SAKTHINAVATHARA S",
+            "Class": "III - B.E ECE C",
+            "Mobile No": 9342606125,
+            "Faculty": "CMK"
+        },
+        {
+            "S.No": 699.0,
+            "Reg. No": 61781922103146.0,
+            "Student Name": "THILAGAR S",
+            "Class": "III - B.E ECE A",
+            "Mobile No": 7695871421,
+            "Faculty": "GMK"
+        },
+        {
+            "S.No": 700.0,
+            "Reg. No": 61781922103120.0,
+            "Student Name": "SANTHOSH P",
+            "Class": "III - B.E ECE A",
+            "Mobile No": 7418377263,
+            "Faculty": "GMK"
+        }
+    ]
+}
