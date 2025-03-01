@@ -20,22 +20,23 @@
             font-family: 'Poppins', sans-serif; /* Modern font */
         }
 
-        /* Card Styling with Neon Effect */
+        /* Team Card Styling */
         .team-card {
             background-color: #000; /* Black background */
             border: 1px solid #00bfff; /* Light Blue border */
             border-radius: 10px;
             margin-bottom: 20px;
             box-shadow: 0 4px 8px rgba(0, 191, 255, 0.3);
-            transition: 0.3s ease-in-out;
+            transition: box-shadow 0.2s ease-in-out, transform 0.2s ease-in-out; /* Faster transition */
         }
 
-        /* Neon Hover Effect */
-        .team-card:hover {
-            box-shadow: 0 0 15px #00bfff, 0 0 30px #00bfff;
-            transform: scale(1.03);
+        /* Neon Hover Effect (Desktop + Mobile) */
+        .team-card:hover,
+        .team-card.hover-effect { 
+            box-shadow: 0 0 20px #00bfff, 0 0 40px #00bfff;
+            transform: scale(1.05);
         }
-
+        
         /* Card Header */
         .team-card .card-header {
             background-color: #00bfff; /* Light Blue */
@@ -68,27 +69,112 @@
             background-color: #222;
             border: 1px solid #00bfff;
             color: #fff;
+            font-size: 14px; /* Smaller font size */
+            padding: 5px 10px; /* Smaller padding */
         }
 
         #searchInput::placeholder {
             color: #aaa;
         }
 
-        /* Team Details Button */
-        .team-details-btn {
-            border: 2px solid #00bfff;
-            color: #00bfff;
-            transition: 0.3s ease-in-out;
+        /* Custom Dropdown Styling */
+        .custom-dropdown {
+            background-color: #222;
+            border: 1px solid #00bfff;
+            color: #fff;
+            padding: 5px 10px; /* Smaller padding */
+            border-radius: 5px;
+            font-size: 14px; /* Smaller font size */
+            width: 100%; /* Full width for responsiveness */
         }
 
-        .team-details-btn:hover {
+        .custom-dropdown:focus {
+            outline: none;
+            border-color: #00bfff;
+            box-shadow: 0 0 5px #00bfff;
+        }
+
+        /* Clear Filters Button */
+        .clear-filters-btn {
+            background-color: #ff4444;
+            border: none;
+            color: #fff;
+            padding: 5px 10px; /* Smaller padding */
+            border-radius: 5px;
+            font-size: 14px; /* Smaller font size */
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+            width: 100%; /* Full width for responsiveness */
+        }
+
+        .clear-filters-btn:hover {
+            background-color: #cc0000;
+        }
+
+        /* Responsive Filter Container */
+        .filter-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 10px;
+            margin-bottom: 20px;
+            align-items: center; /* Align items vertically */
+        }
+
+        .filter-container > * {
+            flex: 1 1 auto; /* Allow items to grow and shrink */
+            min-width: 150px; /* Minimum width for better responsiveness */
+        }
+
+        /* Adjust layout for small screens */
+        @media (max-width: 768px) {
+            .filter-container {
+                flex-direction: column;
+            }
+
+            .filter-container > * {
+                width: 100%; /* Full width on small screens */
+            }
+        }
+
+        /* Pagination Styling */
+        .pagination {
+            justify-content: center;
+            margin-top: 20px;
+        }
+
+        .page-item {
+            margin: 0 5px;
+        }
+
+        .page-link {
+            background-color: #222;
+            border: 1px solid #00bfff;
+            color: #00bfff;
+        }
+
+        .page-link:hover {
             background-color: #00bfff;
             color: #000;
+        }
+
+        .page-item.active .page-link {
+            background-color: #00bfff;
+            border-color: #00bfff;
+            color: #000;
+        }
+
+        /* Label Styling */
+        .filter-label {
+            font-size: 14px; /* Smaller font size */
+            color: #00bfff; /* Light Blue text */
+            margin-right: 5px; /* Space between label and dropdown */
         }
     </style>
 
     <script>
         let teamsData = {};
+        let currentPage = 1;
+        const teamsPerPage = 20;
 
         // Fetch JSON data with error handling
         fetch('team_details.json')
@@ -103,7 +189,8 @@
                         }));
                     });
                     teamsData = data;
-                    displayTeams(data);
+                    displayTeams(data, currentPage);
+                    setupPagination(data);
                 } catch (error) {
                     console.error("Error processing JSON data:", error);
                 }
@@ -112,11 +199,20 @@
                 console.error("Error fetching team details:", error);
             });
 
-        function displayTeams(data) {
+        function displayTeams(data, page) {
             let container = document.getElementById("teamList");
             container.innerHTML = "";
-            Object.keys(data).forEach(teamNo => {
-                let team = data[teamNo];
+
+            // Filter teams based on search and filters
+            let filteredTeams = filterTeams(data);
+
+            // Paginate the filtered teams
+            const startIndex = (page - 1) * teamsPerPage;
+            const endIndex = startIndex + teamsPerPage;
+            const paginatedTeams = Object.keys(filteredTeams).slice(startIndex, endIndex);
+
+            paginatedTeams.forEach(teamNo => {
+                let team = filteredTeams[teamNo];
                 let teamHTML = `
                     <div class='team-card card'>
                         <div class='card-header'>Team ${teamNo}</div>
@@ -126,7 +222,7 @@
                     teamHTML += `
                         <li class='list-group-item'>
                             <strong>${member['Student Name']}</strong> - ${member.Class} <br>
-                            Reg: ${member['Reg. No']} | Mobile: ${member['Mobile No']}
+                            Reg: ${member['Reg. No']}
                         </li>`;
                 });
                 teamHTML += `
@@ -135,28 +231,84 @@
                     </div>`;
                 container.innerHTML += teamHTML;
             });
-            localStorage.setItem("teamDetails", JSON.stringify(data));
+
+            // Update pagination buttons
+            setupPagination(filteredTeams);
         }
 
-        function searchTeams() {
+        function filterTeams(data) {
             let query = document.getElementById("searchInput").value.toLowerCase();
+            let searchType = document.getElementById("searchType").value;
+            let yearFilter = document.getElementById("yearFilter").value;
+            let deptFilter = document.getElementById("deptFilter").value;
             let filteredTeams = {};
             
-            Object.keys(teamsData).forEach(teamNo => {
+            Object.keys(data).forEach(teamNo => {
                 let teamNumberStr = teamNo.toString(); // Convert team number to string
-                let team = teamsData[teamNo].filter(member =>
-                    teamNumberStr.includes(query) ||  // Fixed team number search
-                    member['Student Name'].toLowerCase().includes(query) || 
-                    member['Reg. No'].toString().includes(query) || 
-                    member['Mobile No'].toString().includes(query)
-                );
+                let team = data[teamNo].filter(member => {
+                    let matchesSearch = false;
+                    if (searchType === "teamNo") {
+                        matchesSearch = teamNumberStr.includes(query);
+                    } else if (searchType === "name") {
+                        matchesSearch = member['Student Name'].toLowerCase().includes(query);
+                    } else if (searchType === "regNo") {
+                        matchesSearch = member['Reg. No'].toString().includes(query);
+                    }
+
+                    let matchesYear = yearFilter === "" || member.Class.includes(yearFilter);
+                    let matchesDept = deptFilter === "" || member.Class.includes(deptFilter);
+
+                    return matchesSearch && matchesYear && matchesDept;
+                });
 
                 if (team.length > 0) {
                     filteredTeams[teamNo] = team;
                 }
             });
 
-            displayTeams(filteredTeams);
+            return filteredTeams;
+        }
+
+        function setupPagination(data) {
+            const pagination = document.getElementById("pagination");
+            pagination.innerHTML = "";
+
+            const totalTeams = Object.keys(data).length;
+            const totalPages = Math.ceil(totalTeams / teamsPerPage);
+
+            for (let i = 1; i <= totalPages; i++) {
+                const pageItem = document.createElement("li");
+                pageItem.classList.add("page-item");
+                if (i === currentPage) {
+                    pageItem.classList.add("active");
+                }
+
+                const pageLink = document.createElement("a");
+                pageLink.classList.add("page-link");
+                pageLink.href = "#";
+                pageLink.textContent = i;
+                pageLink.addEventListener("click", () => {
+                    currentPage = i;
+                    displayTeams(teamsData, currentPage);
+                });
+
+                pageItem.appendChild(pageLink);
+                pagination.appendChild(pageItem);
+            }
+        }
+
+        function searchTeams() {
+            currentPage = 1;
+            displayTeams(teamsData, currentPage);
+        }
+
+        function clearFilters() {
+            document.getElementById("searchInput").value = "";
+            document.getElementById("searchType").value = "teamNo";
+            document.getElementById("yearFilter").value = "";
+            document.getElementById("deptFilter").value = "";
+            currentPage = 1;
+            displayTeams(teamsData, currentPage);
         }
     </script>
 </head>
@@ -164,10 +316,54 @@
     <a href="index.html" class="btn btn-secondary">Back</a>
     <h2 class="text-center text-info">Team Details</h2> <!-- Light Blue text for heading -->
     
-    <!-- Search Box -->
-    <input type="text" id="searchInput" class="form-control mb-4" placeholder="Search by Team No, Name, Reg No, Phone..." onkeyup="searchTeams()">
+    <!-- Search and Filters -->
+    <div class="filter-container">
+        <div>
+            <span class="filter-label">Search:</span>
+            <input type="text" id="searchInput" class="form-control custom-dropdown" placeholder="Search..." onkeyup="searchTeams()">
+        </div>
+        <div>
+            <span class="filter-label">Search By:</span>
+            <select id="searchType" class="custom-dropdown" onchange="searchTeams()">
+                <option value="teamNo">Team No</option>
+                <option value="name">Name</option>
+                <option value="regNo">Reg No</option>
+            </select>
+        </div>
+        <div>
+            <span class="filter-label">Year:</span>
+            <select id="yearFilter" class="custom-dropdown" onchange="searchTeams()">
+                <option value="">All</option>
+                <option value="II">2nd Year</option>
+                <option value="III">3rd Year</option>
+            </select>
+        </div>
+        <div>
+            <span class="filter-label">Dept:</span>
+            <select id="deptFilter" class="custom-dropdown" onchange="searchTeams()">
+                <option value="">All</option>
+                <option value="ADS">ADS</option>
+                <option value="AML">AML</option>
+                <option value="BME">BME</option>
+                <option value="CSD">CSD</option>
+                <option value="CSE">CSE</option>
+                <option value="ECE">ECE</option>
+                <option value="EEE">EEE</option>
+                <option value="FT">FT</option>
+                <option value="IT">IT</option>
+                <option value="MCT">MCT</option>
+                <option value="MECH">MECH</option>
+            </select>
+        </div>
+        <button class="clear-filters-btn" onclick="clearFilters()">Clear Filters</button>
+    </div>
     
     <!-- Team List -->
     <div id="teamList"></div>
+
+    <!-- Pagination -->
+    <nav aria-label="Page navigation">
+        <ul id="pagination" class="pagination"></ul>
+    </nav>
 </body>
 </html>
