@@ -25,7 +25,54 @@
         <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
 
         <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
+        <style>
+        .feature-card {
+          transition: transform 0.3s ease, box-shadow 0.3s ease;
+        }
+        
+        .feature-card:hover {
+          transform: translateY(-10px); /* Move the card up slightly */
+          box-shadow: 0 0 25px rgba(0, 255, 255, 0.8) !important; /* Increase the glow effect */
+        }
+        /* Hover effect for stat cards */
+        /* Hover effect for stat cards */
+.stat-card {
+  transition: transform 0.3s ease, box-shadow 0.3s ease, background-color 0.3s ease;
+}
 
+.stat-card:hover {
+  transform: translateY(-10px); /* Lift the card slightly */
+  box-shadow: 0 0 20px rgba(0, 255, 255, 0.7) !important; /* Add a glowing shadow */
+  background-color: #22272b; /* Slightly lighter background on hover */
+}
+/* Custom styles for the welcome section */
+#welcome-section h2 {
+  font-weight: bold;
+  color: #ffffff;
+}
+
+#welcome-section p {
+  font-size: 1.25rem;
+  color: #cccccc;
+}
+
+#welcome-section img {
+  border-radius: 10px; /* Optional: Adds rounded corners to the image */
+  box-shadow: 0 4px 15px rgba(0, 255, 255, 0.5); /* Optional: Adds a glowing effect */
+  margin-bottom: 1.5rem; /* Adds spacing below the image on smaller screens */
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  #welcome-section h2 {
+    font-size: 2rem; /* Smaller font size for mobile */
+  }
+
+  #welcome-section p {
+    font-size: 1rem; /* Smaller font size for mobile */
+  }
+}
+      </style>
 
     </head>
     
@@ -143,63 +190,59 @@
         
 
         <div id="stat">
-            <div id="stat" style="background-color: #000000; color: white; padding: 3rem 0;">
-                <div class="container my-4">
-                  <div class="row text-center">
-                    <!-- First Stat -->
-                    <div class="col-md-4 mb-4">
-                      <div class="card shadow border-0" style="background-color: #191c1f; color: white;">
-                        <div class="card-body">
-                          <div class="mb-3 text-light">
-                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" style="height: 32px; width: 32px;" stroke="currentColor">
-                              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" 
-                                    d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
-                            </svg>
-                          </div>
-                          <h6 class="card-subtitle mb-2 text-light">Downloads</h6>
-                          <h3 class="card-title text-white">31K</h3>
-                          <p class="card-text text-light">Jan 1st - Feb 1st</p>
-                        </div>
+          <div id="stat" style="background-color: #000000; color: white; padding: 3rem 0;">
+            <div class="container my-4">
+              <div class="row text-center">
+                <!-- First Stat -->
+                <div class="col-md-4 mb-4">
+                  <div class="card shadow border-0 stat-card" style="background-color: #191c1f; color: white;">
+                    <div class="card-body">
+                      <div class="mb-3 text-light">
+                        <!-- <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" style="height: 32px; width: 32px;" stroke="currentColor"> -->
+                          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" 
+                                d="M13 16h-1v-4h-1m1-4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path>
+                        </svg>
                       </div>
+                      <h6 class="card-subtitle mb-2 text-light">12</h6>
+                      <h3 class="card-title text-white">Departments</h3>
                     </div>
-                
-                    <!-- Second Stat -->
-                    <div class="col-md-4 mb-4">
-                      <div class="card shadow border-0" style="background-color: #191c1f; color: white;">
-                        <div class="card-body">
-                          <div class="mb-3 text-light">
-                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" style="height: 32px; width: 32px;" stroke="currentColor">
-                              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" 
-                                    d="M12 6V4m0 2a2 2 0 100 4m0-4a2 2 0 110 4m-6 8a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4m6 6v10m6-2a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4"></path>
-                            </svg>
-                          </div>
-                          <h6 class="card-subtitle mb-2 text-light">New Users</h6>
-                          <h3 class="card-title text-white">4,200</h3>
-                          <p class="card-text text-light">↗︎ 400 (22%)</p>
-                        </div>
+                  </div>
+                </div>
+        
+                <!-- Second Stat -->
+                <div class="col-md-4 mb-4">
+                  <div class="card shadow border-0 stat-card" style="background-color: #191c1f; color: white;">
+                    <div class="card-body">
+                      <div class="mb-3 text-light">
+                        <!-- <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" style="height: 32px; width: 32px;" stroke="currentColor"> -->
+                          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" 
+                                d="M12 6V4m0 2a2 2 0 100 4m0-4a2 2 0 110 4m-6 8a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4m6 6v10m6-2a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4"></path>
+                        </svg>
                       </div>
+                      <h6 class="card-subtitle mb-2 text-light">175</h6>
+                      <h3 class="card-title text-white">Teams</h3>
                     </div>
-                
-                    <!-- Third Stat -->
-                    <div class="col-md-4 mb-4">
-                      <div class="card shadow border-0" style="background-color: #191c1f; color: white;">
-                        <div class="card-body">
-                          <div class="mb-3 text-light">
-                            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" style="height: 32px; width: 32px;" stroke="currentColor">
-                              <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" 
-                                    d="M5 8h14M5 8a2 2 0 110-4h14a2 2 0 110 4M5 8v10a2 2 0 002 2h10a2 2 0 002-2V8m-9 4h4"></path>
-                            </svg>
-                          </div>
-                          <h6 class="card-subtitle mb-2 text-light">New Registers</h6>
-                          <h3 class="card-title text-white">1,200</h3>
-                          <p class="card-text text-light">↘︎ 90 (14%)</p>
-                        </div>
+                  </div>
+                </div>
+        
+                <!-- Third Stat -->
+                <div class="col-md-4 mb-4">
+                  <div class="card shadow border-0 stat-card" style="background-color: #191c1f; color: white;">
+                    <div class="card-body">
+                      <div class="mb-3 text-light">
+                        <!-- <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" style="height: 32px; width: 32px;" stroke="currentColor"> -->
+                          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" 
+                                d="M5 8h14M5 8a2 2 0 110-4h14a2 2 0 110 4M5 8v10a2 2 0 002 2h10a2 2 0 002-2V8m-9 4h4"></path>
+                        </svg>
                       </div>
+                      <h6 class="card-subtitle mb-2 text-light">700</h6>
+                      <h3 class="card-title text-white">Participants</h3>
                     </div>
                   </div>
                 </div>
               </div>
-              
+            </div>
+          </div>
         </div>
         <div id="cards">
             <!-- Features Section -->
@@ -207,7 +250,7 @@
     <div class="container">
       <div class="row text-center mb-5">
         <div class="col-lg-8 mx-auto">
-          <h2 class="fw-bold text-white">✨ Competition Highlights ✨</h2>
+          <h2 class="fw-bold text-white">Competition Highlights</h2>
           <p class="lead text-white-50">Everything you need to know about Aptithon'25</p>
         </div>
       </div>
@@ -219,7 +262,7 @@
             <div class="card-body text-center p-4">
               <div class="icon-wrapper mb-3">
                 <i class="bi bi-trophy text-white fs-1"></i>
-                <span class="ms-2 fs-2">🏆</span>
+                <span class="ms-2 fs-2"></span>
               </div>
               <h5 class="card-title text-white">₹10 Lakh Prize Pool</h5>
               <p class="card-text text-white-50">Compete for substantial cash prizes across multiple tracks and special categories.</p>
@@ -233,10 +276,10 @@
             <div class="card-body text-center p-4">
               <div class="icon-wrapper mb-3">
                 <i class="bi bi-layers text-white fs-1"></i>
-                <span class="ms-2 fs-2">🔄</span>
+                <span class="ms-2 fs-2"></span>
               </div>
-              <h5 class="card-title text-white">5 Competition Tracks</h5>
-              <p class="card-text text-white-50">Choose from AI/ML, Web/Mobile Dev, Blockchain, Cybersecurity, and Open Innovation.</p>
+              <h5 class="card-title text-white">Competitive Landscape</h5>
+              <p class="card-text text-white-50">Benchmark your performance against fellow aptitude enthusiasts and climb the prestigious leaderboards.</p>
             </div>
           </div>
         </div>
@@ -247,10 +290,10 @@
             <div class="card-body text-center p-4">
               <div class="icon-wrapper mb-3">
                 <i class="bi bi-people text-white fs-1"></i>
-                <span class="ms-2 fs-2">👥</span>
+                <span class="ms-2 fs-2"></span>
               </div>
-              <h5 class="card-title text-white">Team Size: 2-4 Members</h5>
-              <p class="card-text text-white-50">Form your dream team with 2-4 participants from any college or organization.</p>
+              <h5 class="card-title text-white">Team Size: 4 Members</h5>
+              <p class="card-text text-white-50">Form your dream team with 4 participants to compete with others</p>
             </div>
           </div>
         </div>
@@ -261,10 +304,10 @@
             <div class="card-body text-center p-4">
               <div class="icon-wrapper mb-3">
                 <i class="bi bi-calendar-event text-white fs-1"></i>
-                <span class="ms-2 fs-2">📅</span>
+                <span class="ms-2 fs-2"></span>
               </div>
-              <h5 class="card-title text-white">48-Hour Hackathon</h5>
-              <p class="card-text text-white-50">Registrations open till March 15. Main event: April 5-7, 2025 with round-the-clock coding.</p>
+              <h5 class="card-title text-white">Timed Battles</h5>
+              <p class="card-text text-white-50">Test your speed and accuracy under pressure, replicating real-world test scenarios.</p>
             </div>
           </div>
         </div>
@@ -275,10 +318,10 @@
             <div class="card-body text-center p-4">
               <div class="icon-wrapper mb-3">
                 <i class="bi bi-lightbulb text-white fs-1"></i>
-                <span class="ms-2 fs-2">💡</span>
+                <span class="ms-2 fs-2"></span>
               </div>
-              <h5 class="card-title text-white">Expert Mentorship</h5>
-              <p class="card-text text-white-50">Get guidance from industry experts from top tech companies and startups.</p>
+              <h5 class="card-title text-white">Brainiac Arena</h5>
+              <p class="card-text text-white-50">Embark on a brain-boosting journey where every question ignites your aptitude amidst inventive challenges.</p>
             </div>
           </div>
         </div>
@@ -289,27 +332,111 @@
             <div class="card-body text-center p-4">
               <div class="icon-wrapper mb-3">
                 <i class="bi bi-terminal text-white fs-1"></i>
-                <span class="ms-2 fs-2">⚙️</span>
+                <span class="ms-2 fs-2"></span>
               </div>
-              <h5 class="card-title text-white">API & Cloud Credits</h5>
-              <p class="card-text text-white-50">Access to premium APIs, cloud resources, and dev tools worth over $5000.</p>
+              <h5 class="card-title text-white">Infinite Quests</h5>
+              <p class="card-text text-white-50">Dive into an endless pool of challenges designed to push your limits and expand your problem-solving horizons..</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4">
+          <div class="card feature-card shadow-sm h-100" style="background-color: #111; border: none; box-shadow: 0 0 15px rgba(0, 255, 255, 0.5) !important;">
+            <div class="card-body text-center p-4">
+              <div class="icon-wrapper mb-3">
+                <i class="bi bi-puzzle text-white fs-1"></i>
+                <span class="ms-2 fs-2"></span>
+              </div>
+              <h5 class="card-title text-white">Mind Maze</h5>
+              <p class="card-text text-white-50">Navigate through intricate puzzles and riddles that sharpen your logical thinking and creativity.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4">
+          <div class="card feature-card shadow-sm h-100" style="background-color: #111; border: none; box-shadow: 0 0 15px rgba(0, 255, 255, 0.5) !important;">
+            <div class="card-body text-center p-4">
+              <div class="icon-wrapper mb-3">
+                <i class="bi bi-lightning text-white fs-1"></i>
+                <span class="ms-2 fs-2"></span>
+              </div>
+              <h5 class="card-title text-white">Power Play</h5>
+              <p class="card-text text-white-50">Unleash your potential with high-intensity challenges that test your focus, speed, and accuracy.</p>
+            </div>
+          </div>
+        </div>
+        <div class="col-md-6 col-lg-4">
+          <div class="card feature-card shadow-sm h-100" style="background-color: #111; border: none; box-shadow: 0 0 15px rgba(0, 255, 255, 0.5) !important;">
+            <div class="card-body text-center p-4">
+              <div class="icon-wrapper mb-3">
+                <i class="bi bi-layers text-white fs-1"></i>
+                <span class="ms-2 fs-2"></span>
+              </div>
+              <h5 class="card-title text-white">Logic Labyrinth</h5>
+              <p class="card-text text-white-50">Explore a maze of logic-based challenges that enhance your analytical and critical thinking skills.</p>
             </div>
           </div>
         </div>
       </div>
     </div>
   </section>
-  
-  <!-- Call to Action (kept the same, just for context) -->
-  <section class="py-5 bg-dark text-white text-center">
+  <section id="welcome-section" style="background-color: #000000; color: white; padding: 4rem 0;">
     <div class="container">
-      <h2 class="mb-4">Ready to Showcase Your Skills?</h2>
-      <p class="lead mb-4">Join 5000+ participants from 500+ colleges across the country</p>
-      <a href="#" class="btn btn-register btn-lg">Register Now</a>
+      <!-- First Section: Lottie Left, Content Right -->
+      <div class="row align-items-center mb-5">
+        <!-- Lottie Animation Container -->
+        <div class="col-12 col-md-6 order-2 order-md-1 text-center text-md-start">
+          <div id="lottie-animation-1" style="width: 100%; height: 300px;"></div>
+        </div>
+        <!-- Text Column -->
+        <div class="col-12 col-md-6 order-1 order-md-2">
+          <h2 class="display-4 mb-4">Welcome to Agitthon: Where Minds Meet Challenges!</h2>
+          <p class="lead">
+            Welcome to Agitthon, a premier intra-college event focused on enhancing the
+            aptitude skills of students across various departments and years. This thrilling
+            competition encompasses facets such as reasoning, verbal and non-verbal abilities,
+            along with challenging puzzles. Designed to foster a competitive spirit, Agitthon
+            provides a platform for participants to showcase their analytical prowess and
+            problem-solving abilities, with a substantial prize amount up for grabs.
+          </p>
+        </div>
+      </div>
+
+      <!-- Second Section: Lottie Right, Content Left -->
+      <div class="row align-items-center">
+        <!-- Text Column -->
+        <div class="col-12 col-md-6">
+          <h2 class="display-4 mb-4">Aptithon Odyssey: Conquer Challenges, Claim Rewards!</h2>
+          <p class="lead">
+            Gear up for a challenging yet rewarding experience that will put your aptitude skills to the test. Substantial prizes await those who conquer the challenges at Aptithon. Are you ready to showcase your brilliance? May the most adept minds triumph! Good luck!
+          </p>
+        </div>
+        <!-- Lottie Animation Container -->
+        <div class="col-12 col-md-6 text-center text-md-end">
+          <div id="lottie-animation-2" style="width: 100%; height: 300px;"></div>
+        </div>
+      </div>
     </div>
   </section>
-        </div>
-        
+  </div>
 
     </body>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lottie-web/5.9.4/lottie.min.js"></script>
+    <script>
+      // Load the first Lottie animation
+      lottie.loadAnimation({
+        container: document.getElementById('lottie-animation-1'), // Target container
+        renderer: 'svg', // Renderer type
+        loop: true, // Loop the animation
+        autoplay: true, // Start playing automatically
+        path: 'Animation/Animation-1.json' // Path to the first JSON file
+      });
+    
+      // Load the second Lottie animation
+      lottie.loadAnimation({
+        container: document.getElementById('lottie-animation-2'), // Target container
+        renderer: 'svg', // Renderer type
+        loop: true, // Loop the animation
+        autoplay: true, // Start playing automatically
+        path: 'Animation/Animation-2.json' // Path to the second JSON file
+      });
+    </script>
 </html>
