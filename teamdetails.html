@@ -255,8 +255,10 @@
                         matchesSearch = member['Reg. No'].toString().includes(query);
                     }
 
-                    let matchesYear = yearFilter === "" || member.Class.includes(yearFilter);
-                    let matchesDept = deptFilter === "" || member.Class.includes(deptFilter);
+                     // Year Filter Logic
+            let matchesYear = yearFilter === "" || member.Year === yearFilter;
+            // Department Filter Logic
+            let matchesDept = deptFilter === "" || member.Department.includes(deptFilter);
 
                     return matchesSearch && matchesYear && matchesDept;
                 });
@@ -276,6 +278,26 @@
             const totalTeams = Object.keys(data).length;
             const totalPages = Math.ceil(totalTeams / teamsPerPage);
 
+            // Previous Button
+            const prevItem = document.createElement("li");
+            prevItem.classList.add("page-item");
+            if (currentPage === 1) {
+                prevItem.classList.add("disabled");
+            }
+            const prevLink = document.createElement("a");
+            prevLink.classList.add("page-link");
+            prevLink.href = "#";
+            prevLink.textContent = "Previous";
+            prevLink.addEventListener("click", () => {
+                if (currentPage > 1) {
+                    currentPage--;
+                    displayTeams(teamsData, currentPage);
+                }
+            });
+            prevItem.appendChild(prevLink);
+            pagination.appendChild(prevItem);
+
+            // Page Numbers
             for (let i = 1; i <= totalPages; i++) {
                 const pageItem = document.createElement("li");
                 pageItem.classList.add("page-item");
@@ -295,6 +317,25 @@
                 pageItem.appendChild(pageLink);
                 pagination.appendChild(pageItem);
             }
+
+            // Next Button
+            const nextItem = document.createElement("li");
+            nextItem.classList.add("page-item");
+            if (currentPage === totalPages) {
+                nextItem.classList.add("disabled");
+            }
+            const nextLink = document.createElement("a");
+            nextLink.classList.add("page-link");
+            nextLink.href = "#";
+            nextLink.textContent = "Next";
+            nextLink.addEventListener("click", () => {
+                if (currentPage < totalPages) {
+                    currentPage++;
+                    displayTeams(teamsData, currentPage);
+                }
+            });
+            nextItem.appendChild(nextLink);
+            pagination.appendChild(nextItem);
         }
 
         function searchTeams() {
