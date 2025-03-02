@@ -143,13 +143,15 @@
         }
 
         .page-item {
-            margin: 0 5px;
+            margin: 0 2px; /* Reduced margin for smaller screens */
         }
 
         .page-link {
             background-color: #222;
             border: 1px solid #00bfff;
             color: #00bfff;
+            font-size: 14px; /* Smaller font size for pagination */
+            padding: 5px 10px; /* Smaller padding for pagination */
         }
 
         .page-link:hover {
@@ -161,6 +163,11 @@
             background-color: #00bfff;
             border-color: #00bfff;
             color: #000;
+        }
+
+        /* Ellipsis Styling */
+        .page-item.ellipsis {
+            pointer-events: none; /* Disable clicks on ellipsis */
         }
 
         /* Label Styling */
@@ -255,10 +262,10 @@
                         matchesSearch = member['Reg. No'].toString().includes(query);
                     }
 
-                     // Year Filter Logic
-            let matchesYear = yearFilter === "" || member.Year === yearFilter;
-            // Department Filter Logic
-            let matchesDept = deptFilter === "" || member.Department.includes(deptFilter);
+                    // Year Filter Logic
+                    let matchesYear = yearFilter === "" || member.Year === yearFilter;
+                    // Department Filter Logic
+                    let matchesDept = deptFilter === "" || member.Department.includes(deptFilter);
 
                     return matchesSearch && matchesYear && matchesDept;
                 });
@@ -297,8 +304,37 @@
             prevItem.appendChild(prevLink);
             pagination.appendChild(prevItem);
 
-            // Page Numbers
-            for (let i = 1; i <= totalPages; i++) {
+            // Page Numbers with Ellipsis
+            const maxPagesToShow = 5; // Maximum number of page numbers to show
+            let startPage = Math.max(1, currentPage - Math.floor(maxPagesToShow / 2));
+            let endPage = Math.min(totalPages, startPage + maxPagesToShow - 1);
+
+            if (startPage > 1) {
+                const firstPageItem = document.createElement("li");
+                firstPageItem.classList.add("page-item");
+                const firstPageLink = document.createElement("a");
+                firstPageLink.classList.add("page-link");
+                firstPageLink.href = "#";
+                firstPageLink.textContent = "1";
+                firstPageLink.addEventListener("click", () => {
+                    currentPage = 1;
+                    displayTeams(teamsData, currentPage);
+                });
+                firstPageItem.appendChild(firstPageLink);
+                pagination.appendChild(firstPageItem);
+
+                if (startPage > 2) {
+                    const ellipsisItem = document.createElement("li");
+                    ellipsisItem.classList.add("page-item", "ellipsis");
+                    const ellipsisLink = document.createElement("a");
+                    ellipsisLink.classList.add("page-link");
+                    ellipsisLink.textContent = "...";
+                    ellipsisItem.appendChild(ellipsisLink);
+                    pagination.appendChild(ellipsisItem);
+                }
+            }
+
+            for (let i = startPage; i <= endPage; i++) {
                 const pageItem = document.createElement("li");
                 pageItem.classList.add("page-item");
                 if (i === currentPage) {
@@ -316,6 +352,31 @@
 
                 pageItem.appendChild(pageLink);
                 pagination.appendChild(pageItem);
+            }
+
+            if (endPage < totalPages) {
+                if (endPage < totalPages - 1) {
+                    const ellipsisItem = document.createElement("li");
+                    ellipsisItem.classList.add("page-item", "ellipsis");
+                    const ellipsisLink = document.createElement("a");
+                    ellipsisLink.classList.add("page-link");
+                    ellipsisLink.textContent = "...";
+                    ellipsisItem.appendChild(ellipsisLink);
+                    pagination.appendChild(ellipsisItem);
+                }
+
+                const lastPageItem = document.createElement("li");
+                lastPageItem.classList.add("page-item");
+                const lastPageLink = document.createElement("a");
+                lastPageLink.classList.add("page-link");
+                lastPageLink.href = "#";
+                lastPageLink.textContent = totalPages;
+                lastPageLink.addEventListener("click", () => {
+                    currentPage = totalPages;
+                    displayTeams(teamsData, currentPage);
+                });
+                lastPageItem.appendChild(lastPageLink);
+                pagination.appendChild(lastPageItem);
             }
 
             // Next Button
