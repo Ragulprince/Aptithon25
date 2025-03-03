@@ -26,18 +26,31 @@
 
         <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons/font/bootstrap-icons.css" rel="stylesheet">
         <style>
-        .feature-card {
-          transition: transform 0.3s ease, box-shadow 0.3s ease;
-        }
-        
-        .feature-card:hover {
-          transform: translateY(-10px); /* Move the card up slightly */
-          box-shadow: 0 0 25px rgba(0, 255, 255, 0.8) !important; /* Increase the glow effect */
-        }
-        /* Hover effect for stat cards */
-        /* Hover effect for stat cards */
+.float-wrapper {
+  animation: float 3s ease-in-out infinite; /* Floating animation */
+}
+
+.feature-card {
+  background-color: #111; /* Dark background */
+  border: none;
+  border-radius: 10px; /* Rounded corners */
+  box-shadow: 0 0 40px rgba(0, 255, 255, 0.9), 0 0 80px rgba(0, 255, 255, 0.7), 0 0 120px rgba(0, 255, 255, 0.5); /* Larger neon glow */
+  transition: transform 0.3s ease, box-shadow 0.3s ease, background-color 0.3s ease; /* Smooth transitions */
+  cursor: pointer; /* Add pointer cursor to indicate interactivity */
+}
+
+.feature-card:hover {
+  transform: scale(1.05); /* Slight zoom on hover */
+  box-shadow: 0 0 60px rgba(0, 255, 255, 1), 0 0 120px rgba(0, 255, 255, 0.9), 0 0 180px rgba(0, 255, 255, 0.7); /* Enhanced larger neon glow on hover */
+  background-color: rgba(0, 255, 255, 0.9); /* Slightly lighter background on hover */
+}
 .stat-card {
-  transition: transform 0.3s ease, box-shadow 0.3s ease, background-color 0.3s ease;
+  background-color: #111; /* Dark background */
+  border: none;
+  border-radius: 10px; /* Rounded corners */
+  box-shadow: 0 0 20px rgba(0, 255, 255, 0.9), 0 0 40px rgba(0, 255, 255, 0.7), 0 0 60px rgba(0, 255, 255, 0.5); /* Strong neon glow */
+  transition: transform 0.3s ease, box-shadow 0.3s ease, background-color 0.3s ease; /* Smooth transitions */
+  cursor: pointer; /* Add pointer cursor to indicate interactivity */
 }
 
 .stat-card:hover {
@@ -45,7 +58,18 @@
   box-shadow: 0 0 20px rgba(0, 255, 255, 0.7) !important; /* Add a glowing shadow */
   background-color: #22272b; /* Slightly lighter background on hover */
 }
-/* Custom styles for the welcome section */
+
+@media (max-width: 768px) {
+      .prize-section h2 {
+        font-size: 2rem;
+      }
+      .prize-section p {
+        font-size: 1rem;
+      }
+      .poster-container img {
+        width: 250px; /* Adjusted poster size for smaller screens */
+      }
+    }
 #welcome-section h2 {
   font-weight: bold;
   color: #ffffff;
@@ -107,7 +131,7 @@
                     <a class="nav-link text-white px-3" href="blog.html">Blogs</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-white px-3" href="#">Prizes</a>
+                    <a class="nav-link text-white px-3" href="prize.html">Prizes</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link text-white px-3" href="gallery.html">Photo gallery</a>
