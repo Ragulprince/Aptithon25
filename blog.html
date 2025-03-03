@@ -38,6 +38,12 @@
       font-size: 1.25rem;
       color: #cccccc;
     }
+    .back-button {
+      position: absolute; /* Position the button absolutely */
+      top: 10px; /* Distance from the top */
+      left: 10px; /* Distance from the left */
+      z-index: 1000; /* Ensure it's above other content */
+    }
     #welcome-section img {
       border-radius: 10px; /* Optional: Adds rounded corners to the image */
       box-shadow: 0 4px 15px rgba(0, 255, 255, 0.5); /* Optional: Adds a glowing effect */
@@ -55,6 +61,7 @@
   </style>
 </head>
 <body>
+    <a href="index.html" class="btn btn-secondary back-button">Back</a>
   <section id="welcome-section" class="py-5">
     <div class="container">
       <div class="text-start mb-3">
