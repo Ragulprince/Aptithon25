@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Poster Page</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Unbounded:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Unbounded', sans-serif;
+      background-color: #000;
+      color: white;
+    }
+    .poster-container {
+      display: flex;
+      flex-wrap: wrap; /* Allow posters to wrap on smaller screens */
+      justify-content: center;
+      gap: 2rem; /* Space between posters */
+      margin: 2rem 0;
+    }
+    .poster-container a {
+      text-decoration: none; /* Remove underline from links */
+    }
+    .poster-container img {
+      border-radius: 10px;
+      width: 100%;
+      max-width: 400px; /* Increased poster size */
+      height: auto;
+      cursor: pointer;
+      animation: float 3s ease-in-out infinite, neon-glow 2s ease-in-out infinite alternate;
+      box-shadow: 0 0 10px rgba(0, 255, 255, 0.8), 0 0 20px rgba(0, 255, 255, 0.6), 0 0 30px rgba(0, 255, 255, 0.4);
+    }
+    @keyframes float {
+      0%, 100% {
+        transform: translateY(0);
+      }
+      50% {
+        transform: translateY(-10px);
+      }
+    }
+    @keyframes neon-glow {
+      0% {
+        box-shadow: 0 0 10px rgba(0, 255, 255, 0.8), 0 0 20px rgba(0, 255, 255, 0.6), 0 0 30px rgba(0, 255, 255, 0.4);
+      }
+      100% {
+        box-shadow: 0 0 20px rgba(0, 255, 255, 1), 0 0 40px rgba(0, 255, 255, 0.8), 0 0 60px rgba(0, 255, 255, 0.6);
+      }
+    }
+    .year-text {
+      text-align: center;
+      font-size: 1.25rem;
+      color: #cccccc;
+      margin-top: 1rem;
+    }
+    .back-button {
+      position: fixed;
+      top: 20px;
+      left: 20px;
+      z-index: 1000;
+      background-color: rgba(255, 255, 255, 0.1);
+      border: none;
+      color: white;
+      padding: 10px 20px;
+      border-radius: 5px;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+    }
+    .back-button:hover {
+      background-color: rgba(255, 255, 255, 0.2);
+    }
+    .intro-text {
+      text-align: center;
+      margin: 2rem auto;
+      max-width: 800px;
+      font-size: 1.1rem;
+      color: #cccccc;
+      line-height: 1.6;
+    }
+    .header {
+      text-align: center;
+      font-size: 2.5rem;
+      font-weight: bold;
+      color: #ffffff;
+      margin-top: 2rem;
+      margin-bottom: 1rem;
+    }
+    @media (max-width: 768px) {
+      .poster-container img {
+        max-width: 300px; /* Adjusted poster size for smaller screens */
+      }
+      .intro-text {
+        font-size: 1rem;
+        padding: 0 1rem;
+      }
+      .header {
+        font-size: 2rem; /* Smaller header for mobile */
+      }
+    }
+  </style>
+</head>
+<body>
+  <!-- Back Button -->
+  <button class="back-button" onclick="window.location.href='index.html'">Back</button>
+
+  <section class="poster-section py-5">
+    <div class="container">
+      <!-- Header -->
+      <div class="header">Aptithon Photogallery</div>
+
+      <!-- Introductory Paragraph -->
+      <div class="intro-text">
+        <p>
+          Welcome to Aptithon 2025! This year, we are thrilled to present an exciting lineup of events and competitions designed to challenge your skills and creativity. Whether you're a seasoned participant or a first-time attendee, there's something for everyone. Below, you'll find the posters for this year's events. Click on any poster to learn more and get involved. Let's make Aptithon 2025 the best one yet!
+        </p>
+      </div>
+
+      <!-- Posters Row -->
+      <div class="poster-container">
+        <!-- Poster 1 -->
+        <div>
+          <a href="gallery.html">
+            <img src="./images/image_4.JPG" alt="Poster 1">
+          </a>
+          <div class="year-text">Aptithon 2023</div>
+        </div>
+
+        <!-- Poster 2 -->
+        <div>
+          <a href="gallery1.html">
+            <img src="./images/2023 group.jpg" alt="Poster 2">
+          </a>
+          <div class="year-text">Aptithon 2024</div>
+        </div>
+
+        <!-- Poster 3 -->
+        <div>
+            <img src="./images/coming soon.avif" alt="Poster 3">
+          <div class="year-text">Aptithon 2025</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
