@@ -202,9 +202,9 @@
 
     <div class="card">
         <div class="icon"><i class="fas fa-comments"></i></div>
-        <h3>Sample Questions </h3>
+        <h3>Crypt Arithmetic</h3>
         <div class="lottie-container" id="lottie-sample"></div>
-        <button class="download-btn" onclick="downloadFile('sample')">Download</button>
+        <button class="download-btn" onclick="downloadFile('Crypt')">Download</button>
     </div>
 
 </div>
@@ -251,19 +251,43 @@
                 fileUrl = './files/Verbal_ability.pdf';
                 break;
             case 'puzzles':
-                fileUrl = './files/Puzzle.pdf';
+                // Download two files for puzzles
+                downloadMultipleFiles(['./files/Puzzle.pdf', './files/Number.pdf']);
                 break;
+
             case 'non-verbal':
                 fileUrl = './files/Non_verbal.pdf';
                 break;
-            case 'sample':
-                fileUrl = './files/Sample.pdf';
+            case 'Crypt':
+                fileUrl ='./files/Crypt.pdf';
                 break;
             default:
                 fileUrl = '#';
         }
         window.open(fileUrl, '_blank');
     }
+    function downloadMultipleFiles(fileUrls) {
+    let downloadedCount = 0;
+
+    fileUrls.forEach((fileUrl) => {
+        const link = document.createElement('a');
+        link.href = fileUrl;
+        link.download = fileUrl.split('/').pop(); // Extract filename from URL
+        document.body.appendChild(link);
+        link.click();
+        document.body.removeChild(link);
+
+        // Increment the downloaded count
+        downloadedCount++;
+
+        // If all files are downloaded, open both files
+        if (downloadedCount === fileUrls.length) {
+            fileUrls.forEach((url) => {
+                window.open(url, '_blank');
+            });
+        }
+    });
+}
 </script>
 
         <!-- FAQ Section -->
