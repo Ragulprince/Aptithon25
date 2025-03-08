@@ -1,0 +1,393 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" type="image/x-icon" href="./images/logo.png">
+  <title>Gallery - Aptithon'25</title>
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <!-- Lottie Player -->
+  <script src="https://unpkg.com/@lottiefiles/lottie-player@latest/dist/lottie-player.js"></script>
+  <!-- Custom CSS -->
+  <style>
+    @import url("https://fonts.googleapis.com/css2?family=Kalam:wght@400&display=swap");
+    :root {
+      --adjust-size: 0px; /* Adjust as needed */
+    }
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    html,
+    body {
+      overscroll-behavior-x: none;
+      overscroll-behavior-y: none;
+      scroll-behavior: smooth;
+    }
+    body {
+      position: relative;
+      color: #222;
+      font-family: "Kalam", sans-serif;
+      min-height: 100vh;
+      overflow-x: hidden;
+      background-image: url("https://images.unsplash.com/photo-1546872003-917e15185482?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D");
+      background-size: cover;
+    }
+    main {
+      position: relative;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      max-width: 100vw;
+      min-height: 100vh;
+      overflow-x: hidden;
+    }
+    p {
+      line-height: 1;
+    }
+    a {
+      color: crimson;
+      text-decoration: none;
+    }
+    img {
+      -moz-user-select: none;
+      -webkit-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+      pointer-events: none;
+    }
+    #gallery {
+      position: relative;
+      left: calc(-1 * var(--adjust-size));
+      display: grid;
+      grid-template-columns: repeat(3, 1fr); /* 3 photos in a row */
+      gap: 20px;
+      max-width: 100vw;
+      padding: 20px;
+      -webkit-perspective: 0;
+      perspective: 0;
+    }
+    #gallery figure:nth-child(7n) {
+      --duration: 1s;
+      --pin-color: crimson;
+    }
+    #gallery figure:nth-child(7n + 1) {
+      --duration: 1.8s;
+      --pin-color: hotpink;
+    }
+    #gallery figure:nth-child(7n + 2) {
+      --duration: 1.3s;
+      --pin-color: magenta;
+    }
+    #gallery figure:nth-child(7n + 3) {
+      --duration: 1.5s;
+      --pin-color: orangered;
+    }
+    #gallery figure:nth-child(7n + 4) {
+      --duration: 1.1s;
+      --pin-color: darkorchid;
+    }
+    #gallery figure:nth-child(7n + 5) {
+      --duration: 1.6s;
+      --pin-color: deeppink;
+    }
+    #gallery figure:nth-child(7n + 6) {
+      --duration: 1.2s;
+      --pin-color: mediumvioletred;
+    }
+    #gallery figure:nth-child(3n) {
+      --angle: 3deg;
+    }
+    #gallery figure:nth-child(3n + 1) {
+      --angle: -3.3deg;
+    }
+    #gallery figure:nth-child(3n + 2) {
+      --angle: 2.4deg;
+    }
+    #gallery figure:nth-child(odd) {
+      --direction: alternate;
+    }
+    #gallery figure:nth-child(even) {
+      --direction: alternate-reverse;
+    }
+    #gallery figure {
+      --angle: 3deg;
+      --count: 5;
+      --duration: 1s;
+      --delay: calc(-0.5 * var(--duration));
+      --direction: alternate;
+      --pin-color: red;
+
+      position: relative;
+      display: inline-block;
+      margin: var(--adjust-size);
+      padding: 0.5rem;
+      border-radius: 5px;
+      box-shadow: 0 7px 8px rgba(0, 0, 0, 0.4);
+      width: 100%;
+      height: auto;
+      text-align: center;
+      background-color: ghostwhite;
+      background-image: url("https://images.unsplash.com/photo-1629968417850-3505f5180761?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wzMjM4NDZ8MHwxfHJhbmRvbXx8fHx8fHx8fDE2OTMzMjQ3ODJ8&ixlib=rb-4.0.3&q=80&w=500");
+      background-size: cover;
+      background-position: center;
+      background-blend-mode: multiply;
+
+      transform-origin: center 0.22rem;
+      will-change: transform;
+      break-inside: avoid;
+      overflow: hidden;
+      outline: 1px solid transparent;
+      -webkit-backface-visibility: hidden;
+      backface-visibility: hidden;
+    }
+    #gallery.active figure {
+      animation-duration: var(--duration), 1.5s;
+      animation-delay: var(--delay),
+        calc(var(--delay) + var(--duration) * var(--count));
+      animation-timing-function: ease-in-out;
+      animation-iteration-count: var(--count), 1;
+      animation-direction: var(--direction), normal;
+      animation-fill-mode: both;
+      animation-name: swing, swingEnd;
+    }
+    #gallery figure:after {
+      position: absolute;
+      top: 0.22rem;
+      left: 50%;
+      width: 0.7rem;
+      height: 0.7rem;
+      content: "";
+      background: var(--pin-color);
+      border-radius: 50%;
+      box-shadow: -0.1rem -0.1rem 0.3rem 0.02rem rgba(0, 0, 0, 0.5) inset;
+      filter: drop-shadow(0.3rem 0.15rem 0.2rem rgba(0, 0, 0, 0.5));
+      transform: translateZ(0);
+      z-index: 2;
+    }
+    figure img {
+      aspect-ratio: 1 /1;
+      width: 100%;
+      object-fit: cover;
+      display: block;
+      border-radius: 5px;
+      margin-bottom: 10px;
+      z-index: 1;
+    }
+    figure lottie-player {
+      aspect-ratio: 1 /1;
+      width: 100%;
+      display: block;
+      border-radius: 5px;
+      margin-bottom: 10px;
+      z-index: 1;
+    }
+    figure figcaption {
+      color: black;
+      font-size: 14px;
+      font-weight: 400;
+      overflow: hidden;
+      white-space: nowrap;
+      text-overflow: ellipsis;
+      z-index: 1;
+    }
+    figure h2 {
+      color: crimson;
+      font-size: 22px;
+    }
+    figure p {
+      font-size: 17px;
+    }
+    figure small {
+      font-size: 12px;
+    }
+    figure > div {
+      width: 100%;
+      height: 100%;
+      position: relative;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    @keyframes swing {
+      0% {
+        transform: rotate3d(0, 0, 1, calc(-1 * var(--angle)));
+      }
+      100% {
+        transform: rotate3d(0, 0, 1, var(--angle));
+      }
+    }
+    @keyframes swingEnd {
+      to {
+        transform: rotate3d(0, 0, 1, 0deg);
+      }
+    }
+    #info {
+      position: relative;
+      text-align: center;
+      z-index: 1;
+    }
+    #info a {
+      font-size: 1.1rem;
+    }
+
+    /* Responsive Design */
+    @media (max-width: 768px) {
+      #gallery {
+        grid-template-columns: repeat(2, 1fr); /* 2 photos in a row for tablets */
+      }
+    }
+    @media (max-width: 576px) {
+      #gallery {
+        grid-template-columns: repeat(1, 1fr); /* 1 photo in a row for mobile */
+      }
+    }
+    .back-button .btn {
+      color: white; /* Text color set to white */
+      border: none;
+      padding: 10px 20px;
+      border-radius: 5px;
+      font-family: 'Kalam', cursive;
+      text-decoration: none; /* Remove underline from link */
+    }
+    figure .loading-text {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      font-size: 18px;
+      font-weight: bold;
+      color: #000000; /* Neon green text */
+      z-index: 1;
+    }
+
+  </style>
+</head>
+<body>
+  <!-- Back Button -->
+  <div class="back-button">
+    <a href="photogalley.html" class="btn">Back</a>
+  </div>
+
+  <!-- Gallery -->
+  <main>
+    <div id="gallery">
+      <!-- Lottie Animations for the first three figures -->
+      <figure>
+        <div class="loading-text">Winners Loading...</div>
+        <lottie-player
+          src="./Animation/loading.json"
+          background="transparent"
+          speed="1"
+          loop
+          autoplay
+        ></lottie-player>
+        <figcaption>2025 Aptithon, first prize winners</figcaption>
+      </figure>
+      <figure>
+        <div class="loading-text">Winners Loading...</div>
+        <lottie-player
+          src="./Animation/loading.json"
+          background="transparent"
+          speed="1"
+          loop
+          autoplay
+        ></lottie-player>
+        <figcaption>2024 Aptithon, second prize winners</figcaption>
+      </figure>
+      <figure>
+        <div class="loading-text">Winners Loading...</div>
+        <lottie-player
+          src="./Animation/loading.json"
+          background="transparent"
+          speed="1"
+          loop
+          autoplay
+        ></lottie-player>
+        <figcaption>2024 Aptithon, third prize winners</figcaption>
+      </figure>
+
+      <!-- Rest of the images -->
+      <figure>
+        <img src="./2025 gallery/IMG-20250308-WA0022.jpg">
+        <figcaption>Collaboration</figcaption>
+      </figure>
+      <figure>
+        <img src="./2025 gallery/IMG-20250307-WA0032.jpg">
+        <figcaption>Team Work</figcaption>
+      </figure>
+      <figure>
+        <img src="./2025 gallery/IMG-20250307-WA0010.jpg">
+        <figcaption>Mentor guidance</figcaption>
+      </figure>
+      <figure>
+        <img src="./2025 gallery/IMG-20250308-WA0019.jpg">
+        <figcaption>Happy faces</figcaption>
+      </figure>
+      <figure>
+        <img src="./2025 gallery/IMG-20250308-WA0013.jpg">
+        <figcaption>Aptitude Training team</figcaption>
+      </figure>
+      <figure>
+        <img src="./2025 gallery/IMG-20250308-WA0020.jpg">
+        <figcaption>Joyful moments</figcaption>
+      </figure>
+      <figure>
+        <img src="./2025 gallery/IMG-20250308-WA0033.jpg">
+        <figcaption>Positive Mindset</figcaption>
+      </figure>
+      <figure>
+        <img src="./2025 gallery/IMG-20250308-WA0028.jpg">
+        <figcaption>Focused on the goal</figcaption>
+      </figure>
+      <figure>
+        <img src="./2025 gallery/IMG-20250308-WA0027.jpg">
+        <figcaption>Leadership</figcaption>
+      </figure>
+    </div>
+  </main>
+
+  <!-- Bootstrap JS -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+  <!-- Custom JS -->
+  <script>
+    /*!
+Swaying photo gallery - scroll event
+Created on AUGUST 29, 2023
+Copyright (c) 2023 by Wakana Y.K. (https://codepen.io/wakana-k/pen/WNLrWMm)
+*/
+/*
+Related works : 
+Portforio design @wakana-k - https://codepen.io/wakana-k/pen/BaxKKvE
+Swaying photo gallery - hover event @wakana-k - https://codepen.io/wakana-k/pen/oNJxbPw
+*/
+"use strict";
+(function () {
+	window.onload = () => {
+		const obj = document.querySelector("#gallery");
+		const time = 10000;
+		function animStart() {
+			if (obj.classList.contains("active") == false) {
+				obj.classList.add("active");
+				setTimeout(() => {
+					animEnd();
+				}, time);
+			}
+		}
+		function animEnd() {
+			obj.classList.remove("active");
+			obj.offsetWidth;
+		}
+		document.addEventListener("scroll", function () {
+			// scroll or scrollend
+			animStart();
+		});
+		window.addEventListener("resize", animStart);
+		animStart();
+	};
+})();
+  </script>
+</body>
+</html>
